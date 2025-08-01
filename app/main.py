@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
+from pathlib import Path
 
 
 app = FastAPI()
@@ -13,9 +14,18 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# BASE_DIR aponta para a pasta app/
+BASE_DIR = Path(__file__).resolve().parent
 
-@app.get("/")
-def read_root():
-    df1 = pd.read_csv("Aulas.csv")
-    df2 = pd.read_csv("base.csv")
-    return { df1.to_dict(orient="records"), df2.to_dict(orient="records")}
+@app.get("/aulas")
+def get_aulas():
+    arquivo = BASE_DIR / "data" / "Aulas.csv"
+    df = pd.read_csv(arquivo)
+    return df.to_dict(orient="records")
+
+@app.get("/base")
+def get_base():
+    # monta o path correto para o seu CSV em app/data
+    arquivo = BASE_DIR / "data" / "base.csv"
+    df = pd.read_csv(arquivo)
+    return df.to_dict(orient="records")
