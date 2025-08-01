@@ -1,0 +1,2089 @@
+ID_Cliente,Motivo,Education,Cidade,Renda_anual,Aulas,NPS,Num_Aulas,Ano_de_nascimento,Banheiros_na_casa,Quartos_na_casa,Idade,Categoria_Renda,Faixa_Etaria
+0,Viagem,Graduação,São Paulo,58138.0,Inglês,4,19,1983,3.0,4.0,42,Alta,Sênior
+1,Trabalho,Graduação,Taubaté,46344.0,Espanhol,4,10,1980,4.0,3.0,45,Média,Sênior
+2,Estudos,Graduação,São Bernardo,71613.0,Inglês,3,59,1991,4.0,5.0,34,Alta,Adulto
+3,Viagem,Graduação,São Paulo,23046.0,Espanhol,4,22,2010,1.0,1.0,15,Baixa,Jovem
+4,Trabalho,Doutorado,São Paulo,58293.0,Inglês,3,8,2007,3.0,4.0,18,Alta,Jovem
+5,Trabalho,Mestrado,São Paulo,60474.0,Espanhol,3,9,1993,4.0,4.0,32,Alta,Adulto
+6,Viagem,Graduação,São Paulo,55635.0,Espanhol,4,12,1997,2.0,4.0,28,Alta,Adulto
+7,Estudos,Doutorado,Campinas,33454.0,Inglês,3,45,2011,2.0,2.0,14,Baixa,Jovem
+8,Trabalho,Doutorado,São Paulo,30351.0,Inglês,4,45,2000,1.0,2.0,25,Baixa,Jovem
+9,Trabalho,Doutorado,São Bernardo,5648.0,Inglês,5,12,1976,1.0,1.0,49,Baixa,Sênior
+10,Estudos,Graduação,São Paulo,52247.25135379061,Inglês,4,29,2009,3.0,1.0,16,Média,Jovem
+11,Viagem,Ensino Fundamental,Taubaté,7500.0,Espanhol,4,10,2002,2.0,1.0,23,Baixa,Jovem
+12,Estudos,Graduação,São Bernardo,63033.0,Inglês,3,44,1985,4.0,5.0,40,Alta,Adulto
+13,Trabalho,Mestrado,São Paulo,59354.0,Espanhol,1,4,1978,4.0,4.0,47,Alta,Sênior
+14,Estudos,Graduação,São Paulo,17323.0,Espanhol,4,16,2013,1.0,1.0,12,Baixa,Jovem
+15,Viagem,Doutorado,São Paulo,82800.0,Inglês,3,14,1972,5.0,6.0,53,Alta,Sênior
+16,Estudos,Graduação,São Paulo,41850.0,Espanhol,2,14,2006,2.0,3.0,19,Média,Jovem
+17,Viagem,Graduação,São Paulo,37760.0,Espanhol,4,14,1972,2.0,2.0,53,Média,Sênior
+18,Trabalho,Mestrado,São Paulo,76995.0,Inglês,4,17,1975,5.0,6.0,50,Alta,Sênior
+19,Outros,Ensino Médio,São Paulo,33812.0,Espanhol,4,5,2011,2.0,2.0,14,Baixa,Jovem
+20,Estudos,Graduação,São Paulo,37040.0,Espanhol,2,17,2008,2.0,2.0,17,Média,Jovem
+21,Estudos,Graduação,São Paulo,2447.0,Espanhol,1,3,2005,1.0,1.0,20,Baixa,Jovem
+22,Trabalho,Doutorado,São Paulo,58607.0,Inglês,2,11,1975,4.0,4.0,50,Alta,Sênior
+24,Viagem,Graduação,São Paulo,40689.0,Espanhol,1,13,1977,2.0,3.0,48,Média,Sênior
+25,Trabalho,Graduação,São Bernardo,18589.0,Espanhol,2,21,1995,1.0,1.0,30,Baixa,Adulto
+26,Viagem,Graduação,São Paulo,53359.0,Inglês,2,5,2002,3.0,4.0,23,Média,Jovem
+27,Estudos,Graduação,São Paulo,52247.25135379061,Inglês,3,10,2012,3.0,1.0,13,Média,Jovem
+28,Estudos,Graduação,São Paulo,38360.0,Espanhol,4,5,2015,2.0,2.0,10,Média,Jovem
+30,Viagem,Mestrado,São Paulo,10979.0,Espanhol,4,7,2015,1.0,1.0,10,Baixa,Jovem
+31,Trabalho,Mestrado,São Paulo,38620.0,Espanhol e Inglês,2,36,1989,2.0,2.0,36,Média,Adulto
+32,Estudos,Graduação,São Paulo,40548.0,Espanhol,1,10,1996,1.0,3.0,29,Média,Adulto
+33,Estudos,Doutorado,Campinas,46610.0,Inglês,2,2,1978,4.0,3.0,47,Média,Sênior
+34,Trabalho,Mestrado,Taubaté,68657.0,Espanhol,2,7,1972,5.0,5.0,53,Alta,Sênior
+36,Trabalho,Doutorado,São Paulo,67353.0,Inglês,2,21,1996,4.0,5.0,29,Alta,Adulto
+37,Estudos,Ensino Médio,São Paulo,23718.0,Inglês,1,8,2002,1.0,1.0,23,Baixa,Jovem
+38,Estudos,Graduação,São Paulo,42429.0,Espanhol,2,2,1999,2.0,3.0,26,Média,Adulto
+40,Estudos,Graduação,São Paulo,80011.0,Espanhol,1,10,2006,5.0,6.0,19,Alta,Jovem
+41,Trabalho,Mestrado,São Paulo,20559.0,Espanhol,1,5,2011,1.0,1.0,14,Baixa,Jovem
+42,Trabalho,Graduação,São Paulo,21994.0,Espanhol,2,12,1983,1.0,1.0,42,Baixa,Sênior
+43,Trabalho,Doutorado,Campinas,52247.25135379061,Inglês,1,24,1985,3.0,1.0,40,Média,Adulto
+44,Viagem,Mestrado,São Paulo,23046.0,Espanhol,4,5,2001,1.0,1.0,24,Baixa,Jovem
+45,Trabalho,Graduação,São Paulo,79941.0,Inglês,5,1,2002,5.0,6.0,23,Alta,Jovem
+46,Estudos,Ensino Médio,São Paulo,7500.0,Espanhol,2,18,2022,1.0,1.0,3,Baixa,Jovem
+47,Viagem,Graduação,São Paulo,41728.0,Espanhol,2,6,1994,2.0,3.0,31,Média,Adulto
+48,Trabalho,Graduação,São Paulo,52247.25135379061,Espanhol e Inglês,3,12,1977,3.0,1.0,48,Média,Sênior
+49,Viagem,Doutorado,São Paulo,72550.0,Inglês,3,25,1980,5.0,5.0,45,Alta,Sênior
+50,Estudos,Graduação,Taubaté,65486.0,Inglês,4,33,1983,5.0,5.0,42,Alta,Sênior
+51,Trabalho,Mestrado,São Bernardo,79143.0,Espanhol,3,8,1990,5.0,6.0,35,Alta,Adulto
+52,Trabalho,Graduação,Campinas,35790.0,Espanhol,2,14,2003,3.0,2.0,22,Média,Jovem
+53,Estudos,Graduação,Campinas,82582.0,Espanhol,5,4,2003,5.0,6.0,22,Alta,Jovem
+54,Estudos,Graduação,São Paulo,66373.0,Inglês,2,1,2004,4.0,5.0,21,Alta,Jovem
+55,Trabalho,Mestrado,Campinas,79146.0,Inglês,5,26,1981,5.0,6.0,44,Alta,Sênior
+56,Viagem,Graduação,São Paulo,70287.0,Inglês,4,38,1992,3.0,5.0,33,Alta,Adulto
+57,Trabalho,Graduação,São Paulo,27938.0,Espanhol,5,11,2014,1.0,1.0,11,Baixa,Jovem
+58,Estudos,Graduação,São Paulo,52247.25135379061,Inglês,1,2,2008,3.0,1.0,17,Média,Jovem
+59,Viagem,Doutorado,São Paulo,55954.0,Inglês,3,45,1994,3.0,4.0,31,Alta,Adulto
+60,Viagem,Mestrado,São Paulo,75777.0,Espanhol e Inglês,4,40,2008,5.0,6.0,17,Alta,Jovem
+61,Viagem,Graduação,São Paulo,66653.0,Espanhol,2,17,2001,4.0,5.0,24,Alta,Jovem
+62,Trabalho,Graduação,São Bernardo,61823.0,Inglês,5,26,1978,4.0,4.0,47,Alta,Sênior
+63,Viagem,Doutorado,São Paulo,67680.0,Inglês,3,9,1977,4.0,5.0,48,Alta,Sênior
+64,Estudos,Graduação,São Paulo,70666.0,Inglês,3,19,1974,4.0,5.0,51,Alta,Sênior
+65,Trabalho,Graduação,São Paulo,25721.0,Espanhol,2,2,1997,1.0,1.0,28,Baixa,Adulto
+66,Trabalho,Graduação,São Paulo,32474.0,Inglês,2,28,1993,2.0,2.0,32,Baixa,Adulto
+68,Estudos,Graduação,São Paulo,69096.0,Espanhol,2,11,1984,3.0,5.0,41,Alta,Sênior
+69,Estudos,Graduação,Rio Branco,74854.0,Inglês,1,28,1996,5.0,6.0,29,Alta,Adulto
+71,Estudos,Ensino Médio,São Paulo,52247.25135379061,Inglês,2,6,1999,3.0,1.0,26,Média,Adulto
+72,Viagem,Graduação,São Paulo,65031.0,Inglês,5,23,1985,3.0,5.0,40,Alta,Adulto
+73,Trabalho,Doutorado,São Bernardo,60631.0,Inglês,3,1,2001,4.0,4.0,24,Alta,Jovem
+74,Estudos,Graduação,São Bernardo,28332.0,Espanhol e Inglês,3,23,1978,1.0,1.0,47,Baixa,Sênior
+75,Estudos,Graduação,São Bernardo,40246.0,Espanhol,2,11,2003,2.0,2.0,22,Média,Jovem
+76,Trabalho,Mestrado,São Bernardo,75251.0,Espanhol,1,14,1998,5.0,6.0,27,Alta,Adulto
+77,Estudos,Graduação,São Paulo,75825.0,Inglês,3,18,2002,4.0,6.0,23,Alta,Jovem
+78,Viagem,Ensino Médio,São Paulo,26326.0,Inglês,2,6,2002,1.0,1.0,23,Baixa,Jovem
+79,Trabalho,Graduação,São Paulo,56046.0,Espanhol,3,4,1991,3.0,4.0,34,Alta,Adulto
+80,Viagem,Graduação,Campinas,29760.0,Espanhol,2,3,2011,1.0,1.0,14,Baixa,Jovem
+81,Estudos,Graduação,São Paulo,26304.0,Espanhol,1,13,1995,1.0,1.0,30,Baixa,Adulto
+82,Viagem,Ensino Médio,São Paulo,23559.0,Espanhol,2,11,1999,1.0,1.0,26,Baixa,Adulto
+83,Trabalho,Mestrado,São Paulo,38620.0,Espanhol,4,11,1989,1.0,2.0,36,Média,Adulto
+84,Trabalho,Graduação,São Paulo,81361.0,Inglês,2,9,2013,5.0,6.0,12,Alta,Jovem
+85,Estudos,Graduação,São Paulo,29440.0,Espanhol,1,12,1986,1.0,1.0,39,Baixa,Adulto
+86,Outros,Mestrado,São Bernardo,36138.0,Espanhol,1,7,1996,2.0,2.0,29,Média,Adulto
+87,Trabalho,Graduação,São Paulo,50388.0,Espanhol,2,11,1983,3.0,3.0,42,Média,Sênior
+88,Outros,Graduação,Campinas,79593.0,Espanhol,5,11,1999,5.0,6.0,26,Alta,Adulto
+89,Trabalho,Graduação,São Paulo,54178.0,Inglês,2,39,1993,3.0,4.0,32,Média,Adulto
+91,Estudos,Graduação,São Bernardo,52247.25135379061,Inglês,2,36,1983,3.0,1.0,42,Média,Sênior
+92,Trabalho,Mestrado,São Bernardo,52247.25135379061,Inglês,4,29,1999,3.0,1.0,26,Média,Adulto
+93,Trabalho,Mestrado,São Paulo,42394.0,Espanhol,1,6,1998,2.0,3.0,27,Média,Adulto
+94,Trabalho,Doutorado,São Bernardo,23626.0,Inglês,3,4,1996,1.0,1.0,29,Baixa,Adulto
+95,Viagem,Graduação,São Paulo,31163.0,Espanhol,3,19,2009,1.0,2.0,16,Baixa,Jovem
+96,Viagem,Graduação,São Paulo,47916.0,Espanhol,3,12,1986,3.0,3.0,39,Média,Adulto
+97,Viagem,Graduação,São Paulo,51813.0,Inglês,1,15,1998,3.0,4.0,27,Média,Adulto
+98,Estudos,Ensino Médio,São Paulo,78497.0,Espanhol,1,4,1977,4.0,6.0,48,Alta,Sênior
+99,Trabalho,Doutorado,São Paulo,50150.0,Inglês,5,38,2009,3.0,3.0,16,Média,Jovem
+100,Estudos,Ensino Médio,São Paulo,47823.0,Espanhol,3,13,1986,2.0,3.0,39,Média,Adulto
+105,Estudos,Ensino Fundamental,São Paulo,24594.0,Espanhol,3,14,2005,1.0,1.0,20,Baixa,Jovem
+106,Trabalho,Graduação,São Paulo,49096.0,Espanhol,3,16,1990,3.0,3.0,35,Média,Adulto
+107,Trabalho,Graduação,São Bernardo,52413.0,Espanhol,2,6,1995,3.0,4.0,30,Média,Adulto
+108,Estudos,Graduação,São Paulo,38557.0,Espanhol e Inglês,5,10,2004,2.0,2.0,21,Média,Jovem
+110,Trabalho,Graduação,São Paulo,77298.0,Inglês,5,22,2005,5.0,6.0,20,Alta,Jovem
+111,Estudos,Doutorado,São Paulo,68126.0,Inglês,2,55,2017,4.0,5.0,8,Alta,Jovem
+112,Trabalho,Mestrado,Campinas,57288.0,Espanhol,1,15,1989,4.0,4.0,36,Alta,Adulto
+114,Trabalho,Doutorado,São Paulo,43974.0,Inglês,4,23,2006,2.0,3.0,19,Média,Jovem
+115,Estudos,Graduação,Campinas,50785.0,Espanhol,4,12,1988,3.0,3.0,37,Média,Adulto
+117,Estudos,Ensino Médio,São Paulo,36550.0,Espanhol,2,14,2004,2.0,2.0,21,Média,Jovem
+118,Viagem,Ensino Médio,Campinas,30753.0,Espanhol,1,19,1993,1.0,2.0,32,Baixa,Adulto
+119,Trabalho,Graduação,São Paulo,21918.0,Espanhol,1,9,1995,1.0,1.0,30,Baixa,Adulto
+120,Trabalho,Mestrado,São Bernardo,56129.0,Espanhol e Inglês,2,46,1979,3.0,4.0,46,Alta,Sênior
+121,Trabalho,Mestrado,Campinas,35778.0,Espanhol,3,6,1993,2.0,2.0,32,Média,Adulto
+122,Trabalho,Mestrado,São Paulo,19510.0,Espanhol,3,6,2011,1.0,1.0,14,Baixa,Jovem
+123,Viagem,Graduação,São Paulo,30992.0,Espanhol,1,6,2002,1.0,2.0,23,Baixa,Jovem
+124,Trabalho,Graduação,São Paulo,79146.0,Inglês,4,22,2009,5.0,6.0,16,Alta,Jovem
+125,Estudos,Ensino Médio,São Paulo,71488.0,Inglês,2,18,1991,4.0,5.0,34,Alta,Adulto
+126,Viagem,Graduação,São Bernardo,79607.0,Inglês,2,31,2010,5.0,6.0,15,Alta,Jovem
+127,Trabalho,Mestrado,Campinas,54348.0,Inglês,3,34,1979,3.0,4.0,46,Média,Sênior
+128,Trabalho,Doutorado,São Paulo,52247.25135379061,Inglês,3,8,1987,3.0,1.0,38,Média,Adulto
+130,Viagem,Graduação,São Paulo,62998.0,Inglês,3,1,1978,4.0,5.0,47,Alta,Sênior
+131,Outros,Mestrado,São Paulo,61331.0,Inglês,1,1,1984,4.0,4.0,41,Alta,Sênior
+132,Estudos,Graduação,São Paulo,72570.0,Inglês,4,28,1995,5.0,5.0,30,Alta,Adulto
+133,Trabalho,Graduação,São Paulo,52247.25135379061,Inglês,2,3,1989,3.0,1.0,36,Média,Adulto
+134,Trabalho,Doutorado,Campinas,41551.0,Inglês,2,1,1990,3.0,3.0,35,Média,Adulto
+135,Trabalho,Doutorado,São Paulo,62981.0,Inglês,4,26,1993,4.0,4.0,32,Alta,Adulto
+136,Estudos,Ensino Fundamental,São Paulo,23046.0,Espanhol,2,10,2002,1.0,1.0,23,Baixa,Jovem
+137,Estudos,Doutorado,São Bernardo,33762.0,Mandarim,1,88,1985,2.0,2.0,40,Baixa,Adulto
+138,Viagem,Doutorado,São Paulo,35860.0,Inglês,5,57,1999,2.0,2.0,26,Média,Adulto
+139,Trabalho,Doutorado,Taubaté,36921.0,Inglês,4,20,1991,3.0,2.0,34,Média,Adulto
+141,Trabalho,Mestrado,São Paulo,65104.0,Inglês,4,33,2002,4.0,5.0,23,Alta,Jovem
+143,Trabalho,Doutorado,São Paulo,68352.0,Inglês,3,19,2000,4.0,5.0,25,Alta,Jovem
+144,Estudos,Graduação,São Paulo,42476.0,Espanhol,1,12,2014,2.0,3.0,11,Média,Jovem
+145,Estudos,Graduação,São Paulo,59809.0,Inglês,1,34,2002,3.0,4.0,23,Alta,Jovem
+146,Trabalho,Graduação,São Paulo,23046.0,Espanhol e Inglês,3,23,2001,1.0,1.0,24,Baixa,Jovem
+147,Estudos,Graduação,São Paulo,38547.0,Espanhol,3,11,2007,2.0,2.0,18,Média,Jovem
+148,Estudos,Ensino Médio,São Paulo,31163.0,Espanhol,1,14,1999,1.0,2.0,26,Baixa,Adulto
+149,Trabalho,Mestrado,São Paulo,49605.0,Espanhol,3,10,1992,3.0,3.0,33,Média,Adulto
+150,Trabalho,Mestrado,Campinas,59354.0,Inglês,3,16,1979,5.0,4.0,46,Alta,Sênior
+151,Trabalho,Graduação,São Paulo,65747.0,Espanhol,2,17,1995,4.0,5.0,30,Alta,Adulto
+152,Estudos,Ensino Médio,São Paulo,48168.0,Espanhol,4,9,1998,3.0,3.0,27,Média,Adulto
+153,Trabalho,Graduação,São Paulo,34176.0,Espanhol,1,24,2014,2.0,2.0,11,Baixa,Jovem
+154,Trabalho,Doutorado,Rio Branco,61010.0,Inglês,2,24,1978,5.0,4.0,47,Alta,Sênior
+155,Estudos,Graduação,São Paulo,69372.0,Inglês,2,25,1975,4.0,5.0,50,Alta,Sênior
+156,Trabalho,Graduação,São Paulo,49967.0,Inglês,4,10,1984,3.0,3.0,41,Média,Sênior
+157,Trabalho,Graduação,São Bernardo,60199.0,Inglês,3,35,2004,4.0,4.0,21,Alta,Jovem
+158,Viagem,Graduação,São Paulo,55375.0,Espanhol,2,13,2003,3.0,4.0,22,Alta,Jovem
+159,Estudos,Graduação,São Bernardo,79146.0,Inglês,1,17,1981,5.0,6.0,44,Alta,Sênior
+160,Trabalho,Mestrado,São Paulo,30523.0,Espanhol,1,6,1984,1.0,2.0,41,Baixa,Sênior
+161,Estudos,Doutorado,São Paulo,70356.0,Inglês,2,9,1971,4.0,5.0,54,Alta,Sênior
+162,Trabalho,Graduação,São Paulo,23228.0,Espanhol,4,5,2010,1.0,1.0,15,Baixa,Jovem
+163,Trabalho,Doutorado,São Paulo,74165.0,Inglês,4,28,2001,5.0,5.0,24,Alta,Jovem
+165,Estudos,Graduação,São Bernardo,43482.0,Espanhol,4,12,1992,2.0,3.0,33,Média,Adulto
+166,Estudos,Graduação,São Paulo,62551.0,Espanhol,2,9,1979,4.0,4.0,46,Alta,Sênior
+167,Viagem,Graduação,São Paulo,52332.0,Inglês,1,7,1985,3.0,4.0,40,Média,Adulto
+168,Estudos,Graduação,São Paulo,66951.0,Espanhol,3,14,2014,3.0,5.0,11,Alta,Jovem
+169,Viagem,Graduação,São Paulo,26091.0,Espanhol,4,12,1983,1.0,1.0,42,Baixa,Sênior
+170,Estudos,Graduação,São Paulo,33456.0,Espanhol,3,10,1991,2.0,2.0,34,Baixa,Adulto
+171,Viagem,Graduação,São Paulo,28718.0,Espanhol,2,6,2008,1.0,1.0,17,Baixa,Jovem
+172,Trabalho,Graduação,São Paulo,50447.0,Espanhol,1,2,1996,3.0,3.0,29,Média,Adulto
+173,Viagem,Doutorado,São Paulo,53537.0,Inglês,4,20,1985,3.0,4.0,40,Média,Adulto
+174,Estudos,Graduação,São Paulo,55085.5,Inglês,3,20,1993,3.0,4.0,32,Alta,Adulto
+175,Trabalho,Doutorado,São Paulo,80427.0,Inglês,3,36,2001,5.0,6.0,24,Alta,Jovem
+176,Trabalho,Doutorado,São Paulo,83837.0,Inglês,3,27,1974,5.0,6.0,51,Alta,Sênior
+177,Trabalho,Doutorado,São Paulo,38853.0,Inglês,4,20,1996,2.0,2.0,29,Média,Adulto
+178,Trabalho,Graduação,Campinas,38285.0,Inglês,3,32,1985,3.0,2.0,40,Média,Adulto
+179,Viagem,Ensino Médio,São Paulo,78497.0,Inglês,4,41,1977,5.0,6.0,48,Alta,Sênior
+180,Trabalho,Doutorado,São Paulo,51650.0,Inglês,3,28,2002,3.0,4.0,23,Média,Jovem
+181,Estudos,Ensino Médio,São Paulo,23046.0,Espanhol,1,8,2014,1.0,1.0,11,Baixa,Jovem
+182,Trabalho,Mestrado,Campinas,66835.0,Mandarim,3,80,1972,5.0,5.0,53,Alta,Sênior
+183,Trabalho,Mestrado,Campinas,30477.0,Espanhol,4,14,2010,1.0,2.0,15,Baixa,Jovem
+184,Estudos,Ensino Fundamental,São Paulo,28249.0,Espanhol,4,11,1987,1.0,1.0,38,Baixa,Adulto
+185,Trabalho,Graduação,São Paulo,23046.0,Espanhol,3,4,2009,1.0,1.0,16,Baixa,Jovem
+186,Estudos,Doutorado,São Bernardo,32303.0,Inglês,2,20,1996,2.0,2.0,29,Baixa,Adulto
+187,Viagem,Graduação,São Paulo,61286.0,Espanhol e Inglês,4,10,1992,4.0,4.0,33,Alta,Adulto
+188,Estudos,Graduação,São Paulo,74068.0,Espanhol,2,11,2002,5.0,5.0,23,Alta,Jovem
+189,Estudos,Doutorado,São Paulo,48168.0,Inglês,4,1,1990,3.0,3.0,35,Média,Adulto
+190,Viagem,Ensino Fundamental,São Paulo,24882.0,Espanhol,2,12,2004,1.0,1.0,21,Baixa,Jovem
+191,Trabalho,Doutorado,Campinas,66973.0,Inglês,4,4,2015,4.0,5.0,10,Alta,Jovem
+192,Estudos,Ensino Médio,Campinas,36640.0,Espanhol,3,6,1926,3.0,2.0,99,Média,Sênior
+193,Estudos,Graduação,São Paulo,38872.0,Espanhol e Inglês,4,13,2014,2.0,2.0,11,Média,Jovem
+194,Estudos,Graduação,São Paulo,51148.0,Espanhol,4,11,1999,3.0,3.0,26,Média,Adulto
+195,Viagem,Graduação,São Paulo,31353.0,Espanhol,4,10,2003,1.0,2.0,22,Baixa,Jovem
+196,Outros,Mestrado,São Bernardo,69661.0,Inglês,4,15,2006,4.0,5.0,19,Alta,Jovem
+197,Trabalho,Graduação,Campinas,80067.0,Inglês,4,11,1980,5.0,6.0,45,Alta,Sênior
+199,Estudos,Doutorado,São Bernardo,46854.0,Inglês,4,21,1999,3.0,3.0,26,Média,Adulto
+200,Estudos,Graduação,São Paulo,69142.0,Inglês,4,28,1978,4.0,5.0,47,Alta,Sênior
+201,Trabalho,Graduação,São Paulo,75922.0,Inglês,3,19,1994,4.0,6.0,31,Alta,Adulto
+202,Estudos,Graduação,São Paulo,63693.0,Espanhol e Inglês,4,15,2004,4.0,5.0,21,Alta,Jovem
+204,Trabalho,Doutorado,São Paulo,42476.0,Inglês,4,21,1991,2.0,3.0,34,Média,Adulto
+205,Trabalho,Mestrado,São Paulo,18890.0,Espanhol,3,4,2010,1.0,1.0,15,Baixa,Jovem
+206,Estudos,Graduação,São Paulo,29604.0,Espanhol,3,12,2014,1.0,1.0,11,Baixa,Jovem
+207,Outros,Mestrado,São Paulo,48721.0,Espanhol,1,13,1989,3.0,3.0,36,Média,Adulto
+208,Outros,Graduação,São Paulo,44794.0,Espanhol,1,15,1992,2.0,3.0,33,Média,Adulto
+209,Viagem,Graduação,São Paulo,67786.5,Inglês,4,1,1980,4.0,5.0,45,Alta,Sênior
+210,Estudos,Graduação,São Paulo,46097.0,Espanhol e Inglês,1,26,1982,3.0,3.0,43,Média,Sênior
+211,Estudos,Graduação,São Paulo,77972.0,Inglês,4,6,1980,5.0,6.0,45,Alta,Sênior
+212,Trabalho,Doutorado,São Paulo,42476.0,Inglês,2,18,1994,2.0,3.0,31,Média,Adulto
+213,Outros,Mestrado,São Paulo,46014.0,Espanhol,4,15,2000,3.0,3.0,25,Média,Jovem
+214,Trabalho,Graduação,São Bernardo,70951.0,Inglês,3,2,2011,4.0,5.0,14,Alta,Jovem
+215,Estudos,Graduação,São Paulo,41443.0,Espanhol,3,3,2003,2.0,3.0,22,Média,Jovem
+216,Estudos,Ensino Médio,São Paulo,55085.5,Inglês,4,29,2004,3.0,4.0,21,Alta,Jovem
+217,Viagem,Mestrado,São Bernardo,83790.0,Inglês,2,43,1974,5.0,6.0,51,Alta,Sênior
+218,Trabalho,Mestrado,São Paulo,44551.0,Espanhol,1,5,1980,3.0,3.0,45,Média,Sênior
+219,Trabalho,Graduação,São Bernardo,69508.0,Espanhol,1,13,2006,4.0,5.0,19,Alta,Jovem
+220,Estudos,Ensino Médio,São Paulo,45204.0,Espanhol,3,13,2014,3.0,3.0,11,Média,Jovem
+221,Viagem,Graduação,São Paulo,72570.0,Inglês,4,38,1995,5.0,5.0,30,Alta,Adulto
+222,Estudos,Doutorado,São Paulo,77622.0,Espanhol e Inglês,4,28,1996,4.0,6.0,29,Alta,Adulto
+223,Estudos,Doutorado,São Paulo,30732.0,Inglês,3,17,2006,1.0,2.0,19,Baixa,Jovem
+224,Estudos,Graduação,São Paulo,67786.5,Espanhol e Inglês,1,11,1988,4.0,5.0,37,Alta,Adulto
+225,Viagem,Graduação,São Paulo,42011.0,Espanhol e Inglês,2,20,2004,2.0,3.0,21,Média,Jovem
+226,Trabalho,Graduação,Taubaté,51369.0,Espanhol,1,13,2002,4.0,3.0,23,Média,Jovem
+227,Estudos,Graduação,São Paulo,51537.0,Inglês,3,42,1978,3.0,4.0,47,Média,Sênior
+228,Estudos,Doutorado,Campinas,79930.0,Inglês,5,22,1998,5.0,6.0,27,Alta,Adulto
+229,Estudos,Doutorado,São Paulo,34320.0,Inglês,3,15,2012,2.0,2.0,13,Baixa,Jovem
+230,Estudos,Graduação,São Bernardo,35778.0,Espanhol,1,29,1992,2.0,2.0,33,Média,Adulto
+231,Estudos,Ensino Médio,São Paulo,81975.0,Espanhol,2,13,1988,5.0,6.0,37,Alta,Adulto
+232,Viagem,Graduação,São Paulo,38590.0,Espanhol e Inglês,2,52,1997,2.0,2.0,28,Média,Adulto
+233,Estudos,Graduação,São Paulo,15033.0,Espanhol,3,16,1977,1.0,1.0,48,Baixa,Sênior
+234,Viagem,Doutorado,São Paulo,60474.0,Inglês,3,11,1991,4.0,4.0,34,Alta,Adulto
+235,Estudos,Ensino Médio,São Bernardo,22212.0,Espanhol,3,15,2001,1.0,1.0,24,Baixa,Jovem
+236,Outros,Mestrado,São Paulo,23661.0,Espanhol,1,13,2008,1.0,1.0,17,Baixa,Jovem
+237,Estudos,Doutorado,São Paulo,79761.0,Mandarim,3,81,1984,4.0,6.0,41,Alta,Sênior
+238,Trabalho,Graduação,São Paulo,7500.0,Inglês,3,15,1999,1.0,1.0,26,Baixa,Adulto
+239,Viagem,Ensino Médio,São Paulo,60474.0,Inglês,4,14,1919,4.0,4.0,106,Alta,Sênior
+240,Trabalho,Graduação,Campinas,73455.0,Inglês,2,23,1994,5.0,5.0,31,Alta,Adulto
+241,Viagem,Graduação,Taubaté,64961.0,Inglês,4,22,1984,5.0,5.0,41,Alta,Sênior
+242,Estudos,Graduação,Campinas,22804.0,Espanhol,3,8,1997,2.0,1.0,28,Baixa,Adulto
+243,Trabalho,Graduação,São Paulo,73687.0,Espanhol,1,14,2016,5.0,5.0,9,Alta,Jovem
+244,Estudos,Graduação,São Paulo,61074.0,Espanhol e Inglês,3,46,1984,3.0,4.0,41,Alta,Sênior
+245,Estudos,Doutorado,Campinas,31686.0,Inglês,5,20,1990,2.0,2.0,35,Baixa,Adulto
+246,Estudos,Graduação,São Paulo,80134.0,Inglês,3,27,1998,5.0,6.0,27,Alta,Adulto
+247,Viagem,Graduação,Taubaté,75027.0,Espanhol,2,6,1979,5.0,6.0,46,Alta,Sênior
+248,Estudos,Doutorado,Taubaté,67546.0,Inglês,3,38,2014,5.0,5.0,11,Alta,Jovem
+249,Trabalho,Mestrado,Campinas,65176.0,Inglês,5,34,1995,4.0,5.0,30,Alta,Adulto
+250,Trabalho,Mestrado,São Paulo,31160.0,Espanhol,3,9,2001,1.0,2.0,24,Baixa,Jovem
+251,Trabalho,Graduação,São Paulo,29938.0,Espanhol,3,8,2011,1.0,1.0,14,Baixa,Jovem
+253,Viagem,Ensino Médio,São Paulo,26490.0,Espanhol,4,10,1984,1.0,1.0,41,Baixa,Sênior
+254,Estudos,Graduação,São Paulo,75702.0,Inglês,5,1,1993,5.0,6.0,32,Alta,Adulto
+255,Trabalho,Doutorado,São Paulo,30899.0,Inglês,4,1,2000,1.0,2.0,25,Baixa,Jovem
+256,Trabalho,Doutorado,Campinas,63342.0,Inglês,1,34,1987,5.0,5.0,38,Alta,Adulto
+257,Estudos,Graduação,São Paulo,45989.0,Espanhol,3,22,1990,3.0,3.0,35,Média,Adulto
+258,Viagem,Graduação,São Paulo,23046.0,Espanhol,3,1,1990,1.0,1.0,35,Baixa,Adulto
+259,Trabalho,Doutorado,São Paulo,40737.0,Mandarim,3,87,1983,1.0,3.0,42,Média,Sênior
+260,Estudos,Graduação,São Paulo,15287.0,Espanhol,1,13,2005,1.0,1.0,20,Baixa,Jovem
+261,Estudos,Doutorado,Rio Branco,69674.0,Inglês,1,1,1994,5.0,5.0,31,Alta,Adulto
+262,Viagem,Mestrado,São Paulo,44159.0,Espanhol,2,2,1996,2.0,3.0,29,Média,Adulto
+263,Trabalho,Doutorado,São Paulo,37717.0,Espanhol e Inglês,3,21,2004,2.0,2.0,21,Média,Jovem
+264,Outros,Mestrado,Campinas,43776.0,Espanhol,2,8,1978,2.0,3.0,47,Média,Sênior
+265,Outros,Mestrado,São Bernardo,38179.0,Espanhol,1,15,1992,2.0,2.0,33,Média,Adulto
+266,Trabalho,Graduação,São Paulo,80124.0,Inglês,4,17,1989,5.0,6.0,36,Alta,Adulto
+267,Trabalho,Doutorado,São Bernardo,38097.0,Espanhol e Inglês,1,22,1996,2.0,2.0,29,Média,Adulto
+268,Trabalho,Graduação,São Paulo,72940.0,Espanhol e Inglês,3,29,1996,5.0,5.0,29,Alta,Adulto
+269,Estudos,Graduação,São Paulo,22070.0,Espanhol e Inglês,3,5,1996,1.0,1.0,29,Baixa,Adulto
+270,Trabalho,Graduação,São Bernardo,67786.5,Espanhol e Inglês,3,16,1979,4.0,5.0,46,Alta,Sênior
+271,Trabalho,Mestrado,São Bernardo,31163.0,Espanhol,5,10,2009,1.0,2.0,16,Baixa,Jovem
+272,Viagem,Doutorado,Campinas,60474.0,Inglês,1,2,2001,4.0,4.0,24,Alta,Jovem
+273,Estudos,Graduação,Campinas,29315.0,Espanhol,2,5,1986,2.0,1.0,39,Baixa,Adulto
+274,Estudos,Graduação,São Paulo,33378.0,Inglês,4,1,1989,2.0,2.0,36,Baixa,Adulto
+275,Estudos,Doutorado,São Paulo,66313.0,Espanhol e Inglês,5,1,1989,4.0,5.0,36,Alta,Adulto
+276,Estudos,Graduação,São Bernardo,60474.0,Inglês,5,28,1982,4.0,4.0,43,Alta,Sênior
+277,Trabalho,Mestrado,São Paulo,79146.0,Inglês,4,31,2007,5.0,6.0,18,Alta,Jovem
+278,Trabalho,Doutorado,São Bernardo,69867.0,Inglês,2,11,2012,4.0,5.0,13,Alta,Jovem
+279,Trabalho,Mestrado,São Bernardo,63841.0,Espanhol,4,6,1994,4.0,5.0,31,Alta,Adulto
+280,Estudos,Ensino Fundamental,Campinas,23046.0,Espanhol,3,13,2007,1.0,1.0,18,Baixa,Jovem
+281,Estudos,Graduação,São Paulo,51369.0,Inglês,4,1,2002,3.0,3.0,23,Média,Jovem
+282,Estudos,Graduação,São Paulo,37760.0,Espanhol,3,6,1972,2.0,2.0,53,Média,Sênior
+283,Estudos,Doutorado,São Paulo,65640.0,Inglês,1,12,2000,3.0,5.0,25,Alta,Jovem
+284,Trabalho,Mestrado,São Paulo,44319.0,Inglês,1,26,2001,2.0,3.0,24,Média,Jovem
+285,Viagem,Graduação,São Paulo,30631.0,Espanhol,2,11,2000,1.0,2.0,25,Baixa,Jovem
+286,Estudos,Graduação,São Paulo,75278.0,Inglês,3,1,1978,5.0,6.0,47,Alta,Sênior
+287,Trabalho,Mestrado,São Paulo,50898.0,Espanhol,3,10,1982,3.0,3.0,43,Média,Sênior
+288,Viagem,Graduação,São Paulo,79946.0,Espanhol,2,7,1992,5.0,6.0,33,Alta,Adulto
+289,Trabalho,Mestrado,São Paulo,35416.0,Espanhol,1,21,1975,2.0,2.0,50,Média,Sênior
+290,Estudos,Ensino Médio,São Paulo,32414.0,Espanhol,3,13,2010,1.0,2.0,15,Baixa,Jovem
+291,Viagem,Graduação,São Paulo,38361.0,Espanhol,2,1,1995,1.0,2.0,30,Média,Adulto
+292,Viagem,Graduação,São Bernardo,82497.0,Inglês,3,23,2006,5.0,6.0,19,Alta,Jovem
+293,Estudos,Graduação,São Paulo,16626.0,Espanhol,1,11,1997,1.0,1.0,28,Baixa,Adulto
+294,Trabalho,Graduação,São Paulo,29672.0,Espanhol,3,7,1991,1.0,1.0,34,Baixa,Adulto
+295,Trabalho,Mestrado,São Paulo,55085.5,Mandarim,3,85,1978,3.0,4.0,47,Alta,Sênior
+296,Estudos,Ensino Médio,São Bernardo,35388.0,Espanhol e Inglês,4,26,2014,2.0,2.0,11,Média,Jovem
+297,Viagem,Mestrado,São Paulo,42386.0,Espanhol,1,14,2012,2.0,3.0,13,Média,Jovem
+298,Viagem,Graduação,São Paulo,68627.0,Inglês,4,20,2008,4.0,5.0,17,Alta,Jovem
+299,Viagem,Doutorado,São Paulo,57912.0,Espanhol e Inglês,3,30,1991,2.0,4.0,34,Alta,Adulto
+300,Estudos,Graduação,São Paulo,35246.0,Espanhol,4,6,1984,1.0,2.0,41,Média,Sênior
+301,Estudos,Ensino Médio,São Paulo,58821.0,Inglês,2,29,1982,4.0,4.0,43,Alta,Sênior
+302,Trabalho,Doutorado,São Paulo,48168.0,Inglês,5,22,2004,3.0,3.0,21,Média,Jovem
+303,Viagem,Graduação,São Paulo,39747.0,Espanhol,5,9,2014,2.0,2.0,11,Média,Jovem
+304,Viagem,Graduação,São Bernardo,23976.0,Espanhol,4,13,2010,1.0,1.0,15,Baixa,Jovem
+305,Viagem,Mestrado,Taubaté,79146.0,Inglês,3,5,1987,5.0,6.0,38,Alta,Adulto
+306,Estudos,Graduação,São Paulo,27038.0,Espanhol,2,14,1992,1.0,1.0,33,Baixa,Adulto
+307,Estudos,Graduação,São Paulo,77457.0,Inglês,3,38,1973,5.0,6.0,52,Alta,Sênior
+308,Trabalho,Mestrado,São Bernardo,64100.0,Espanhol e Inglês,2,13,1990,4.0,5.0,35,Alta,Adulto
+309,Trabalho,Mestrado,São Paulo,42476.0,Espanhol,1,4,2018,2.0,3.0,7,Média,Jovem
+310,Viagem,Graduação,São Paulo,23046.0,Espanhol,4,8,2002,1.0,1.0,23,Baixa,Jovem
+311,Viagem,Graduação,São Paulo,22574.0,Espanhol,2,8,1993,1.0,1.0,32,Baixa,Adulto
+312,Estudos,Graduação,São Paulo,52247.25135379061,Inglês,4,18,2015,3.0,1.0,10,Média,Jovem
+313,Trabalho,Mestrado,Taubaté,70893.0,Espanhol,5,7,2002,5.0,5.0,23,Alta,Jovem
+314,Estudos,Graduação,São Bernardo,54198.0,Espanhol,5,19,1992,3.0,4.0,33,Média,Adulto
+315,Viagem,Mestrado,São Paulo,28839.0,Espanhol,4,12,1982,1.0,1.0,43,Baixa,Sênior
+316,Estudos,Graduação,São Paulo,40321.0,Espanhol e Inglês,4,44,1998,2.0,3.0,27,Média,Adulto
+317,Viagem,Graduação,São Paulo,66503.0,Inglês,2,20,2011,4.0,5.0,14,Alta,Jovem
+318,Trabalho,Graduação,São Paulo,30833.0,Espanhol,2,4,1977,1.0,2.0,48,Baixa,Sênior
+319,Trabalho,Graduação,São Paulo,52247.25135379061,Inglês,1,6,1996,3.0,1.0,29,Média,Adulto
+320,Estudos,Graduação,São Paulo,64795.0,Inglês,4,13,1997,4.0,5.0,28,Alta,Adulto
+321,Trabalho,Graduação,São Bernardo,34421.0,Espanhol,2,15,2000,2.0,2.0,25,Baixa,Jovem
+322,Trabalho,Doutorado,São Paulo,47025.0,Inglês,4,7,1991,3.0,3.0,34,Média,Adulto
+323,Trabalho,Doutorado,São Paulo,64325.0,Inglês,2,17,1987,4.0,5.0,38,Alta,Adulto
+324,Trabalho,Graduação,Taubaté,40464.0,Inglês,5,46,1979,3.0,3.0,46,Média,Sênior
+325,Viagem,Graduação,São Bernardo,62187.0,Inglês,2,1,1983,4.0,4.0,42,Alta,Sênior
+326,Trabalho,Doutorado,São Paulo,14849.0,Inglês,3,1,2002,1.0,1.0,23,Baixa,Jovem
+327,Estudos,Graduação,São Paulo,27255.0,Espanhol,4,21,2010,1.0,1.0,15,Baixa,Jovem
+328,Trabalho,Doutorado,São Paulo,54432.0,Inglês,5,42,1976,3.0,4.0,49,Média,Sênior
+329,Viagem,Doutorado,São Paulo,29999.0,Inglês,3,17,2012,1.0,1.0,13,Baixa,Jovem
+330,Viagem,Graduação,São Paulo,24072.0,Espanhol,2,15,2009,1.0,1.0,16,Baixa,Jovem
+331,Trabalho,Doutorado,São Bernardo,33996.0,Inglês,3,10,2015,2.0,2.0,10,Baixa,Jovem
+333,Trabalho,Mestrado,São Paulo,35178.0,Inglês,3,36,1997,2.0,2.0,28,Média,Adulto
+334,Viagem,Graduação,São Paulo,22010.0,Espanhol,1,2,2009,1.0,1.0,16,Baixa,Jovem
+335,Estudos,Graduação,São Paulo,62204.0,Inglês,2,11,1986,3.0,4.0,39,Alta,Adulto
+336,Viagem,Graduação,Campinas,75693.0,Inglês,5,47,1994,5.0,6.0,31,Alta,Adulto
+337,Trabalho,Graduação,São Bernardo,30675.0,Espanhol,3,8,1998,1.0,2.0,27,Baixa,Adulto
+338,Estudos,Graduação,São Paulo,83003.0,Inglês,3,30,1991,5.0,6.0,34,Alta,Adulto
+339,Trabalho,Doutorado,São Paulo,83532.0,Mandarim,4,85,1925,4.0,6.0,100,Alta,Sênior
+340,Outros,Graduação,São Paulo,68655.0,Espanhol e Inglês,4,2,2014,4.0,5.0,11,Alta,Jovem
+341,Estudos,Graduação,São Paulo,41411.0,Espanhol,4,16,2012,2.0,3.0,13,Média,Jovem
+342,Trabalho,Doutorado,São Paulo,55212.0,Inglês,2,13,1995,3.0,4.0,30,Alta,Adulto
+343,Trabalho,Doutorado,São Paulo,59292.0,Inglês,2,52,1976,4.0,4.0,49,Alta,Sênior
+344,Viagem,Ensino Fundamental,São Paulo,23046.0,Inglês,1,11,1999,1.0,1.0,26,Baixa,Adulto
+345,Estudos,Graduação,São Paulo,82623.0,Inglês,4,31,1978,5.0,6.0,47,Alta,Sênior
+346,Estudos,Graduação,São Paulo,44300.0,Espanhol,3,6,1991,2.0,3.0,34,Média,Adulto
+348,Estudos,Graduação,São Paulo,31163.0,Espanhol,3,12,1997,1.0,2.0,28,Baixa,Adulto
+349,Trabalho,Mestrado,São Paulo,33181.0,Espanhol e Inglês,4,1,2002,2.0,2.0,23,Baixa,Jovem
+350,Estudos,Graduação,São Paulo,71113.0,Inglês,3,40,1983,4.0,5.0,42,Alta,Sênior
+351,Viagem,Graduação,Campinas,71952.0,Inglês,5,43,2012,5.0,5.0,13,Alta,Jovem
+352,Trabalho,Doutorado,São Paulo,69759.0,Inglês,2,20,1992,4.0,5.0,33,Alta,Adulto
+353,Trabalho,Graduação,São Paulo,72099.0,Inglês,4,9,2000,5.0,5.0,25,Alta,Jovem
+354,Trabalho,Doutorado,São Paulo,60000.0,Inglês,4,27,2002,3.0,4.0,23,Alta,Jovem
+355,Trabalho,Graduação,São Paulo,38643.0,Espanhol,1,14,2004,2.0,2.0,21,Média,Jovem
+356,Estudos,Graduação,São Paulo,50737.0,Espanhol,3,5,1981,2.0,3.0,44,Média,Sênior
+357,Trabalho,Doutorado,São Paulo,68462.0,Inglês,4,10,1995,4.0,5.0,30,Alta,Adulto
+358,Trabalho,Mestrado,Campinas,72570.0,Inglês,4,50,1969,5.0,5.0,56,Alta,Sênior
+359,Estudos,Doutorado,São Paulo,46681.0,Inglês,4,22,1974,3.0,3.0,51,Média,Sênior
+360,Viagem,Graduação,São Paulo,78618.0,Inglês,3,15,1983,5.0,6.0,42,Alta,Sênior
+361,Trabalho,Doutorado,São Paulo,62187.0,Espanhol e Inglês,2,23,1995,4.0,4.0,30,Alta,Adulto
+362,Estudos,Graduação,São Paulo,28442.0,Espanhol,5,10,2004,1.0,1.0,21,Baixa,Jovem
+363,Trabalho,Doutorado,São Paulo,37717.0,Inglês,1,23,2004,2.0,2.0,21,Média,Jovem
+364,Trabalho,Graduação,Campinas,51479.0,Inglês,5,1,1993,4.0,4.0,32,Média,Adulto
+365,Trabalho,Graduação,São Paulo,54803.0,Espanhol,1,1,1995,3.0,4.0,30,Média,Adulto
+366,Viagem,Graduação,Taubaté,79530.0,Inglês,3,5,1986,5.0,6.0,39,Alta,Adulto
+367,Trabalho,Graduação,Campinas,31615.0,Inglês,4,38,2002,2.0,2.0,23,Baixa,Jovem
+368,Estudos,Graduação,São Paulo,72025.0,Espanhol,2,5,1988,5.0,5.0,37,Alta,Adulto
+369,Trabalho,Doutorado,São Paulo,52614.0,Espanhol e Inglês,3,36,2001,2.0,4.0,24,Média,Jovem
+370,Viagem,Ensino Médio,São Paulo,35684.0,Espanhol,4,9,2010,2.0,2.0,15,Média,Jovem
+371,Viagem,Graduação,São Paulo,48178.0,Espanhol,3,4,2001,2.0,3.0,24,Média,Jovem
+372,Trabalho,Mestrado,São Paulo,29548.0,Espanhol e Inglês,2,45,1996,1.0,1.0,29,Baixa,Adulto
+373,Estudos,Graduação,São Paulo,63810.0,Inglês,2,10,1992,4.0,5.0,33,Alta,Adulto
+374,Trabalho,Doutorado,São Paulo,31163.0,Inglês,4,4,1998,1.0,2.0,27,Baixa,Adulto
+375,Outros,Mestrado,São Paulo,46098.0,Espanhol,3,18,2001,3.0,3.0,24,Média,Jovem
+376,Viagem,Graduação,São Bernardo,22585.0,Espanhol,3,3,1996,1.0,1.0,29,Baixa,Adulto
+377,Trabalho,Graduação,São Paulo,30279.0,Espanhol,2,8,2015,1.0,2.0,10,Baixa,Jovem
+378,Viagem,Doutorado,São Bernardo,67786.5,Inglês,3,28,1987,4.0,5.0,38,Alta,Adulto
+379,Estudos,Graduação,São Paulo,30822.0,Espanhol,2,11,1995,1.0,2.0,30,Baixa,Adulto
+380,Trabalho,Doutorado,São Paulo,33581.0,Espanhol e Inglês,2,13,1995,2.0,2.0,30,Baixa,Adulto
+381,Estudos,Graduação,São Paulo,19986.0,Espanhol,4,17,2011,1.0,1.0,14,Baixa,Jovem
+382,Estudos,Graduação,São Paulo,27421.0,Espanhol,4,3,1980,1.0,1.0,45,Baixa,Sênior
+383,Estudos,Ensino Médio,Campinas,35688.0,Inglês,3,38,1999,2.0,2.0,26,Média,Adulto
+384,Trabalho,Mestrado,São Bernardo,36143.0,Espanhol,4,16,2007,2.0,2.0,18,Média,Jovem
+385,Estudos,Graduação,São Bernardo,10245.0,Espanhol,4,10,1997,1.0,1.0,28,Baixa,Adulto
+386,Trabalho,Mestrado,São Paulo,43795.0,Espanhol e Inglês,1,36,1994,2.0,3.0,31,Média,Adulto
+387,Viagem,Graduação,São Paulo,67786.5,Espanhol e Inglês,3,19,1986,4.0,5.0,39,Alta,Adulto
+388,Trabalho,Graduação,São Bernardo,38823.0,Espanhol,2,5,1975,2.0,2.0,50,Média,Sênior
+389,Estudos,Doutorado,São Bernardo,83664.0,Inglês,2,31,1994,5.0,6.0,31,Alta,Adulto
+391,Outros,Mestrado,São Paulo,62499.0,Inglês,4,35,2005,4.0,4.0,20,Alta,Jovem
+392,Trabalho,Graduação,São Paulo,74293.0,Inglês,3,9,2019,5.0,5.0,6,Alta,Jovem
+393,Estudos,Doutorado,São Bernardo,51012.0,Inglês,3,1,1972,3.0,3.0,53,Média,Sênior
+394,Trabalho,Mestrado,São Paulo,67786.5,Inglês,1,43,1994,4.0,5.0,31,Alta,Adulto
+395,Trabalho,Doutorado,Campinas,68682.0,Inglês,1,15,2017,5.0,5.0,8,Alta,Jovem
+396,Trabalho,Graduação,Campinas,43824.0,Espanhol,3,11,1997,2.0,3.0,28,Média,Adulto
+397,Trabalho,Graduação,São Paulo,15345.0,Espanhol,3,7,2010,1.0,1.0,15,Baixa,Jovem
+398,Trabalho,Graduação,São Bernardo,23442.0,Espanhol,3,10,2013,1.0,1.0,12,Baixa,Jovem
+399,Estudos,Ensino Médio,São Bernardo,14515.0,Espanhol,3,8,2006,1.0,1.0,19,Baixa,Jovem
+400,Viagem,Ensino Médio,São Paulo,31395.0,Espanhol,4,11,1982,1.0,2.0,43,Baixa,Sênior
+401,Estudos,Graduação,Campinas,75276.0,Inglês,3,16,1991,5.0,6.0,34,Alta,Adulto
+402,Estudos,Graduação,São Paulo,42373.0,Inglês,3,40,2000,2.0,3.0,25,Média,Jovem
+403,Trabalho,Graduação,São Bernardo,30507.0,Espanhol,2,13,1986,1.0,2.0,39,Baixa,Adulto
+404,Trabalho,Doutorado,São Paulo,55521.0,Inglês,3,28,1981,3.0,4.0,44,Alta,Sênior
+405,Trabalho,Graduação,Campinas,48006.0,Espanhol,2,18,1991,3.0,3.0,34,Média,Adulto
+406,Estudos,Doutorado,São Paulo,27213.0,Espanhol e Inglês,2,17,1998,1.0,1.0,27,Baixa,Adulto
+407,Trabalho,Doutorado,São Paulo,65808.0,Inglês,4,27,1997,3.0,5.0,28,Alta,Adulto
+408,Trabalho,Doutorado,Campinas,30351.0,Inglês,4,52,2000,2.0,2.0,25,Baixa,Jovem
+409,Trabalho,Graduação,São Paulo,50437.0,Espanhol,1,4,1989,2.0,3.0,36,Média,Adulto
+410,Outros,Ensino Médio,São Paulo,23616.0,Espanhol,3,21,2008,1.0,1.0,17,Baixa,Jovem
+411,Trabalho,Graduação,Taubaté,53858.0,Espanhol,1,1,2002,4.0,4.0,23,Média,Jovem
+412,Trabalho,Doutorado,Taubaté,66465.0,Inglês,4,10,1981,5.0,5.0,44,Alta,Sênior
+413,Estudos,Graduação,São Paulo,46923.0,Espanhol,2,9,2013,3.0,3.0,12,Média,Jovem
+414,Estudos,Graduação,São Paulo,75072.0,Inglês,1,34,1988,5.0,6.0,37,Alta,Adulto
+415,Estudos,Doutorado,São Paulo,75865.0,Inglês,3,21,1969,5.0,6.0,56,Alta,Sênior
+416,Estudos,Ensino Médio,São Paulo,19789.0,Inglês,2,24,2001,1.0,1.0,24,Baixa,Jovem
+417,Viagem,Graduação,São Paulo,80134.0,Espanhol,2,13,2020,5.0,6.0,5,Alta,Jovem
+419,Trabalho,Mestrado,São Bernardo,49505.0,Espanhol,2,11,1997,3.0,3.0,28,Média,Adulto
+420,Trabalho,Doutorado,São Bernardo,37401.0,Inglês,5,28,1999,2.0,2.0,26,Média,Adulto
+421,Trabalho,Graduação,São Bernardo,30096.0,Espanhol e Inglês,2,33,2009,1.0,2.0,16,Baixa,Jovem
+422,Trabalho,Mestrado,São Paulo,18492.0,Espanhol,3,7,2008,1.0,1.0,17,Baixa,Jovem
+423,Viagem,Mestrado,São Paulo,79146.0,Espanhol,1,9,2000,5.0,6.0,25,Alta,Jovem
+425,Trabalho,Graduação,São Paulo,48686.0,Inglês,3,36,1979,3.0,3.0,46,Média,Sênior
+427,Estudos,Graduação,Campinas,75433.0,Espanhol e Inglês,3,30,2015,5.0,6.0,10,Alta,Jovem
+428,Estudos,Ensino Médio,São Paulo,10404.0,Espanhol,1,8,2015,1.0,1.0,10,Baixa,Jovem
+429,Estudos,Graduação,São Paulo,61314.0,Inglês,1,7,1994,4.0,4.0,31,Alta,Adulto
+431,Estudos,Graduação,São Bernardo,42387.0,Espanhol,4,7,2015,2.0,3.0,10,Média,Jovem
+432,Viagem,Ensino Médio,São Paulo,67309.0,Inglês,3,4,1993,4.0,5.0,32,Alta,Adulto
+433,Viagem,Graduação,São Paulo,75236.0,Inglês,3,1,1990,5.0,6.0,35,Alta,Adulto
+434,Viagem,Graduação,São Paulo,30015.0,Espanhol,2,14,1996,1.0,2.0,29,Baixa,Adulto
+436,Estudos,Graduação,São Paulo,67272.0,Espanhol,1,12,1992,3.0,5.0,33,Alta,Adulto
+437,Trabalho,Mestrado,São Bernardo,51529.0,Inglês,1,51,1975,3.0,4.0,50,Média,Sênior
+438,Viagem,Doutorado,São Bernardo,32011.0,Inglês,3,3,1997,1.0,2.0,28,Baixa,Adulto
+439,Viagem,Ensino Médio,São Paulo,23046.0,Espanhol,2,7,2012,1.0,1.0,13,Baixa,Jovem
+440,Estudos,Graduação,São Paulo,23046.0,Espanhol,3,14,2015,1.0,1.0,10,Baixa,Jovem
+441,Estudos,Doutorado,Rio Branco,60474.0,Inglês,4,17,1974,4.0,4.0,51,Alta,Sênior
+442,Viagem,Graduação,São Paulo,18100.0,Espanhol,1,12,1972,1.0,1.0,53,Baixa,Sênior
+443,Trabalho,Graduação,São Paulo,30279.0,Espanhol e Inglês,1,1,2015,1.0,2.0,10,Baixa,Jovem
+444,Estudos,Ensino Médio,São Bernardo,20130.0,Espanhol,3,14,2000,1.0,1.0,25,Baixa,Jovem
+445,Viagem,Graduação,Campinas,23295.0,Espanhol,1,13,1985,2.0,1.0,40,Baixa,Adulto
+446,Trabalho,Mestrado,Rio Branco,42618.0,Espanhol,1,6,1998,3.0,3.0,27,Média,Adulto
+447,Trabalho,Graduação,São Bernardo,81246.0,Espanhol e Inglês,1,42,1990,5.0,6.0,35,Alta,Adulto
+448,Viagem,Graduação,São Paulo,24027.0,Espanhol,2,7,2002,1.0,1.0,23,Baixa,Jovem
+450,Trabalho,Graduação,São Bernardo,57959.0,Espanhol,2,14,1981,3.0,4.0,44,Alta,Sênior
+451,Viagem,Graduação,São Paulo,55085.5,Inglês,3,16,1995,3.0,4.0,30,Alta,Adulto
+452,Trabalho,Mestrado,São Paulo,36230.0,Espanhol e Inglês,2,41,1997,2.0,2.0,28,Média,Adulto
+453,Estudos,Ensino Médio,Campinas,70829.0,Inglês,3,25,2006,5.0,5.0,19,Alta,Jovem
+454,Estudos,Graduação,São Paulo,65991.0,Espanhol,3,13,2002,4.0,5.0,23,Alta,Jovem
+455,Estudos,Graduação,São Paulo,38988.0,Espanhol e Inglês,4,11,1998,2.0,2.0,27,Média,Adulto
+457,Viagem,Mestrado,São Paulo,42207.0,Espanhol,3,10,2010,2.0,3.0,15,Média,Jovem
+458,Trabalho,Graduação,São Paulo,42476.0,Espanhol,5,11,1978,2.0,3.0,47,Média,Sênior
+459,Viagem,Ensino Médio,São Paulo,66664.0,Espanhol,2,16,2008,4.0,5.0,17,Alta,Jovem
+460,Estudos,Graduação,São Paulo,60597.0,Inglês,2,33,1990,4.0,4.0,35,Alta,Adulto
+461,Trabalho,Graduação,São Paulo,70165.0,Espanhol,2,7,1975,4.0,5.0,50,Alta,Sênior
+463,Viagem,Graduação,São Paulo,80124.0,Espanhol,3,13,1989,5.0,6.0,36,Alta,Adulto
+464,Trabalho,Graduação,Taubaté,33183.0,Espanhol,2,9,2001,3.0,2.0,24,Baixa,Jovem
+465,Trabalho,Doutorado,São Paulo,67786.5,Inglês,2,11,1995,4.0,5.0,30,Alta,Adulto
+466,Trabalho,Doutorado,São Paulo,75261.0,Inglês,2,17,1981,5.0,6.0,44,Alta,Sênior
+467,Viagem,Graduação,Campinas,31880.0,Inglês,3,24,1996,1.0,2.0,29,Baixa,Adulto
+468,Estudos,Graduação,São Paulo,55085.5,Inglês,4,16,1977,3.0,4.0,48,Alta,Sênior
+469,Viagem,Doutorado,Taubaté,48195.0,Inglês,1,44,1997,4.0,3.0,28,Média,Adulto
+470,Viagem,Graduação,São Paulo,61456.0,Inglês,5,27,2001,3.0,4.0,24,Alta,Jovem
+471,Trabalho,Graduação,Taubaté,37406.0,Espanhol,2,9,2006,3.0,2.0,19,Média,Jovem
+472,Estudos,Doutorado,São Paulo,56937.0,Inglês,1,31,2007,2.0,4.0,18,Alta,Jovem
+473,Trabalho,Graduação,Campinas,38415.0,Espanhol e Inglês,3,26,2004,2.0,2.0,21,Média,Jovem
+474,Trabalho,Graduação,São Paulo,20518.0,Espanhol,1,15,2014,1.0,1.0,11,Baixa,Jovem
+475,Viagem,Graduação,Rio Branco,62503.0,Inglês,3,30,1982,5.0,4.0,43,Alta,Sênior
+476,Viagem,Doutorado,São Paulo,41644.0,Inglês,4,38,1998,1.0,3.0,27,Média,Adulto
+477,Outros,Mestrado,São Paulo,55085.5,Inglês,4,23,2003,3.0,4.0,22,Alta,Jovem
+478,Trabalho,Doutorado,Taubaté,62010.0,Inglês,4,1,1998,5.0,4.0,27,Alta,Adulto
+479,Estudos,Graduação,São Paulo,41124.0,Espanhol,1,14,2003,2.0,3.0,22,Média,Jovem
+480,Outros,Mestrado,São Paulo,38961.0,Espanhol e Inglês,4,27,1999,2.0,2.0,26,Média,Adulto
+481,Trabalho,Mestrado,São Paulo,37760.0,Espanhol,5,14,1998,2.0,2.0,27,Média,Adulto
+482,Viagem,Graduação,São Paulo,32233.0,Espanhol,4,17,2000,2.0,2.0,25,Baixa,Jovem
+483,Trabalho,Graduação,São Paulo,43057.0,Espanhol,3,10,2001,2.0,3.0,24,Média,Jovem
+484,Trabalho,Mestrado,São Paulo,83151.0,Inglês,3,26,1986,5.0,6.0,39,Alta,Adulto
+485,Trabalho,Doutorado,Campinas,78825.0,Inglês,4,10,1990,5.0,6.0,35,Alta,Adulto
+486,Trabalho,Mestrado,São Paulo,65104.0,Espanhol,2,13,2002,3.0,5.0,23,Alta,Jovem
+487,Trabalho,Graduação,São Paulo,60093.0,Espanhol e Inglês,1,24,2000,4.0,4.0,25,Alta,Jovem
+488,Viagem,Graduação,Taubaté,14045.0,Inglês,4,12,1995,2.0,1.0,30,Baixa,Adulto
+489,Estudos,Ensino Médio,Campinas,28457.0,Inglês,3,29,1978,1.0,1.0,47,Baixa,Sênior
+490,Trabalho,Doutorado,São Paulo,78952.0,Inglês,4,39,1984,5.0,6.0,41,Alta,Sênior
+491,Trabalho,Graduação,São Paulo,48168.0,Espanhol,1,8,2002,3.0,3.0,23,Média,Jovem
+492,Estudos,Graduação,São Paulo,76005.0,Inglês,3,20,1981,5.0,6.0,44,Alta,Sênior
+493,Trabalho,Mestrado,São Paulo,58308.0,Inglês,3,25,1990,3.0,4.0,35,Alta,Adulto
+494,Trabalho,Doutorado,São Paulo,55614.0,Mandarim,4,83,1970,3.0,4.0,55,Alta,Sênior
+495,Trabalho,Mestrado,São Paulo,59432.0,Espanhol e Inglês,3,12,1988,4.0,4.0,37,Alta,Adulto
+496,Trabalho,Graduação,São Paulo,55563.0,Inglês,4,46,2004,3.0,4.0,21,Alta,Jovem
+497,Trabalho,Doutorado,São Paulo,78642.0,Inglês,1,24,1997,4.0,6.0,28,Alta,Adulto
+498,Trabalho,Doutorado,Taubaté,72570.0,Inglês,1,59,1975,5.0,5.0,50,Alta,Sênior
+499,Trabalho,Graduação,Rio Branco,72570.0,Inglês,4,28,1970,5.0,5.0,55,Alta,Sênior
+500,Estudos,Graduação,São Paulo,23046.0,Espanhol,1,12,1976,1.0,1.0,49,Baixa,Sênior
+501,Trabalho,Mestrado,São Paulo,48330.0,Espanhol,2,9,1987,3.0,3.0,38,Média,Adulto
+502,Estudos,Ensino Fundamental,São Paulo,24279.0,Espanhol e Inglês,2,10,2016,1.0,1.0,9,Baixa,Jovem
+503,Trabalho,Doutorado,São Bernardo,67786.5,Inglês,2,1,2011,4.0,5.0,14,Alta,Jovem
+504,Trabalho,Mestrado,São Paulo,50943.0,Espanhol,2,10,1982,3.0,3.0,43,Média,Sênior
+505,Viagem,Graduação,São Paulo,53653.0,Inglês,4,31,1979,3.0,4.0,46,Média,Sênior
+506,Estudos,Graduação,Campinas,65665.0,Espanhol,3,13,2002,5.0,5.0,23,Alta,Jovem
+507,Estudos,Graduação,São Bernardo,81217.0,Inglês,2,26,2015,5.0,6.0,10,Alta,Jovem
+508,Trabalho,Graduação,Campinas,34935.0,Espanhol,3,6,2018,3.0,2.0,7,Baixa,Jovem
+509,Estudos,Graduação,São Bernardo,61250.0,Espanhol e Inglês,5,20,1985,4.0,4.0,40,Alta,Adulto
+510,Estudos,Doutorado,São Paulo,39665.0,Espanhol e Inglês,3,38,2007,2.0,2.0,18,Média,Jovem
+511,Trabalho,Graduação,São Paulo,60152.0,Inglês,2,39,2005,4.0,4.0,20,Alta,Jovem
+512,Viagem,Graduação,Campinas,48920.0,Espanhol,2,20,1990,4.0,3.0,35,Média,Adulto
+513,Outros,Mestrado,Campinas,79146.0,Mandarim,4,87,1985,5.0,6.0,40,Alta,Adulto
+515,Trabalho,Mestrado,São Paulo,81169.0,Inglês,4,30,2001,4.0,6.0,24,Alta,Jovem
+516,Viagem,Graduação,São Paulo,36443.0,Espanhol,5,5,1987,2.0,2.0,38,Média,Adulto
+517,Viagem,Graduação,São Bernardo,26095.0,Espanhol,3,4,2016,1.0,1.0,9,Baixa,Jovem
+518,Estudos,Graduação,Rio Branco,71367.0,Inglês,1,18,1985,5.0,5.0,40,Alta,Adulto
+519,Trabalho,Mestrado,São Paulo,80184.0,Mandarim,3,84,1970,5.0,6.0,55,Alta,Sênior
+520,Estudos,Graduação,São Paulo,30630.0,Inglês,4,2,1991,1.0,2.0,34,Baixa,Adulto
+521,Trabalho,Mestrado,São Paulo,73454.0,Inglês,3,17,2013,5.0,5.0,12,Alta,Jovem
+522,Trabalho,Graduação,Taubaté,42691.0,Espanhol,3,16,2017,3.0,3.0,8,Média,Jovem
+523,Viagem,Graduação,São Bernardo,70503.0,Inglês,3,7,1979,4.0,5.0,46,Alta,Sênior
+524,Viagem,Graduação,São Bernardo,25545.0,Espanhol,3,14,2013,1.0,1.0,12,Baixa,Jovem
+525,Estudos,Graduação,São Paulo,32880.0,Espanhol,2,13,2012,2.0,2.0,13,Baixa,Jovem
+527,Trabalho,Mestrado,São Paulo,50353.0,Espanhol,1,13,2003,3.0,3.0,22,Média,Jovem
+528,Viagem,Graduação,São Paulo,61839.0,Inglês,4,11,1990,3.0,4.0,35,Alta,Adulto
+529,Trabalho,Doutorado,Campinas,49154.0,Inglês,2,29,1986,3.0,3.0,39,Média,Adulto
+530,Viagem,Ensino Médio,São Bernardo,47682.0,Espanhol,2,10,2001,3.0,3.0,24,Média,Jovem
+531,Trabalho,Graduação,Rio Branco,72679.0,Inglês,2,45,1995,5.0,5.0,30,Alta,Adulto
+532,Trabalho,Mestrado,Rio Branco,57954.0,Espanhol,4,6,2003,4.0,4.0,22,Alta,Jovem
+533,Viagem,Graduação,São Paulo,65316.0,Inglês,5,26,1988,4.0,5.0,37,Alta,Adulto
+534,Estudos,Graduação,São Bernardo,28567.0,Espanhol,1,10,2008,1.0,1.0,17,Baixa,Jovem
+535,Outros,Mestrado,Campinas,47352.0,Espanhol,1,7,1977,4.0,3.0,48,Média,Sênior
+536,Trabalho,Graduação,São Bernardo,44931.0,Espanhol e Inglês,5,28,1993,3.0,3.0,32,Média,Adulto
+537,Estudos,Graduação,São Paulo,76982.0,Espanhol e Inglês,4,14,1993,5.0,6.0,32,Alta,Adulto
+538,Estudos,Ensino Médio,São Paulo,57247.0,Inglês,2,2,1978,3.0,4.0,47,Alta,Sênior
+539,Trabalho,Mestrado,São Paulo,22944.0,Espanhol,1,15,2007,1.0,1.0,18,Baixa,Jovem
+540,Viagem,Ensino Médio,Taubaté,25315.0,Espanhol,1,9,2003,2.0,1.0,22,Baixa,Jovem
+541,Viagem,Graduação,São Paulo,43638.0,Espanhol,4,6,1995,2.0,3.0,30,Média,Adulto
+542,Trabalho,Doutorado,São Paulo,42710.0,Inglês,4,27,2010,2.0,3.0,15,Média,Jovem
+544,Trabalho,Graduação,São Paulo,54058.0,Inglês,1,11,2002,3.0,4.0,23,Média,Jovem
+545,Viagem,Ensino Médio,São Paulo,24683.0,Espanhol,3,8,2016,1.0,1.0,9,Baixa,Jovem
+547,Estudos,Graduação,São Paulo,47850.0,Espanhol,1,7,2006,3.0,3.0,19,Média,Jovem
+548,Estudos,Graduação,São Paulo,19514.0,Espanhol,2,6,1994,1.0,1.0,31,Baixa,Adulto
+549,Trabalho,Mestrado,São Bernardo,27159.0,Espanhol,2,11,1999,1.0,1.0,26,Baixa,Adulto
+550,Estudos,Ensino Médio,São Paulo,39548.0,Espanhol e Inglês,2,32,1989,2.0,2.0,36,Média,Adulto
+551,Estudos,Graduação,Campinas,21474.0,Espanhol,1,11,2015,1.0,1.0,10,Baixa,Jovem
+552,Viagem,Doutorado,São Paulo,60504.0,Inglês,3,18,1997,4.0,4.0,28,Alta,Adulto
+553,Viagem,Graduação,São Paulo,23046.0,Espanhol,2,7,1989,1.0,1.0,36,Baixa,Adulto
+554,Viagem,Mestrado,Campinas,81698.0,Mandarim,4,87,1975,5.0,6.0,50,Alta,Sênior
+555,Viagem,Graduação,São Paulo,43462.0,Espanhol,2,8,1978,2.0,3.0,47,Média,Sênior
+556,Trabalho,Doutorado,São Paulo,54880.0,Inglês,4,20,2004,3.0,4.0,21,Média,Jovem
+557,Estudos,Graduação,São Paulo,79908.0,Espanhol e Inglês,4,1,2008,4.0,6.0,17,Alta,Jovem
+558,Estudos,Ensino Médio,São Bernardo,15315.0,Espanhol,3,11,1996,1.0,1.0,29,Baixa,Adulto
+559,Trabalho,Graduação,São Paulo,79146.0,Inglês,4,8,1985,5.0,6.0,40,Alta,Adulto
+560,Estudos,Graduação,São Bernardo,33039.0,Espanhol,3,3,2004,2.0,2.0,21,Baixa,Jovem
+561,Viagem,Graduação,São Paulo,79146.0,Inglês,3,30,2006,5.0,6.0,19,Alta,Jovem
+562,Trabalho,Mestrado,São Paulo,71499.0,Inglês,3,18,1997,4.0,5.0,28,Alta,Adulto
+563,Viagem,Ensino Médio,São Paulo,62466.0,Inglês,3,26,1996,3.0,4.0,29,Alta,Adulto
+564,Trabalho,Doutorado,São Paulo,48799.0,Inglês,5,7,1989,3.0,3.0,36,Média,Adulto
+566,Estudos,Graduação,São Paulo,66565.0,Inglês,1,13,1988,4.0,5.0,37,Alta,Adulto
+567,Viagem,Mestrado,São Paulo,29298.0,Inglês,4,31,1977,1.0,1.0,48,Baixa,Sênior
+568,Trabalho,Graduação,Campinas,48195.0,Espanhol,1,3,2005,4.0,3.0,20,Média,Jovem
+569,Viagem,Graduação,São Paulo,38200.0,Espanhol,2,6,1996,2.0,2.0,29,Média,Adulto
+570,Estudos,Graduação,São Paulo,48168.0,Espanhol,3,9,2000,3.0,3.0,25,Média,Jovem
+571,Trabalho,Doutorado,São Bernardo,38443.0,Inglês,3,14,1994,2.0,2.0,31,Média,Adulto
+572,Outros,Ensino Médio,São Paulo,38593.0,Espanhol,2,12,2004,2.0,2.0,21,Média,Jovem
+573,Trabalho,Doutorado,São Paulo,64413.0,Inglês,3,46,1996,4.0,5.0,29,Alta,Adulto
+574,Outros,Mestrado,Campinas,36959.0,Espanhol,4,17,2007,2.0,2.0,18,Média,Jovem
+575,Estudos,Doutorado,Campinas,61996.0,Inglês,4,14,2003,5.0,4.0,22,Alta,Jovem
+576,Viagem,Graduação,São Paulo,51287.0,Espanhol,3,14,1994,3.0,3.0,31,Média,Adulto
+577,Trabalho,Graduação,Campinas,13260.0,Espanhol,1,9,1996,2.0,1.0,29,Baixa,Adulto
+578,Viagem,Doutorado,São Paulo,47472.0,Inglês,3,23,1992,3.0,3.0,33,Média,Adulto
+579,Trabalho,Mestrado,São Paulo,54603.0,Mandarim,4,87,1982,3.0,4.0,43,Média,Sênior
+580,Trabalho,Doutorado,São Paulo,45207.0,Inglês,4,34,2000,3.0,3.0,25,Média,Jovem
+581,Trabalho,Graduação,Rio Branco,40689.0,Inglês,1,1,1977,3.0,3.0,48,Média,Sênior
+582,Viagem,Ensino Médio,São Paulo,48168.0,Espanhol,1,10,1993,3.0,3.0,32,Média,Adulto
+584,Trabalho,Graduação,São Paulo,39453.0,Espanhol,3,5,2009,2.0,2.0,16,Média,Jovem
+585,Viagem,Ensino Médio,São Paulo,23046.0,Espanhol,1,10,1997,1.0,1.0,28,Baixa,Adulto
+586,Viagem,Graduação,São Paulo,79800.0,Espanhol e Inglês,5,37,1981,4.0,6.0,44,Alta,Sênior
+587,Outros,Mestrado,São Paulo,61794.0,Espanhol e Inglês,3,1,1987,4.0,4.0,38,Alta,Adulto
+588,Estudos,Graduação,São Paulo,53863.0,Inglês,2,1,1981,3.0,4.0,44,Média,Sênior
+589,Outros,Graduação,São Paulo,23046.0,Espanhol,3,9,1985,1.0,1.0,40,Baixa,Adulto
+590,Viagem,Doutorado,São Paulo,39684.0,Inglês,3,1,2010,2.0,2.0,15,Média,Jovem
+592,Outros,Mestrado,São Paulo,69882.0,Inglês,5,39,1991,4.0,5.0,34,Alta,Adulto
+593,Estudos,Graduação,São Paulo,33178.0,Espanhol,4,12,2003,2.0,2.0,22,Baixa,Jovem
+594,Trabalho,Doutorado,Campinas,59973.0,Inglês,2,12,1998,4.0,4.0,27,Alta,Adulto
+595,Trabalho,Mestrado,São Paulo,17459.0,Espanhol,3,6,2001,1.0,1.0,24,Baixa,Jovem
+596,Estudos,Graduação,São Paulo,23910.0,Espanhol,2,13,1995,1.0,1.0,30,Baixa,Adulto
+597,Trabalho,Mestrado,São Paulo,42476.0,Espanhol,3,18,1995,2.0,3.0,30,Média,Adulto
+598,Estudos,Ensino Médio,São Paulo,23046.0,Espanhol,2,9,2004,1.0,1.0,21,Baixa,Jovem
+599,Trabalho,Graduação,São Paulo,31089.0,Espanhol,2,12,2007,1.0,2.0,18,Baixa,Jovem
+600,Trabalho,Graduação,São Paulo,31163.0,Espanhol,4,13,1987,1.0,2.0,38,Baixa,Adulto
+601,Trabalho,Graduação,São Paulo,62807.0,Espanhol,2,8,1986,4.0,4.0,39,Alta,Adulto
+602,Estudos,Graduação,São Paulo,72570.0,Inglês,3,58,1981,5.0,5.0,44,Alta,Sênior
+603,Trabalho,Doutorado,São Paulo,61467.0,Inglês,3,12,1974,3.0,4.0,51,Alta,Sênior
+604,Trabalho,Mestrado,São Paulo,49618.0,Espanhol,5,11,1992,3.0,3.0,33,Média,Adulto
+605,Viagem,Mestrado,São Paulo,23046.0,Espanhol,4,10,2012,1.0,1.0,13,Baixa,Jovem
+606,Viagem,Graduação,São Paulo,42429.0,Espanhol,1,10,1999,2.0,3.0,26,Média,Adulto
+607,Estudos,Graduação,São Paulo,26150.0,Espanhol,1,6,1982,1.0,1.0,43,Baixa,Sênior
+608,Outros,Ensino Fundamental,São Paulo,30801.0,Inglês,4,23,2001,1.0,2.0,24,Baixa,Jovem
+609,Estudos,Graduação,São Paulo,81168.0,Inglês,2,43,1991,5.0,6.0,34,Alta,Adulto
+610,Trabalho,Mestrado,São Paulo,23046.0,Espanhol,1,10,1995,1.0,1.0,30,Baixa,Adulto
+611,Trabalho,Mestrado,São Bernardo,45006.0,Mandarim,5,85,1970,3.0,3.0,55,Média,Sênior
+612,Outros,Ensino Fundamental,São Paulo,18978.0,Espanhol,1,12,1999,1.0,1.0,26,Baixa,Adulto
+613,Estudos,Graduação,São Paulo,22574.0,Espanhol,1,17,1993,1.0,1.0,32,Baixa,Adulto
+614,Estudos,Doutorado,Campinas,48240.0,Inglês,4,50,1995,3.0,3.0,30,Média,Adulto
+615,Estudos,Graduação,Campinas,45837.0,Espanhol,3,15,2000,4.0,3.0,25,Média,Jovem
+616,Trabalho,Mestrado,São Paulo,31163.0,Espanhol,1,21,1991,1.0,2.0,34,Baixa,Adulto
+618,Viagem,Graduação,São Bernardo,54162.0,Inglês,2,38,2004,3.0,4.0,21,Média,Jovem
+619,Outros,Mestrado,São Bernardo,31163.0,Inglês,2,35,1986,1.0,2.0,39,Baixa,Adulto
+620,Viagem,Doutorado,São Paulo,54456.0,Espanhol e Inglês,5,15,1987,3.0,4.0,38,Média,Adulto
+621,Viagem,Graduação,São Paulo,31632.0,Espanhol,2,6,1997,1.0,2.0,28,Baixa,Adulto
+622,Trabalho,Graduação,São Paulo,72298.0,Inglês,2,29,1975,5.0,5.0,50,Alta,Sênior
+623,Estudos,Ensino Médio,São Paulo,35778.0,Espanhol,4,14,2004,2.0,2.0,21,Média,Jovem
+624,Estudos,Ensino Médio,São Paulo,72635.0,Inglês,4,32,1981,5.0,5.0,44,Alta,Sênior
+625,Estudos,Graduação,São Paulo,13624.0,Espanhol,1,11,2002,1.0,1.0,23,Baixa,Jovem
+627,Viagem,Graduação,São Bernardo,70971.0,Inglês,2,8,1986,4.0,5.0,39,Alta,Adulto
+628,Estudos,Doutorado,São Paulo,34487.0,Inglês,4,20,2003,1.0,2.0,22,Baixa,Jovem
+629,Viagem,Graduação,São Paulo,28769.0,Espanhol,4,21,2003,1.0,1.0,22,Baixa,Jovem
+630,Trabalho,Doutorado,São Bernardo,69084.0,Inglês,3,17,1996,4.0,5.0,29,Alta,Adulto
+631,Estudos,Doutorado,Campinas,65488.0,Inglês,3,13,1984,4.0,5.0,41,Alta,Sênior
+632,Estudos,Ensino Médio,São Paulo,62466.0,Inglês,3,30,1996,4.0,4.0,29,Alta,Adulto
+633,Estudos,Ensino Médio,São Paulo,35778.0,Espanhol e Inglês,3,3,1986,2.0,2.0,39,Média,Adulto
+635,Viagem,Graduação,São Paulo,46102.0,Espanhol,1,6,1988,3.0,3.0,37,Média,Adulto
+636,Estudos,Graduação,São Paulo,79146.0,Espanhol,3,7,1978,5.0,6.0,47,Alta,Sênior
+637,Trabalho,Graduação,São Paulo,55085.5,Espanhol,3,1,1988,3.0,4.0,37,Alta,Adulto
+639,Estudos,Graduação,São Paulo,73691.0,Inglês,2,34,1997,5.0,5.0,28,Alta,Adulto
+640,Viagem,Graduação,São Paulo,63381.0,Espanhol e Inglês,3,1,1986,3.0,5.0,39,Alta,Adulto
+641,Trabalho,Doutorado,São Paulo,76140.0,Inglês,5,21,1974,5.0,6.0,51,Alta,Sênior
+642,Trabalho,Doutorado,São Paulo,60474.0,Mandarim,5,84,1985,4.0,4.0,40,Alta,Adulto
+643,Estudos,Graduação,São Paulo,45906.0,Espanhol,4,7,1990,3.0,3.0,35,Média,Adulto
+644,Trabalho,Mestrado,São Paulo,79146.0,Inglês,2,42,1973,5.0,6.0,52,Alta,Sênior
+645,Trabalho,Doutorado,Campinas,46463.0,Inglês,4,3,1997,3.0,3.0,28,Média,Adulto
+647,Trabalho,Mestrado,São Paulo,55282.0,Espanhol,3,6,1996,3.0,4.0,29,Alta,Adulto
+648,Trabalho,Mestrado,São Bernardo,78710.0,Espanhol,4,11,2003,5.0,6.0,22,Alta,Jovem
+649,Estudos,Graduação,São Paulo,66886.0,Espanhol e Inglês,4,13,1984,4.0,5.0,41,Alta,Sênior
+651,Trabalho,Graduação,São Paulo,29103.0,Espanhol,2,12,2011,1.0,1.0,14,Baixa,Jovem
+652,Viagem,Graduação,São Paulo,67445.0,Espanhol,1,19,2000,4.0,5.0,25,Alta,Jovem
+653,Estudos,Doutorado,São Bernardo,50616.0,Inglês,2,17,1976,3.0,3.0,49,Média,Sênior
+654,Estudos,Graduação,São Paulo,49431.0,Espanhol e Inglês,5,25,1981,3.0,3.0,44,Média,Sênior
+656,Viagem,Graduação,São Paulo,61278.0,Inglês,2,1,1979,4.0,4.0,46,Alta,Sênior
+657,Estudos,Ensino Médio,São Paulo,23046.0,Inglês,1,19,1984,1.0,1.0,41,Baixa,Sênior
+658,Trabalho,Doutorado,São Paulo,73059.0,Espanhol e Inglês,2,19,1973,5.0,5.0,52,Alta,Sênior
+659,Trabalho,Doutorado,São Paulo,46734.0,Inglês,3,18,1992,3.0,3.0,33,Média,Adulto
+660,Estudos,Graduação,São Paulo,56253.0,Inglês,3,43,1989,3.0,4.0,36,Alta,Adulto
+661,Trabalho,Graduação,Rio Branco,19986.0,Espanhol,3,15,2011,2.0,1.0,14,Baixa,Jovem
+662,Estudos,Graduação,São Paulo,58330.0,Inglês,4,29,2001,3.0,4.0,24,Alta,Jovem
+663,Estudos,Ensino Fundamental,São Paulo,25965.0,Espanhol,4,7,2006,1.0,1.0,19,Baixa,Jovem
+664,Outros,Mestrado,São Paulo,14661.0,Espanhol,5,6,1982,1.0,1.0,43,Baixa,Sênior
+665,Estudos,Graduação,São Paulo,18690.0,Espanhol,2,12,1985,1.0,1.0,40,Baixa,Adulto
+666,Trabalho,Doutorado,São Paulo,45068.0,Inglês,3,5,2000,3.0,3.0,25,Média,Jovem
+667,Estudos,Ensino Fundamental,São Paulo,23046.0,Espanhol e Inglês,2,27,2013,1.0,1.0,12,Baixa,Jovem
+668,Trabalho,Doutorado,São Paulo,29187.0,Inglês,3,48,1994,1.0,1.0,31,Baixa,Adulto
+669,Viagem,Ensino Médio,São Paulo,55085.5,Espanhol e Inglês,4,21,1997,3.0,4.0,28,Alta,Adulto
+670,Trabalho,Doutorado,São Paulo,60474.0,Inglês,2,38,1990,4.0,4.0,35,Alta,Adulto
+671,Trabalho,Mestrado,Campinas,59247.0,Inglês,2,29,1988,4.0,4.0,37,Alta,Adulto
+672,Viagem,Graduação,São Paulo,66731.0,Inglês,1,17,1996,3.0,5.0,29,Alta,Adulto
+673,Trabalho,Graduação,São Paulo,77353.0,Inglês,4,6,2006,5.0,6.0,19,Alta,Jovem
+674,Trabalho,Doutorado,São Paulo,52614.0,Espanhol e Inglês,4,1,2001,3.0,4.0,24,Média,Jovem
+675,Viagem,Graduação,Rio Branco,26751.0,Espanhol,1,3,2000,2.0,1.0,25,Baixa,Jovem
+676,Estudos,Doutorado,São Paulo,81300.0,Inglês,3,14,1989,5.0,6.0,36,Alta,Adulto
+677,Trabalho,Graduação,São Paulo,70337.0,Inglês,4,36,2005,4.0,5.0,20,Alta,Jovem
+678,Estudos,Ensino Médio,Taubaté,36145.0,Espanhol e Inglês,4,35,2011,3.0,2.0,14,Média,Jovem
+679,Trabalho,Doutorado,Campinas,65295.0,Inglês,3,48,2006,4.0,5.0,19,Alta,Jovem
+680,Estudos,Graduação,São Bernardo,68118.0,Inglês,4,43,1989,4.0,5.0,36,Alta,Adulto
+681,Estudos,Graduação,São Paulo,68743.0,Espanhol,3,19,1993,4.0,5.0,32,Alta,Adulto
+682,Viagem,Ensino Médio,São Paulo,41039.0,Espanhol,2,16,2008,2.0,3.0,17,Média,Jovem
+683,Estudos,Graduação,São Paulo,38946.0,Inglês,2,13,1981,2.0,2.0,44,Média,Sênior
+684,Estudos,Graduação,Campinas,65777.0,Espanhol,4,8,1993,5.0,5.0,32,Alta,Adulto
+685,Estudos,Doutorado,São Paulo,66476.0,Inglês,2,3,2002,4.0,5.0,23,Alta,Jovem
+688,Trabalho,Doutorado,São Bernardo,77845.0,Espanhol e Inglês,1,13,2015,5.0,6.0,10,Alta,Jovem
+689,Trabalho,Doutorado,São Paulo,69476.0,Inglês,3,1,1995,4.0,5.0,30,Alta,Adulto
+690,Viagem,Doutorado,São Paulo,50611.0,Inglês,5,25,1986,3.0,3.0,39,Média,Adulto
+691,Trabalho,Graduação,São Paulo,61209.0,Espanhol,4,1,1996,4.0,4.0,29,Alta,Adulto
+692,Trabalho,Mestrado,São Paulo,42476.0,Mandarim,5,83,1984,2.0,3.0,41,Média,Sênior
+693,Estudos,Ensino Fundamental,São Paulo,23046.0,Espanhol,2,17,1978,1.0,1.0,47,Baixa,Sênior
+695,Trabalho,Mestrado,São Paulo,61923.0,Espanhol,3,9,1987,4.0,4.0,38,Alta,Adulto
+696,Estudos,Graduação,São Paulo,34824.0,Espanhol,3,16,2021,2.0,2.0,4,Baixa,Jovem
+697,Trabalho,Doutorado,São Paulo,26518.0,Inglês,1,18,1975,1.0,1.0,50,Baixa,Sênior
+698,Estudos,Graduação,São Paulo,45938.0,Espanhol,1,2,1987,3.0,3.0,38,Média,Adulto
+699,Trabalho,Graduação,São Paulo,78468.0,Inglês,2,13,1986,5.0,6.0,39,Alta,Adulto
+700,Trabalho,Graduação,São Paulo,78901.0,Inglês,3,1,1999,5.0,6.0,26,Alta,Adulto
+701,Estudos,Graduação,São Paulo,71427.0,Inglês,5,28,2004,3.0,5.0,21,Alta,Jovem
+702,Estudos,Graduação,São Paulo,71022.0,Inglês,3,12,2004,4.0,5.0,21,Alta,Jovem
+703,Trabalho,Mestrado,São Paulo,79146.0,Espanhol,4,7,2014,5.0,6.0,11,Alta,Jovem
+704,Trabalho,Mestrado,São Paulo,41335.0,Espanhol,2,10,1994,1.0,3.0,31,Média,Adulto
+705,Trabalho,Graduação,Rio Branco,72570.0,Espanhol,4,10,2012,5.0,5.0,13,Alta,Jovem
+706,Trabalho,Doutorado,São Paulo,35682.0,Inglês,3,2,1996,2.0,2.0,29,Média,Adulto
+707,Viagem,Graduação,São Bernardo,43185.0,Espanhol,2,8,1977,2.0,3.0,48,Média,Sênior
+709,Outros,Mestrado,São Paulo,35178.0,Espanhol e Inglês,1,1,1997,2.0,2.0,28,Média,Adulto
+710,Estudos,Graduação,São Bernardo,25252.0,Espanhol,4,13,2012,1.0,1.0,13,Baixa,Jovem
+711,Trabalho,Mestrado,São Paulo,55250.0,Inglês,2,1,1991,3.0,4.0,34,Alta,Adulto
+712,Trabalho,Graduação,São Paulo,33249.0,Espanhol,2,5,2001,2.0,2.0,24,Baixa,Jovem
+713,Estudos,Graduação,São Paulo,58398.0,Espanhol e Inglês,5,14,1979,3.0,4.0,46,Alta,Sênior
+714,Viagem,Graduação,São Paulo,50272.0,Espanhol,1,9,2008,3.0,3.0,17,Média,Jovem
+715,Viagem,Doutorado,Campinas,76618.0,Inglês,5,20,2001,5.0,6.0,24,Alta,Jovem
+717,Viagem,Graduação,Taubaté,25851.0,Espanhol,1,13,2004,2.0,1.0,21,Baixa,Jovem
+718,Trabalho,Graduação,São Paulo,58710.0,Espanhol,2,14,1996,4.0,4.0,29,Alta,Adulto
+719,Estudos,Graduação,São Bernardo,45160.0,Espanhol e Inglês,1,43,1984,3.0,3.0,41,Média,Sênior
+720,Trabalho,Mestrado,Campinas,74806.0,Inglês,5,47,1991,5.0,6.0,34,Alta,Adulto
+721,Estudos,Graduação,São Paulo,60474.0,Inglês,3,45,1980,4.0,4.0,45,Alta,Sênior
+722,Viagem,Doutorado,São Paulo,23046.0,Inglês,4,13,2010,1.0,1.0,15,Baixa,Jovem
+723,Estudos,Graduação,São Bernardo,72570.0,Espanhol,5,4,1991,5.0,5.0,34,Alta,Adulto
+724,Viagem,Graduação,São Paulo,7500.0,Espanhol,5,2,2002,1.0,1.0,23,Baixa,Jovem
+725,Trabalho,Graduação,São Bernardo,44794.0,Espanhol,3,16,1992,3.0,3.0,33,Média,Adulto
+726,Trabalho,Graduação,São Paulo,80395.0,Espanhol e Inglês,3,33,1981,5.0,6.0,44,Alta,Sênior
+727,Trabalho,Mestrado,São Bernardo,75012.0,Inglês,3,11,2002,5.0,6.0,23,Alta,Jovem
+728,Trabalho,Mestrado,São Paulo,55085.5,Inglês,3,27,1991,3.0,4.0,34,Alta,Adulto
+731,Trabalho,Doutorado,São Bernardo,53593.0,Inglês,2,25,1979,3.0,4.0,46,Média,Sênior
+732,Trabalho,Graduação,São Paulo,66373.0,Espanhol,3,12,2004,4.0,5.0,21,Alta,Jovem
+733,Estudos,Doutorado,São Paulo,45072.0,Inglês,1,31,1974,3.0,3.0,51,Média,Sênior
+735,Estudos,Graduação,Campinas,72025.0,Inglês,3,38,1975,5.0,5.0,50,Alta,Sênior
+736,Estudos,Graduação,São Paulo,67432.0,Inglês,4,18,1999,4.0,5.0,26,Alta,Adulto
+737,Trabalho,Mestrado,São Bernardo,70545.0,Espanhol e Inglês,2,15,1978,4.0,5.0,47,Alta,Sênior
+738,Estudos,Ensino Fundamental,São Paulo,17487.0,Espanhol,2,18,2015,1.0,1.0,10,Baixa,Jovem
+739,Estudos,Graduação,São Paulo,62882.0,Inglês,4,17,1995,4.0,4.0,30,Alta,Adulto
+741,Trabalho,Mestrado,São Paulo,35778.0,Espanhol,2,11,1982,2.0,2.0,43,Média,Sênior
+742,Estudos,Doutorado,São Bernardo,48767.0,Inglês,5,7,1976,3.0,3.0,49,Média,Sênior
+743,Estudos,Ensino Médio,São Paulo,38702.0,Espanhol,3,16,2004,2.0,2.0,21,Média,Jovem
+744,Trabalho,Graduação,São Paulo,82224.0,Espanhol,3,10,1990,5.0,6.0,35,Alta,Adulto
+745,Estudos,Graduação,Campinas,83844.0,Inglês,1,8,1978,5.0,6.0,47,Alta,Sênior
+746,Estudos,Ensino Médio,São Paulo,17003.0,Inglês,4,17,2001,1.0,1.0,24,Baixa,Jovem
+747,Estudos,Graduação,São Paulo,71163.0,Inglês,3,26,2021,4.0,5.0,4,Alta,Jovem
+748,Viagem,Graduação,Campinas,33697.0,Espanhol e Inglês,4,15,1996,3.0,2.0,29,Baixa,Adulto
+749,Viagem,Ensino Médio,São Paulo,63564.0,Inglês,2,34,1980,4.0,5.0,45,Alta,Sênior
+750,Trabalho,Doutorado,São Paulo,83443.0,Espanhol e Inglês,4,15,1998,5.0,6.0,27,Alta,Adulto
+751,Trabalho,Doutorado,Campinas,60474.0,Inglês,4,8,1984,4.0,4.0,41,Alta,Sênior
+752,Estudos,Graduação,São Paulo,58330.0,Inglês,5,42,2001,3.0,4.0,24,Alta,Jovem
+753,Viagem,Graduação,São Paulo,80952.0,Inglês,4,16,1995,5.0,6.0,30,Alta,Adulto
+754,Viagem,Graduação,São Paulo,75507.0,Inglês,3,20,2005,5.0,6.0,20,Alta,Jovem
+755,Estudos,Ensino Médio,São Bernardo,63855.0,Inglês,3,9,2004,4.0,5.0,21,Alta,Jovem
+756,Estudos,Doutorado,São Paulo,62220.0,Inglês,4,1,1998,4.0,4.0,27,Alta,Adulto
+757,Trabalho,Graduação,São Paulo,58512.0,Inglês,3,33,1990,4.0,4.0,35,Alta,Adulto
+758,Trabalho,Mestrado,Campinas,42476.0,Espanhol e Inglês,1,51,2005,2.0,3.0,20,Média,Jovem
+759,Estudos,Doutorado,São Bernardo,38829.0,Inglês,5,31,1985,2.0,2.0,40,Média,Adulto
+760,Viagem,Ensino Médio,São Paulo,35523.0,Espanhol,3,20,2007,2.0,2.0,18,Média,Jovem
+761,Trabalho,Graduação,São Paulo,79146.0,Espanhol,3,19,1993,5.0,6.0,32,Alta,Adulto
+762,Trabalho,Mestrado,São Paulo,78285.0,Espanhol,1,9,2014,5.0,6.0,11,Alta,Jovem
+763,Viagem,Doutorado,São Bernardo,31626.0,Inglês,4,16,2004,1.0,2.0,21,Baixa,Jovem
+764,Trabalho,Graduação,São Paulo,75127.0,Inglês,4,21,1978,4.0,6.0,47,Alta,Sênior
+765,Trabalho,Graduação,São Paulo,48726.0,Espanhol,2,15,1981,3.0,3.0,44,Média,Sênior
+766,Viagem,Graduação,São Bernardo,74985.0,Inglês,2,28,2003,5.0,6.0,22,Alta,Jovem
+767,Trabalho,Graduação,Campinas,67786.5,Inglês,4,1,2013,4.0,5.0,12,Alta,Jovem
+768,Estudos,Ensino Médio,São Paulo,46891.0,Espanhol,1,13,1991,3.0,3.0,34,Média,Adulto
+769,Trabalho,Mestrado,São Bernardo,62058.0,Inglês,3,12,1982,4.0,4.0,43,Alta,Sênior
+770,Trabalho,Graduação,São Paulo,72570.0,Inglês,4,32,2005,5.0,5.0,20,Alta,Jovem
+771,Trabalho,Doutorado,São Bernardo,78939.0,Inglês,2,1,1977,5.0,6.0,48,Alta,Sênior
+772,Estudos,Graduação,São Paulo,42720.0,Espanhol,2,17,1991,2.0,3.0,34,Média,Adulto
+773,Trabalho,Graduação,São Paulo,33622.0,Espanhol,2,5,1998,2.0,2.0,27,Baixa,Adulto
+774,Trabalho,Doutorado,São Bernardo,6835.0,Mandarim,5,88,1983,1.0,1.0,42,Baixa,Sênior
+775,Viagem,Graduação,São Paulo,42476.0,Inglês,4,24,1979,2.0,3.0,46,Média,Sênior
+776,Estudos,Doutorado,São Paulo,40760.0,Inglês,5,1,1991,2.0,3.0,34,Média,Adulto
+777,Trabalho,Doutorado,São Bernardo,74250.0,Mandarim,3,83,1984,5.0,5.0,41,Alta,Sênior
+778,Trabalho,Mestrado,São Bernardo,51124.0,Espanhol,4,13,1981,3.0,3.0,44,Média,Sênior
+779,Trabalho,Graduação,São Paulo,72258.0,Inglês,1,27,1997,5.0,5.0,28,Alta,Adulto
+780,Trabalho,Doutorado,São Paulo,71466.0,Inglês,5,19,2000,4.0,5.0,25,Alta,Jovem
+781,Trabalho,Graduação,São Paulo,35778.0,Espanhol,2,15,2002,2.0,2.0,23,Média,Jovem
+782,Estudos,Graduação,São Paulo,20587.0,Inglês,3,1,1996,1.0,1.0,29,Baixa,Adulto
+783,Estudos,Graduação,São Paulo,30467.0,Espanhol,1,1,1998,1.0,2.0,27,Baixa,Adulto
+784,Estudos,Graduação,São Paulo,31590.0,Inglês,4,37,1998,1.0,2.0,27,Baixa,Adulto
+785,Viagem,Ensino Fundamental,Campinas,20425.0,Espanhol,1,4,2012,2.0,1.0,13,Baixa,Jovem
+786,Outros,Mestrado,São Paulo,17144.0,Espanhol,3,1,1986,1.0,1.0,39,Baixa,Adulto
+787,Trabalho,Doutorado,São Paulo,42564.0,Espanhol e Inglês,4,26,1994,2.0,3.0,31,Média,Adulto
+788,Trabalho,Mestrado,São Paulo,43783.0,Espanhol,3,9,2004,2.0,3.0,21,Média,Jovem
+789,Viagem,Graduação,Campinas,40780.0,Espanhol,1,14,2002,3.0,3.0,23,Média,Jovem
+790,Trabalho,Mestrado,São Paulo,60474.0,Mandarim,5,86,1971,4.0,4.0,54,Alta,Sênior
+791,Viagem,Doutorado,São Paulo,82017.0,Inglês,3,9,1983,5.0,6.0,42,Alta,Sênior
+792,Viagem,Graduação,São Paulo,16813.0,Espanhol,1,18,1976,1.0,1.0,49,Baixa,Sênior
+793,Estudos,Graduação,São Paulo,51267.0,Espanhol,3,10,2004,3.0,3.0,21,Média,Jovem
+794,Trabalho,Graduação,São Paulo,46524.0,Espanhol,1,18,1987,2.0,3.0,38,Média,Adulto
+795,Trabalho,Mestrado,Campinas,45183.0,Inglês,4,8,1988,3.0,3.0,37,Média,Adulto
+796,Trabalho,Doutorado,Campinas,72570.0,Mandarim,3,88,1980,5.0,5.0,45,Alta,Sênior
+797,Estudos,Ensino Médio,São Paulo,60161.0,Inglês,4,23,1991,4.0,4.0,34,Alta,Adulto
+798,Estudos,Graduação,São Paulo,73926.0,Inglês,3,37,1999,5.0,5.0,26,Alta,Adulto
+799,Estudos,Graduação,Campinas,19329.0,Espanhol,4,3,1994,2.0,1.0,31,Baixa,Adulto
+800,Trabalho,Mestrado,São Bernardo,61872.0,Inglês,3,5,1996,4.0,4.0,29,Alta,Adulto
+801,Trabalho,Graduação,São Paulo,48168.0,Espanhol,3,1,1982,3.0,3.0,43,Média,Sênior
+802,Estudos,Graduação,São Paulo,34838.0,Inglês,4,21,1977,2.0,2.0,48,Baixa,Sênior
+804,Viagem,Graduação,São Paulo,48168.0,Espanhol e Inglês,4,26,1984,3.0,3.0,41,Média,Sênior
+805,Trabalho,Mestrado,São Bernardo,49681.0,Espanhol,1,10,2002,3.0,3.0,23,Média,Jovem
+806,Trabalho,Mestrado,Campinas,56850.0,Inglês,4,26,1997,4.0,4.0,28,Alta,Adulto
+807,Estudos,Graduação,Campinas,55267.0,Espanhol,1,12,1983,4.0,4.0,42,Alta,Sênior
+808,Estudos,Graduação,São Paulo,59666.0,Inglês,4,30,1998,4.0,4.0,27,Alta,Adulto
+809,Estudos,Graduação,São Paulo,72504.0,Inglês,3,23,1998,5.0,5.0,27,Alta,Adulto
+810,Estudos,Graduação,Rio Branco,26872.0,Espanhol,5,10,2007,2.0,1.0,18,Baixa,Jovem
+811,Estudos,Graduação,São Bernardo,23046.0,Espanhol,2,1,1998,1.0,1.0,27,Baixa,Adulto
+812,Viagem,Graduação,São Paulo,73170.0,Espanhol e Inglês,4,35,2001,5.0,5.0,24,Alta,Jovem
+813,Trabalho,Mestrado,Campinas,52750.0,Inglês,2,14,1981,4.0,4.0,44,Média,Sênior
+815,Trabalho,Doutorado,São Paulo,67786.5,Inglês,1,21,1996,4.0,5.0,29,Alta,Adulto
+816,Trabalho,Graduação,São Paulo,31163.0,Espanhol,2,10,2002,1.0,2.0,23,Baixa,Jovem
+817,Trabalho,Graduação,São Paulo,22507.0,Espanhol,4,3,1980,1.0,1.0,45,Baixa,Sênior
+818,Estudos,Graduação,São Paulo,65685.0,Espanhol,4,13,1998,3.0,5.0,27,Alta,Adulto
+819,Estudos,Ensino Médio,São Paulo,25804.0,Espanhol,5,12,2004,1.0,1.0,21,Baixa,Jovem
+820,Trabalho,Doutorado,São Bernardo,76412.0,Inglês,3,4,2006,5.0,6.0,19,Alta,Jovem
+821,Trabalho,Graduação,São Paulo,22063.0,Inglês,3,1,1998,1.0,1.0,27,Baixa,Adulto
+822,Estudos,Graduação,São Paulo,55085.5,Inglês,3,27,1987,3.0,4.0,38,Alta,Adulto
+823,Trabalho,Graduação,São Paulo,23046.0,Espanhol,3,5,1989,1.0,1.0,36,Baixa,Adulto
+825,Estudos,Ensino Médio,Campinas,79146.0,Espanhol,2,7,1985,5.0,6.0,40,Alta,Adulto
+827,Estudos,Graduação,São Paulo,35778.0,Espanhol e Inglês,3,24,1988,2.0,2.0,37,Média,Adulto
+828,Trabalho,Doutorado,São Bernardo,80995.0,Inglês,2,5,1984,5.0,6.0,41,Alta,Sênior
+829,Trabalho,Graduação,São Paulo,16529.0,Espanhol,1,5,2010,1.0,1.0,15,Baixa,Jovem
+830,Trabalho,Doutorado,São Paulo,55085.5,Inglês,3,29,2002,3.0,4.0,23,Alta,Jovem
+831,Estudos,Graduação,São Paulo,48789.0,Espanhol,3,10,2018,3.0,3.0,7,Média,Jovem
+832,Estudos,Doutorado,São Paulo,56575.0,Inglês,2,51,1993,3.0,4.0,32,Alta,Adulto
+833,Viagem,Ensino Médio,São Paulo,25130.0,Espanhol,3,15,2006,1.0,1.0,19,Baixa,Jovem
+834,Trabalho,Graduação,São Paulo,35441.0,Espanhol,2,5,1993,2.0,2.0,32,Média,Adulto
+835,Viagem,Graduação,São Paulo,71391.0,Inglês,1,20,1982,4.0,5.0,43,Alta,Sênior
+836,Trabalho,Mestrado,Campinas,49494.0,Espanhol,4,13,1998,4.0,3.0,27,Média,Adulto
+837,Estudos,Graduação,São Paulo,81702.0,Inglês,3,9,2006,5.0,6.0,19,Alta,Jovem
+838,Viagem,Ensino Médio,São Paulo,45889.0,Espanhol,1,7,2006,3.0,3.0,19,Média,Jovem
+839,Estudos,Graduação,São Paulo,56628.0,Espanhol,2,6,2003,3.0,4.0,22,Alta,Jovem
+840,Viagem,Graduação,São Paulo,31163.0,Espanhol e Inglês,4,16,1976,1.0,2.0,49,Baixa,Sênior
+841,Trabalho,Graduação,São Paulo,40049.0,Espanhol,1,9,2000,2.0,2.0,25,Média,Jovem
+842,Viagem,Graduação,São Paulo,35778.0,Espanhol,2,5,2014,2.0,2.0,11,Média,Jovem
+843,Trabalho,Graduação,Taubaté,23272.0,Espanhol,1,7,2007,2.0,1.0,18,Baixa,Jovem
+844,Estudos,Ensino Médio,São Paulo,82504.0,Inglês,3,17,1986,5.0,6.0,39,Alta,Adulto
+845,Estudos,Graduação,São Paulo,81205.0,Inglês,3,41,1996,5.0,6.0,29,Alta,Adulto
+846,Estudos,Ensino Médio,São Paulo,61618.0,Espanhol e Inglês,3,17,2017,3.0,4.0,8,Alta,Jovem
+848,Estudos,Graduação,São Paulo,49980.0,Espanhol,1,4,1989,3.0,3.0,36,Média,Adulto
+849,Trabalho,Graduação,São Paulo,15072.0,Espanhol,1,20,2006,1.0,1.0,19,Baixa,Jovem
+850,Trabalho,Graduação,São Paulo,49166.0,Espanhol,3,10,2000,2.0,3.0,25,Média,Jovem
+851,Estudos,Doutorado,São Bernardo,65324.0,Mandarim,3,81,1980,4.0,5.0,45,Alta,Sênior
+852,Viagem,Ensino Médio,São Paulo,82347.0,Inglês,4,10,1983,5.0,6.0,42,Alta,Sênior
+853,Viagem,Doutorado,Campinas,30843.0,Inglês,3,8,1992,1.0,2.0,33,Baixa,Adulto
+854,Estudos,Doutorado,São Paulo,46374.0,Inglês,3,13,2000,3.0,3.0,25,Média,Jovem
+855,Estudos,Graduação,São Paulo,60474.0,Inglês,1,6,2005,4.0,4.0,20,Alta,Jovem
+856,Trabalho,Mestrado,São Paulo,38576.0,Espanhol,3,7,1999,1.0,2.0,26,Média,Adulto
+857,Estudos,Graduação,São Paulo,55357.0,Espanhol e Inglês,3,19,2011,3.0,4.0,14,Alta,Jovem
+858,Estudos,Graduação,São Paulo,37758.0,Espanhol,3,11,1992,2.0,2.0,33,Média,Adulto
+860,Trabalho,Graduação,São Bernardo,23228.0,Espanhol e Inglês,3,19,1995,1.0,1.0,30,Baixa,Adulto
+861,Outros,Mestrado,São Paulo,44602.0,Espanhol,5,9,1995,3.0,3.0,30,Média,Adulto
+862,Trabalho,Graduação,São Paulo,7500.0,Espanhol,2,9,2013,1.0,1.0,12,Baixa,Jovem
+863,Estudos,Ensino Médio,São Paulo,38683.0,Espanhol,2,13,2015,2.0,2.0,10,Média,Jovem
+864,Estudos,Ensino Médio,São Paulo,48168.0,Espanhol,4,14,2001,3.0,3.0,24,Média,Jovem
+865,Estudos,Doutorado,São Paulo,57906.0,Inglês,3,44,1999,3.0,4.0,26,Alta,Adulto
+866,Trabalho,Mestrado,São Paulo,43456.0,Espanhol,1,7,1992,2.0,3.0,33,Média,Adulto
+867,Outros,Mestrado,São Paulo,19485.0,Espanhol,5,7,2012,1.0,1.0,13,Baixa,Jovem
+868,Estudos,Graduação,Campinas,53172.0,Inglês,3,25,2004,3.0,4.0,21,Média,Jovem
+869,Estudos,Graduação,Campinas,35778.0,Espanhol,1,9,2005,2.0,2.0,20,Média,Jovem
+870,Estudos,Doutorado,São Paulo,70123.0,Inglês,3,16,2009,4.0,5.0,16,Alta,Jovem
+871,Viagem,Graduação,São Paulo,62450.0,Espanhol e Inglês,4,31,1985,4.0,4.0,40,Alta,Adulto
+872,Viagem,Graduação,São Paulo,21675.0,Espanhol,5,1,2002,1.0,1.0,23,Baixa,Jovem
+873,Viagem,Ensino Médio,São Paulo,42395.0,Espanhol,1,2,2007,2.0,3.0,18,Média,Jovem
+874,Viagem,Mestrado,São Paulo,61346.0,Inglês,4,16,2004,3.0,4.0,21,Alta,Jovem
+875,Trabalho,Graduação,São Paulo,79146.0,Inglês,4,1,1979,5.0,6.0,46,Alta,Sênior
+876,Trabalho,Mestrado,São Bernardo,42476.0,Espanhol,4,17,1997,2.0,3.0,28,Média,Adulto
+877,Trabalho,Graduação,São Paulo,39922.0,Espanhol,2,18,2009,2.0,2.0,16,Média,Jovem
+879,Estudos,Ensino Médio,São Paulo,17117.0,Espanhol,5,9,2004,1.0,1.0,21,Baixa,Jovem
+880,Viagem,Graduação,São Paulo,24762.0,Espanhol,1,13,1998,1.0,1.0,27,Baixa,Adulto
+881,Trabalho,Graduação,São Paulo,35797.0,Espanhol,3,12,2001,2.0,2.0,24,Média,Jovem
+882,Viagem,Graduação,São Paulo,36627.0,Espanhol,5,25,2001,1.0,2.0,24,Média,Jovem
+883,Viagem,Ensino Médio,São Paulo,51111.0,Espanhol,2,16,2007,3.0,3.0,18,Média,Jovem
+885,Trabalho,Doutorado,São Paulo,82072.0,Inglês,2,17,1996,5.0,6.0,29,Alta,Adulto
+886,Trabalho,Doutorado,São Paulo,46231.0,Inglês,1,68,1979,3.0,3.0,46,Média,Sênior
+887,Trabalho,Graduação,São Paulo,42476.0,Inglês,3,24,1985,2.0,3.0,40,Média,Adulto
+888,Estudos,Graduação,São Paulo,51195.0,Espanhol,3,9,1988,2.0,3.0,37,Média,Adulto
+889,Trabalho,Mestrado,São Paulo,68092.0,Inglês,4,9,2004,4.0,5.0,21,Alta,Jovem
+890,Estudos,Graduação,São Bernardo,31163.0,Espanhol e Inglês,2,21,1999,1.0,2.0,26,Baixa,Adulto
+891,Outros,Mestrado,Campinas,51390.0,Espanhol,3,5,1991,3.0,4.0,34,Média,Adulto
+892,Viagem,Graduação,São Bernardo,76630.0,Inglês,5,14,2009,5.0,6.0,16,Alta,Jovem
+893,Viagem,Ensino Fundamental,São Paulo,26868.0,Espanhol,2,2,2017,1.0,1.0,8,Baixa,Jovem
+894,Trabalho,Doutorado,São Paulo,48948.0,Inglês,1,37,1969,3.0,3.0,56,Média,Sênior
+895,Trabalho,Doutorado,São Paulo,55260.0,Inglês,5,22,1998,3.0,4.0,27,Alta,Adulto
+896,Trabalho,Graduação,São Paulo,64090.0,Inglês,3,1,1982,4.0,5.0,43,Alta,Sênior
+897,Trabalho,Graduação,Campinas,78331.0,Inglês,2,34,1984,5.0,6.0,41,Alta,Sênior
+898,Viagem,Doutorado,São Paulo,31163.0,Inglês,3,10,2000,1.0,2.0,25,Baixa,Jovem
+899,Estudos,Graduação,São Paulo,21846.0,Espanhol,3,11,2012,1.0,1.0,13,Baixa,Jovem
+900,Trabalho,Graduação,São Paulo,81320.0,Inglês,2,48,1984,5.0,6.0,41,Alta,Sênior
+901,Trabalho,Graduação,São Paulo,54137.0,Inglês,2,36,1996,2.0,4.0,29,Média,Adulto
+902,Estudos,Graduação,São Paulo,66825.0,Inglês,3,13,1993,4.0,5.0,32,Alta,Adulto
+903,Estudos,Graduação,São Paulo,55085.5,Espanhol,3,6,1999,3.0,4.0,26,Alta,Adulto
+904,Viagem,Graduação,São Paulo,58917.0,Inglês,4,39,1995,4.0,4.0,30,Alta,Adulto
+907,Estudos,Graduação,São Paulo,45684.0,Espanhol,1,7,1997,3.0,3.0,28,Média,Adulto
+908,Trabalho,Graduação,São Paulo,47889.0,Espanhol,2,5,2000,3.0,3.0,25,Média,Jovem
+909,Trabalho,Doutorado,São Paulo,45921.0,Inglês,3,33,2012,3.0,3.0,13,Média,Jovem
+910,Trabalho,Doutorado,São Paulo,78420.0,Inglês,3,27,1992,5.0,6.0,33,Alta,Adulto
+911,Trabalho,Graduação,São Paulo,75114.0,Inglês,4,7,2018,5.0,6.0,7,Alta,Jovem
+912,Estudos,Doutorado,São Paulo,55085.5,Inglês,2,10,1989,3.0,4.0,36,Alta,Adulto
+913,Outros,Mestrado,São Paulo,35641.0,Espanhol,5,18,1998,2.0,2.0,27,Média,Adulto
+915,Viagem,Graduação,São Paulo,62820.0,Inglês,2,15,1980,4.0,4.0,45,Alta,Sênior
+916,Trabalho,Mestrado,São Paulo,73113.0,Espanhol,4,14,1986,5.0,5.0,39,Alta,Adulto
+918,Estudos,Ensino Médio,São Bernardo,42607.0,Espanhol,2,10,1980,2.0,3.0,45,Média,Sênior
+919,Trabalho,Doutorado,São Paulo,74637.0,Mandarim,5,88,1980,5.0,6.0,45,Alta,Sênior
+920,Trabalho,Doutorado,Campinas,46015.0,Mandarim,5,87,1981,3.0,3.0,44,Média,Sênior
+921,Viagem,Graduação,São Paulo,72354.0,Inglês,2,14,2019,5.0,5.0,6,Alta,Jovem
+922,Trabalho,Mestrado,Campinas,39858.0,Inglês,4,6,1995,2.0,2.0,30,Média,Adulto
+923,Trabalho,Doutorado,São Bernardo,35778.0,Inglês,2,26,1974,2.0,2.0,51,Média,Sênior
+924,Viagem,Graduação,São Paulo,83033.0,Espanhol,3,17,2012,5.0,6.0,13,Alta,Jovem
+925,Trabalho,Mestrado,São Paulo,24401.0,Espanhol,2,10,2005,1.0,1.0,20,Baixa,Jovem
+926,Trabalho,Graduação,São Paulo,77583.0,Inglês,3,51,2004,5.0,6.0,21,Alta,Jovem
+927,Viagem,Ensino Médio,São Paulo,74116.0,Espanhol e Inglês,4,31,2008,5.0,5.0,17,Alta,Jovem
+928,Estudos,Graduação,São Paulo,74293.0,Espanhol,1,6,2019,5.0,5.0,6,Alta,Jovem
+929,Estudos,Doutorado,São Paulo,68397.0,Inglês,2,4,2002,4.0,5.0,23,Alta,Jovem
+930,Estudos,Doutorado,São Paulo,79632.0,Espanhol e Inglês,3,19,2000,5.0,6.0,25,Alta,Jovem
+931,Trabalho,Graduação,São Bernardo,48168.0,Espanhol,2,18,2015,3.0,3.0,10,Média,Jovem
+932,Viagem,Doutorado,Rio Branco,64950.0,Inglês,2,20,1977,5.0,5.0,48,Alta,Sênior
+933,Estudos,Ensino Fundamental,São Paulo,23046.0,Espanhol,2,13,2015,1.0,1.0,10,Baixa,Jovem
+934,Viagem,Graduação,São Paulo,79146.0,Espanhol e Inglês,2,21,1978,5.0,6.0,47,Alta,Sênior
+935,Trabalho,Doutorado,São Paulo,32892.0,Inglês,5,41,1997,2.0,2.0,28,Baixa,Adulto
+936,Estudos,Graduação,São Paulo,71796.0,Inglês,3,19,1997,3.0,5.0,28,Alta,Adulto
+937,Trabalho,Doutorado,Campinas,67536.0,Inglês,4,27,1996,5.0,5.0,29,Alta,Adulto
+938,Estudos,Graduação,São Paulo,55239.0,Inglês,3,4,1997,3.0,4.0,28,Alta,Adulto
+939,Trabalho,Doutorado,São Paulo,60554.0,Inglês,1,26,2001,4.0,4.0,24,Alta,Jovem
+940,Viagem,Ensino Médio,São Paulo,64831.0,Inglês,3,17,1978,4.0,5.0,47,Alta,Sênior
+941,Trabalho,Doutorado,São Paulo,55085.5,Inglês,5,35,1988,3.0,4.0,37,Alta,Adulto
+942,Viagem,Graduação,São Paulo,82025.0,Inglês,3,38,2009,5.0,6.0,16,Alta,Jovem
+944,Outros,Ensino Fundamental,São Paulo,14906.0,Espanhol,3,5,2012,1.0,1.0,13,Baixa,Jovem
+945,Estudos,Doutorado,São Paulo,51563.0,Inglês,4,29,2013,2.0,4.0,12,Média,Jovem
+946,Estudos,Ensino Médio,São Paulo,57937.0,Inglês,2,25,2008,3.0,4.0,17,Alta,Jovem
+947,Estudos,Graduação,Campinas,68274.0,Inglês,2,23,2005,5.0,5.0,20,Alta,Jovem
+948,Trabalho,Graduação,Campinas,39771.0,Espanhol,1,9,2003,2.0,2.0,22,Média,Jovem
+949,Viagem,Ensino Médio,São Paulo,67893.0,Inglês,3,15,2001,4.0,5.0,24,Alta,Jovem
+950,Estudos,Doutorado,São Paulo,27922.0,Inglês,3,25,2005,1.0,1.0,20,Baixa,Jovem
+951,Estudos,Doutorado,São Paulo,52190.0,Inglês,4,16,2002,3.0,4.0,23,Média,Jovem
+952,Trabalho,Mestrado,São Paulo,44051.0,Espanhol,5,6,1999,2.0,3.0,26,Média,Adulto
+953,Estudos,Doutorado,Campinas,42767.0,Inglês,5,23,1997,3.0,3.0,28,Média,Adulto
+954,Trabalho,Mestrado,São Paulo,46106.0,Inglês,3,40,2002,3.0,3.0,23,Média,Jovem
+955,Viagem,Doutorado,São Paulo,23046.0,Inglês,2,5,2002,1.0,1.0,23,Baixa,Jovem
+956,Trabalho,Graduação,São Paulo,59754.0,Espanhol e Inglês,4,1,1991,4.0,4.0,34,Alta,Adulto
+957,Trabalho,Graduação,São Paulo,53700.0,Inglês,2,37,1978,2.0,4.0,47,Média,Sênior
+958,Estudos,Graduação,São Paulo,59041.0,Espanhol,5,3,1999,4.0,4.0,26,Alta,Adulto
+959,Viagem,Doutorado,São Bernardo,54237.0,Inglês,4,40,1983,3.0,4.0,42,Média,Sênior
+960,Estudos,Graduação,São Paulo,70647.0,Espanhol,3,15,1993,3.0,5.0,32,Alta,Adulto
+961,Trabalho,Doutorado,São Paulo,52597.0,Inglês,3,18,1988,3.0,4.0,37,Média,Adulto
+962,Trabalho,Mestrado,São Paulo,41021.0,Espanhol,2,20,1995,2.0,3.0,30,Média,Adulto
+963,Trabalho,Doutorado,São Paulo,40233.0,Inglês,4,1,2001,2.0,2.0,24,Média,Jovem
+964,Trabalho,Graduação,São Paulo,50183.0,Espanhol,2,3,2006,3.0,3.0,19,Média,Jovem
+965,Viagem,Graduação,São Paulo,54753.0,Inglês,1,11,1985,3.0,4.0,40,Média,Adulto
+967,Estudos,Graduação,São Paulo,33471.0,Espanhol,4,13,1999,2.0,2.0,26,Baixa,Adulto
+968,Trabalho,Doutorado,São Paulo,35778.0,Inglês,3,20,2000,2.0,2.0,25,Média,Jovem
+969,Viagem,Graduação,São Paulo,44010.0,Espanhol,3,7,2006,2.0,3.0,19,Média,Jovem
+970,Viagem,Graduação,São Paulo,79146.0,Inglês,3,5,2014,5.0,6.0,11,Alta,Jovem
+971,Estudos,Doutorado,Campinas,40706.0,Inglês,2,12,1994,3.0,3.0,31,Média,Adulto
+972,Estudos,Ensino Médio,São Bernardo,15716.0,Espanhol,1,8,2014,1.0,1.0,11,Baixa,Jovem
+973,Estudos,Ensino Médio,São Paulo,59052.0,Inglês,4,33,1985,4.0,4.0,40,Alta,Adulto
+974,Trabalho,Mestrado,São Paulo,80573.0,Espanhol,4,7,1997,4.0,6.0,28,Alta,Adulto
+975,Estudos,Graduação,São Paulo,79146.0,Inglês,4,28,1988,5.0,6.0,37,Alta,Adulto
+976,Outros,Mestrado,São Paulo,82576.0,Espanhol,4,6,1985,5.0,6.0,40,Alta,Adulto
+977,Trabalho,Mestrado,São Paulo,54886.0,Inglês,2,16,1991,2.0,4.0,34,Média,Adulto
+978,Estudos,Graduação,São Paulo,35704.0,Espanhol,4,10,1978,2.0,2.0,47,Média,Sênior
+979,Trabalho,Graduação,São Paulo,53103.0,Inglês,1,14,1980,3.0,4.0,45,Média,Sênior
+980,Estudos,Ensino Médio,São Paulo,46779.0,Espanhol,3,6,1986,3.0,3.0,39,Média,Adulto
+981,Estudos,Graduação,São Bernardo,4861.0,Espanhol,3,11,1991,1.0,1.0,34,Baixa,Adulto
+982,Trabalho,Mestrado,São Paulo,33462.0,Espanhol,2,10,2005,2.0,2.0,20,Baixa,Jovem
+983,Viagem,Graduação,São Paulo,63693.0,Espanhol,4,9,2004,3.0,5.0,21,Alta,Jovem
+984,Trabalho,Graduação,São Bernardo,79146.0,Espanhol e Inglês,1,34,1976,5.0,6.0,49,Alta,Sênior
+985,Trabalho,Doutorado,São Paulo,65352.0,Inglês,3,14,2000,4.0,5.0,25,Alta,Jovem
+986,Trabalho,Doutorado,São Paulo,82170.0,Inglês,3,6,2004,5.0,6.0,21,Alta,Jovem
+987,Trabalho,Graduação,São Paulo,75759.0,Inglês,3,44,1995,5.0,6.0,30,Alta,Adulto
+988,Estudos,Ensino Médio,São Paulo,79689.0,Inglês,2,15,2002,5.0,6.0,23,Alta,Jovem
+989,Viagem,Doutorado,São Bernardo,35340.0,Inglês,3,38,1982,2.0,2.0,43,Média,Sênior
+991,Viagem,Ensino Médio,São Paulo,24884.0,Espanhol,1,7,1998,1.0,1.0,27,Baixa,Adulto
+992,Outros,Mestrado,São Paulo,42021.0,Espanhol,1,14,2007,2.0,3.0,18,Média,Jovem
+993,Viagem,Graduação,São Paulo,64449.0,Inglês,3,43,2015,4.0,5.0,10,Alta,Jovem
+994,Estudos,Graduação,São Paulo,64587.0,Inglês,3,35,1980,4.0,5.0,45,Alta,Sênior
+995,Outros,Graduação,São Paulo,34824.0,Espanhol,2,13,2021,1.0,2.0,4,Baixa,Jovem
+996,Estudos,Graduação,Campinas,75437.0,Espanhol,4,5,2004,5.0,6.0,21,Alta,Jovem
+997,Estudos,Graduação,São Paulo,23046.0,Espanhol,5,10,1983,1.0,1.0,42,Baixa,Sênior
+998,Viagem,Graduação,Taubaté,52845.0,Inglês,5,14,1999,4.0,4.0,26,Média,Adulto
+999,Viagem,Graduação,São Paulo,46086.0,Inglês,2,26,1982,3.0,3.0,43,Média,Sênior
+1002,Viagem,Ensino Médio,Campinas,56337.0,Inglês,3,6,2007,3.0,4.0,18,Alta,Jovem
+1003,Estudos,Graduação,São Bernardo,22434.0,Espanhol,1,14,2013,1.0,1.0,12,Baixa,Jovem
+1004,Trabalho,Doutorado,São Bernardo,36930.0,Inglês,3,25,1980,2.0,2.0,45,Média,Sênior
+1005,Estudos,Graduação,São Paulo,35778.0,Inglês,4,2,1980,2.0,2.0,45,Média,Sênior
+1006,Viagem,Mestrado,São Paulo,65569.0,Inglês,4,38,1979,4.0,5.0,46,Alta,Sênior
+1007,Estudos,Graduação,São Bernardo,83844.0,Inglês,5,13,1978,5.0,6.0,47,Alta,Sênior
+1008,Estudos,Graduação,São Paulo,23046.0,Inglês,2,23,1994,1.0,1.0,31,Baixa,Adulto
+1009,Trabalho,Doutorado,São Paulo,36736.0,Inglês,2,24,1989,2.0,2.0,36,Média,Adulto
+1010,Estudos,Graduação,São Paulo,77568.0,Inglês,4,16,2005,5.0,6.0,20,Alta,Jovem
+1011,Trabalho,Doutorado,Rio Branco,49187.0,Inglês,4,29,2002,4.0,3.0,23,Média,Jovem
+1012,Trabalho,Graduação,Campinas,30168.0,Espanhol,3,2,2004,2.0,2.0,21,Baixa,Jovem
+1013,Trabalho,Mestrado,São Paulo,34053.0,Espanhol,2,13,1994,1.0,2.0,31,Baixa,Adulto
+1014,Trabalho,Mestrado,São Bernardo,35778.0,Espanhol,5,7,1997,2.0,2.0,28,Média,Adulto
+1015,Trabalho,Mestrado,Campinas,59412.0,Espanhol e Inglês,3,25,1977,5.0,4.0,48,Alta,Sênior
+1016,Viagem,Ensino Médio,São Paulo,70924.0,Espanhol,4,13,1991,4.0,5.0,34,Alta,Adulto
+1017,Trabalho,Graduação,São Paulo,54165.0,Espanhol,4,6,1995,3.0,4.0,30,Média,Adulto
+1018,Estudos,Graduação,Campinas,32300.0,Espanhol,2,1,1999,3.0,2.0,26,Baixa,Adulto
+1019,Estudos,Graduação,São Paulo,20180.0,Espanhol,2,2,2002,1.0,1.0,23,Baixa,Jovem
+1020,Estudos,Graduação,São Paulo,34961.0,Espanhol,2,10,1999,2.0,2.0,26,Baixa,Adulto
+1021,Estudos,Doutorado,São Paulo,28440.0,Inglês,2,13,2000,1.0,1.0,25,Baixa,Jovem
+1023,Outros,Mestrado,Taubaté,33564.0,Espanhol,1,11,1992,3.0,2.0,33,Baixa,Adulto
+1024,Trabalho,Graduação,Campinas,17345.0,Espanhol,4,5,2004,2.0,1.0,21,Baixa,Jovem
+1025,Viagem,Doutorado,São Paulo,56320.0,Inglês,1,33,1993,3.0,4.0,32,Alta,Adulto
+1026,Viagem,Graduação,Campinas,28647.0,Espanhol,4,13,2004,1.0,1.0,21,Baixa,Jovem
+1027,Estudos,Ensino Fundamental,São Bernardo,15038.0,Espanhol e Inglês,1,35,2013,1.0,1.0,12,Baixa,Jovem
+1028,Estudos,Doutorado,São Paulo,32173.0,Espanhol e Inglês,4,1,1984,2.0,2.0,41,Baixa,Sênior
+1029,Viagem,Ensino Médio,São Bernardo,68316.0,Espanhol,5,2,1990,4.0,5.0,35,Alta,Adulto
+1030,Estudos,Graduação,São Paulo,78059.5,Inglês,2,1,1997,4.0,6.0,28,Alta,Adulto
+1032,Viagem,Graduação,São Paulo,68695.0,Inglês,2,22,1995,4.0,5.0,30,Alta,Adulto
+1033,Viagem,Ensino Médio,São Paulo,31056.0,Espanhol,5,10,2003,1.0,2.0,22,Baixa,Jovem
+1034,Trabalho,Graduação,São Paulo,79593.0,Inglês,3,49,1999,4.0,6.0,26,Alta,Adulto
+1035,Viagem,Graduação,São Paulo,28071.0,Espanhol,3,4,2006,1.0,1.0,19,Baixa,Jovem
+1037,Trabalho,Mestrado,São Bernardo,46423.0,Espanhol,3,7,1998,3.0,3.0,27,Média,Adulto
+1038,Estudos,Doutorado,São Paulo,37126.0,Inglês,1,5,1997,1.0,2.0,28,Média,Adulto
+1039,Viagem,Graduação,São Paulo,48168.0,Espanhol,4,10,1979,3.0,3.0,46,Média,Sênior
+1040,Viagem,Graduação,São Paulo,61180.0,Inglês,3,10,1985,4.0,4.0,40,Alta,Adulto
+1041,Estudos,Graduação,São Bernardo,35778.0,Espanhol,4,6,1980,2.0,2.0,45,Média,Sênior
+1042,Trabalho,Graduação,São Paulo,23046.0,Espanhol,1,8,2017,1.0,1.0,8,Baixa,Jovem
+1043,Viagem,Graduação,São Paulo,76081.0,Inglês,1,28,1988,5.0,6.0,37,Alta,Adulto
+1044,Estudos,Graduação,Campinas,35778.0,Espanhol e Inglês,4,18,2012,2.0,2.0,13,Média,Jovem
+1045,Trabalho,Mestrado,São Paulo,33168.0,Espanhol,2,15,1991,2.0,2.0,34,Baixa,Adulto
+1046,Trabalho,Mestrado,São Paulo,33585.0,Inglês,2,23,1992,2.0,2.0,33,Baixa,Adulto
+1047,Estudos,Doutorado,São Paulo,77037.0,Inglês,3,25,1986,4.0,6.0,39,Alta,Adulto
+1048,Estudos,Graduação,Campinas,35196.0,Espanhol,1,7,2010,2.0,2.0,15,Média,Jovem
+1049,Viagem,Graduação,São Paulo,44529.0,Espanhol,5,14,1992,1.0,3.0,33,Média,Adulto
+1050,Viagem,Ensino Médio,Campinas,70924.0,Inglês,4,27,1991,4.0,5.0,34,Alta,Adulto
+1051,Trabalho,Doutorado,São Paulo,28764.0,Inglês,4,30,1992,1.0,1.0,33,Baixa,Adulto
+1052,Trabalho,Doutorado,Campinas,69098.0,Mandarim,2,86,1975,5.0,5.0,50,Alta,Sênior
+1053,Viagem,Ensino Médio,São Bernardo,25959.0,Espanhol,3,4,1996,1.0,1.0,29,Baixa,Adulto
+1054,Trabalho,Mestrado,Rio Branco,27100.0,Espanhol,4,13,2009,2.0,1.0,16,Baixa,Jovem
+1055,Estudos,Graduação,São Paulo,70596.0,Inglês,3,37,2011,4.0,5.0,14,Alta,Jovem
+1056,Trabalho,Graduação,São Bernardo,42557.0,Espanhol,3,17,2000,2.0,3.0,25,Média,Jovem
+1057,Trabalho,Doutorado,São Paulo,53312.0,Inglês,3,26,1977,3.0,4.0,48,Média,Sênior
+1058,Estudos,Graduação,São Paulo,72228.0,Espanhol e Inglês,3,37,1978,5.0,5.0,47,Alta,Sênior
+1059,Trabalho,Graduação,São Paulo,67786.5,Inglês,4,16,2013,4.0,5.0,12,Alta,Jovem
+1060,Trabalho,Mestrado,Campinas,62845.0,Espanhol,3,1,1975,4.0,4.0,50,Alta,Sênior
+1061,Trabalho,Graduação,Rio Branco,65196.0,Inglês,2,30,1984,5.0,5.0,41,Alta,Sênior
+1062,Estudos,Doutorado,São Bernardo,42000.0,Inglês,5,48,2013,2.0,3.0,12,Média,Jovem
+1063,Viagem,Doutorado,São Paulo,35860.0,Inglês,4,18,1999,2.0,2.0,26,Média,Adulto
+1064,Estudos,Doutorado,São Paulo,65526.0,Inglês,3,5,1990,4.0,5.0,35,Alta,Adulto
+1065,Estudos,Graduação,São Bernardo,16860.0,Inglês,4,37,1987,1.0,1.0,38,Baixa,Adulto
+1066,Trabalho,Graduação,São Paulo,83528.0,Espanhol,2,6,2018,5.0,6.0,7,Alta,Jovem
+1067,Estudos,Ensino Médio,São Paulo,64176.0,Inglês,3,18,1991,4.0,5.0,34,Alta,Adulto
+1068,Viagem,Graduação,São Paulo,22304.0,Espanhol,1,13,1982,1.0,1.0,43,Baixa,Sênior
+1069,Estudos,Graduação,São Paulo,67023.0,Inglês,1,1,2004,4.0,5.0,21,Alta,Jovem
+1070,Estudos,Doutorado,São Paulo,32892.0,Inglês,3,33,1997,2.0,2.0,28,Baixa,Adulto
+1071,Estudos,Graduação,São Paulo,67786.5,Inglês,5,12,1992,4.0,5.0,33,Alta,Adulto
+1072,Estudos,Graduação,São Paulo,55085.5,Inglês,2,19,1981,3.0,4.0,44,Alta,Sênior
+1073,Trabalho,Graduação,São Paulo,31163.0,Espanhol,3,9,1979,1.0,2.0,46,Baixa,Sênior
+1074,Trabalho,Graduação,Rio Branco,46610.0,Espanhol,4,12,1984,4.0,3.0,41,Média,Sênior
+1075,Outros,Graduação,São Paulo,79146.0,Inglês,4,25,1987,5.0,6.0,38,Alta,Adulto
+1076,Trabalho,Doutorado,São Paulo,79146.0,Mandarim,3,88,2007,5.0,6.0,18,Alta,Jovem
+1077,Estudos,Ensino Médio,São Paulo,26907.0,Espanhol,3,7,2002,1.0,1.0,23,Baixa,Jovem
+1078,Trabalho,Mestrado,São Paulo,50014.0,Espanhol,2,10,1994,3.0,3.0,31,Média,Adulto
+1079,Trabalho,Doutorado,Campinas,41014.0,Inglês,2,23,2004,3.0,3.0,21,Média,Jovem
+1080,Estudos,Graduação,São Bernardo,67786.5,Inglês,3,31,1991,4.0,5.0,34,Alta,Adulto
+1081,Trabalho,Graduação,São Paulo,31163.0,Espanhol e Inglês,1,4,1997,1.0,2.0,28,Baixa,Adulto
+1082,Trabalho,Graduação,São Paulo,79146.0,Espanhol,4,9,1982,5.0,6.0,43,Alta,Sênior
+1083,Estudos,Graduação,Campinas,40479.0,Espanhol,3,16,2008,2.0,3.0,17,Média,Jovem
+1084,Trabalho,Mestrado,Campinas,75345.0,Inglês,3,13,1996,5.0,6.0,29,Alta,Adulto
+1085,Estudos,Graduação,São Paulo,55085.5,Inglês,4,28,2003,3.0,4.0,22,Alta,Jovem
+1086,Estudos,Graduação,São Paulo,23046.0,Inglês,3,16,1996,1.0,1.0,29,Baixa,Adulto
+1088,Estudos,Graduação,Rio Branco,43776.0,Espanhol,1,11,2009,3.0,3.0,16,Média,Jovem
+1089,Trabalho,Doutorado,São Paulo,71691.0,Inglês,4,31,1984,4.0,5.0,41,Alta,Sênior
+1091,Trabalho,Doutorado,São Paulo,39190.0,Inglês,4,29,2000,2.0,2.0,25,Média,Jovem
+1092,Trabalho,Graduação,São Paulo,71367.0,Inglês,5,6,1985,4.0,5.0,40,Alta,Adulto
+1093,Trabalho,Doutorado,São Paulo,38578.0,Espanhol e Inglês,2,29,1998,2.0,2.0,27,Média,Adulto
+1094,Viagem,Doutorado,São Paulo,57236.0,Inglês,3,36,1991,3.0,4.0,34,Alta,Adulto
+1095,Estudos,Graduação,São Paulo,61825.0,Espanhol,4,12,2005,4.0,4.0,20,Alta,Jovem
+1096,Trabalho,Graduação,São Paulo,79803.0,Espanhol e Inglês,2,4,1984,5.0,6.0,41,Alta,Sênior
+1097,Viagem,Ensino Médio,São Paulo,79146.0,Inglês,5,12,2012,5.0,6.0,13,Alta,Jovem
+1098,Trabalho,Mestrado,São Bernardo,27590.0,Espanhol,2,8,2008,1.0,1.0,17,Baixa,Jovem
+1099,Viagem,Graduação,São Paulo,55085.5,Inglês,5,32,2005,3.0,4.0,20,Alta,Jovem
+1100,Trabalho,Graduação,São Paulo,83829.0,Inglês,3,26,2001,4.0,6.0,24,Alta,Jovem
+1101,Viagem,Ensino Médio,Taubaté,60474.0,Inglês,4,48,2005,4.0,4.0,20,Alta,Jovem
+1102,Trabalho,Graduação,Campinas,38508.0,Espanhol,1,8,2012,2.0,2.0,13,Média,Jovem
+1103,Trabalho,Graduação,Campinas,53187.0,Espanhol e Inglês,3,11,1996,4.0,4.0,29,Média,Adulto
+1104,Estudos,Graduação,Rio Branco,30023.0,Espanhol,2,8,1998,2.0,2.0,27,Baixa,Adulto
+1105,Estudos,Doutorado,São Paulo,76045.0,Inglês,3,17,1986,5.0,6.0,39,Alta,Adulto
+1106,Trabalho,Doutorado,São Paulo,50870.0,Inglês,1,15,1978,3.0,3.0,47,Média,Sênior
+1107,Viagem,Ensino Médio,São Bernardo,15315.0,Espanhol,3,12,1996,1.0,1.0,29,Baixa,Adulto
+1108,Estudos,Ensino Médio,São Paulo,65463.0,Inglês,4,20,2000,4.0,5.0,25,Alta,Jovem
+1109,Estudos,Graduação,São Paulo,66480.0,Espanhol,3,8,1991,4.0,5.0,34,Alta,Adulto
+1110,Outros,Graduação,São Bernardo,76773.0,Espanhol,3,11,1980,5.0,6.0,45,Alta,Sênior
+1111,Viagem,Ensino Médio,São Paulo,81698.0,Espanhol e Inglês,2,49,2009,5.0,6.0,16,Alta,Jovem
+1112,Estudos,Doutorado,São Paulo,54466.0,Inglês,4,15,1999,3.0,4.0,26,Média,Adulto
+1114,Trabalho,Doutorado,São Paulo,16269.0,Inglês,4,32,2010,1.0,1.0,15,Baixa,Jovem
+1115,Viagem,Graduação,São Paulo,71819.0,Inglês,4,1,1997,4.0,5.0,28,Alta,Adulto
+1116,Estudos,Doutorado,São Paulo,33569.0,Inglês,1,4,2009,1.0,2.0,16,Baixa,Jovem
+1117,Outros,Mestrado,Campinas,36262.0,Espanhol e Inglês,3,17,2009,2.0,2.0,16,Média,Jovem
+1118,Viagem,Ensino Fundamental,São Paulo,22634.0,Espanhol,1,20,1992,1.0,1.0,33,Baixa,Adulto
+1119,Estudos,Ensino Médio,São Paulo,47025.0,Espanhol,1,14,2004,3.0,3.0,21,Média,Jovem
+1120,Trabalho,Graduação,Campinas,70566.0,Inglês,2,4,1994,4.0,5.0,31,Alta,Adulto
+1121,Outros,Doutorado,Taubaté,31605.0,Inglês,3,34,2005,2.0,2.0,20,Baixa,Jovem
+1122,Outros,Mestrado,Campinas,52034.0,Inglês,1,46,1999,3.0,4.0,26,Média,Adulto
+1123,Trabalho,Graduação,São Bernardo,48168.0,Espanhol,1,8,2005,3.0,3.0,20,Média,Jovem
+1124,Trabalho,Graduação,São Paulo,46734.0,Inglês,5,18,1980,3.0,3.0,45,Média,Sênior
+1125,Trabalho,Graduação,São Paulo,35778.0,Espanhol e Inglês,3,23,1988,2.0,2.0,37,Média,Adulto
+1127,Estudos,Graduação,São Paulo,46931.0,Espanhol,3,8,2003,3.0,3.0,22,Média,Jovem
+1128,Viagem,Ensino Fundamental,São Paulo,16581.0,Espanhol,2,1,2011,1.0,1.0,14,Baixa,Jovem
+1129,Viagem,Ensino Médio,São Paulo,67786.5,Inglês,3,17,1978,4.0,5.0,47,Alta,Sênior
+1130,Outros,Mestrado,São Bernardo,67381.0,Inglês,3,21,1977,4.0,5.0,48,Alta,Sênior
+1131,Estudos,Graduação,São Paulo,25930.0,Espanhol,2,5,1993,1.0,1.0,32,Baixa,Adulto
+1132,Outros,Graduação,São Paulo,42693.0,Espanhol,4,1,2004,1.0,3.0,21,Média,Jovem
+1134,Estudos,Graduação,São Paulo,72570.0,Inglês,3,6,2011,5.0,5.0,14,Alta,Jovem
+1135,Estudos,Ensino Médio,São Paulo,42476.0,Espanhol,2,8,2000,2.0,3.0,25,Média,Jovem
+1136,Estudos,Doutorado,Campinas,36778.0,Inglês,3,24,1994,2.0,2.0,31,Média,Adulto
+1138,Outros,Mestrado,São Paulo,10979.0,Espanhol,2,10,2015,1.0,1.0,10,Baixa,Jovem
+1139,Estudos,Graduação,São Paulo,49678.0,Espanhol e Inglês,3,33,1987,3.0,3.0,38,Média,Adulto
+1140,Trabalho,Mestrado,São Bernardo,56129.0,Inglês,5,28,1979,3.0,4.0,46,Alta,Sênior
+1141,Trabalho,Graduação,São Paulo,35778.0,Espanhol e Inglês,4,27,2015,2.0,2.0,10,Média,Jovem
+1142,Viagem,Ensino Médio,São Paulo,21282.0,Espanhol,3,18,2004,1.0,1.0,21,Baixa,Jovem
+1143,Viagem,Doutorado,São Paulo,33419.0,Inglês,2,23,1988,2.0,2.0,37,Baixa,Adulto
+1144,Viagem,Graduação,São Paulo,63285.0,Inglês,5,35,1971,4.0,5.0,54,Alta,Sênior
+1145,Outros,Mestrado,Campinas,21255.0,Espanhol e Inglês,2,22,2000,1.0,1.0,25,Baixa,Jovem
+1146,Estudos,Graduação,São Bernardo,42162.0,Espanhol,2,12,2007,2.0,3.0,18,Média,Jovem
+1147,Viagem,Graduação,São Paulo,54450.0,Espanhol,3,9,1982,3.0,4.0,43,Média,Sênior
+1149,Trabalho,Graduação,Campinas,26576.0,Espanhol,4,14,2012,1.0,1.0,13,Baixa,Jovem
+1150,Trabalho,Doutorado,São Bernardo,57513.0,Inglês,4,1,1969,3.0,4.0,56,Alta,Sênior
+1151,Trabalho,Graduação,São Bernardo,68142.0,Espanhol,4,1,1990,4.0,5.0,35,Alta,Adulto
+1152,Estudos,Graduação,São Paulo,7500.0,Espanhol e Inglês,3,25,2005,1.0,1.0,20,Baixa,Jovem
+1153,Trabalho,Graduação,São Paulo,83145.0,Inglês,4,30,2000,5.0,6.0,25,Alta,Jovem
+1154,Trabalho,Mestrado,São Paulo,54197.0,Espanhol,1,11,1986,3.0,4.0,39,Média,Adulto
+1155,Estudos,Doutorado,São Bernardo,23046.0,Inglês,4,10,1989,1.0,1.0,36,Baixa,Adulto
+1156,Viagem,Graduação,São Paulo,48168.0,Espanhol,4,14,2002,3.0,3.0,23,Média,Jovem
+1157,Trabalho,Graduação,Campinas,56715.0,Inglês,4,1,2000,3.0,4.0,25,Alta,Jovem
+1158,Estudos,Graduação,Campinas,79410.0,Inglês,4,28,1987,5.0,6.0,38,Alta,Adulto
+1159,Estudos,Graduação,São Paulo,54886.0,Inglês,3,41,1977,2.0,4.0,48,Média,Sênior
+1160,Trabalho,Graduação,São Bernardo,44375.0,Inglês,1,18,1991,2.0,3.0,34,Média,Adulto
+1161,Viagem,Graduação,São Paulo,54450.0,Inglês,3,34,1982,3.0,4.0,43,Média,Sênior
+1162,Trabalho,Graduação,São Paulo,59594.0,Inglês,2,44,1991,4.0,4.0,34,Alta,Adulto
+1163,Estudos,Graduação,São Bernardo,80685.0,Inglês,4,40,2020,5.0,6.0,5,Alta,Jovem
+1164,Viagem,Doutorado,São Paulo,40344.0,Inglês,3,45,2000,2.0,3.0,25,Média,Jovem
+1165,Trabalho,Graduação,São Bernardo,62710.0,Espanhol,2,3,1998,4.0,4.0,27,Alta,Adulto
+1166,Viagem,Ensino Médio,São Bernardo,48985.0,Espanhol,2,16,1994,3.0,3.0,31,Média,Adulto
+1167,Viagem,Graduação,São Paulo,35322.0,Espanhol,2,12,1994,2.0,2.0,31,Média,Adulto
+1168,Trabalho,Graduação,São Paulo,77142.0,Espanhol,5,8,1974,4.0,6.0,51,Alta,Sênior
+1169,Trabalho,Graduação,São Paulo,81657.0,Inglês,5,31,1995,5.0,6.0,30,Alta,Adulto
+1170,Estudos,Ensino Fundamental,São Paulo,14421.0,Espanhol,2,13,2022,1.0,1.0,3,Baixa,Jovem
+1171,Viagem,Ensino Médio,Rio Branco,20130.0,Inglês,1,21,2000,2.0,1.0,25,Baixa,Jovem
+1172,Trabalho,Doutorado,São Paulo,74214.0,Inglês,3,1,2016,5.0,5.0,9,Alta,Jovem
+1173,Trabalho,Mestrado,São Paulo,67786.5,Mandarim,5,84,1983,4.0,5.0,42,Alta,Sênior
+1174,Viagem,Ensino Fundamental,São Paulo,23724.0,Espanhol,2,21,2005,1.0,1.0,20,Baixa,Jovem
+1175,Viagem,Mestrado,São Paulo,47353.0,Espanhol e Inglês,4,56,1986,3.0,3.0,39,Média,Adulto
+1176,Outros,Mestrado,São Bernardo,33444.0,Mandarim,4,84,1978,2.0,2.0,47,Baixa,Sênior
+1177,Estudos,Graduação,São Paulo,54386.0,Espanhol e Inglês,2,19,2007,3.0,4.0,18,Média,Jovem
+1178,Estudos,Graduação,São Bernardo,28510.0,Espanhol e Inglês,4,23,2007,1.0,1.0,18,Baixa,Jovem
+1180,Viagem,Graduação,Taubaté,48070.0,Espanhol e Inglês,3,36,1976,4.0,3.0,49,Média,Sênior
+1181,Trabalho,Graduação,São Paulo,43140.0,Espanhol,3,11,1983,2.0,3.0,42,Média,Sênior
+1182,Trabalho,Doutorado,São Paulo,54959.0,Inglês,3,7,1987,3.0,4.0,38,Média,Adulto
+1183,Estudos,Ensino Fundamental,Campinas,23272.0,Espanhol,1,11,1984,2.0,1.0,41,Baixa,Sênior
+1184,Estudos,Graduação,São Paulo,26954.0,Espanhol,1,8,1997,1.0,1.0,28,Baixa,Adulto
+1185,Viagem,Graduação,Campinas,22327.0,Espanhol,1,6,2011,2.0,1.0,14,Baixa,Jovem
+1186,Estudos,Graduação,São Paulo,44393.0,Espanhol,1,14,1991,2.0,3.0,34,Média,Adulto
+1187,Viagem,Doutorado,São Paulo,62000.0,Inglês,4,53,1978,3.0,4.0,47,Alta,Sênior
+1188,Trabalho,Doutorado,São Paulo,31163.0,Inglês,2,17,1988,1.0,2.0,37,Baixa,Adulto
+1189,Viagem,Ensino Médio,São Bernardo,48168.0,Espanhol,1,6,2000,3.0,3.0,25,Média,Jovem
+1190,Trabalho,Mestrado,São Paulo,78059.5,Inglês,3,22,1996,4.0,6.0,29,Alta,Adulto
+1191,Outros,Mestrado,São Paulo,67369.0,Inglês,3,28,1995,4.0,5.0,30,Alta,Adulto
+1192,Viagem,Graduação,São Paulo,58401.0,Inglês,2,21,1986,3.0,4.0,39,Alta,Adulto
+1193,Estudos,Graduação,São Paulo,62307.0,Inglês,3,45,1978,4.0,4.0,47,Alta,Sênior
+1194,Trabalho,Mestrado,São Paulo,43641.0,Espanhol,1,10,1995,1.0,3.0,30,Média,Adulto
+1195,Outros,Mestrado,Campinas,63841.0,Inglês,1,11,1994,4.0,5.0,31,Alta,Adulto
+1196,Estudos,Ensino Médio,Taubaté,48195.0,Espanhol,3,8,1991,4.0,3.0,34,Média,Adulto
+1197,Trabalho,Mestrado,Taubaté,70091.0,Espanhol e Inglês,1,37,1995,5.0,5.0,30,Alta,Adulto
+1198,Estudos,Doutorado,São Bernardo,78075.0,Espanhol e Inglês,2,38,1998,5.0,6.0,27,Alta,Adulto
+1199,Viagem,Ensino Médio,São Paulo,59184.0,Inglês,5,23,1987,4.0,4.0,38,Alta,Adulto
+1200,Estudos,Graduação,São Bernardo,54809.0,Inglês,3,9,2003,3.0,4.0,22,Média,Jovem
+1201,Trabalho,Graduação,São Paulo,58113.0,Inglês,5,1,1985,2.0,4.0,40,Alta,Adulto
+1203,Estudos,Graduação,São Paulo,15287.0,Espanhol,1,12,2005,1.0,1.0,20,Baixa,Jovem
+1204,Trabalho,Mestrado,São Paulo,66636.0,Inglês,3,11,1983,4.0,5.0,42,Alta,Sênior
+1205,Viagem,Mestrado,São Bernardo,50965.0,Espanhol,2,12,1982,3.0,3.0,43,Média,Sênior
+1206,Viagem,Doutorado,São Paulo,79146.0,Inglês,3,19,1991,5.0,6.0,34,Alta,Adulto
+1207,Trabalho,Graduação,São Paulo,18351.0,Espanhol,4,15,2016,1.0,1.0,9,Baixa,Jovem
+1208,Trabalho,Doutorado,São Paulo,40451.0,Inglês,3,14,1983,2.0,3.0,42,Média,Sênior
+1209,Outros,Graduação,Rio Branco,36317.0,Espanhol,1,7,1991,3.0,2.0,34,Média,Adulto
+1210,Trabalho,Graduação,São Paulo,42213.0,Inglês,3,10,1983,2.0,3.0,42,Média,Sênior
+1211,Estudos,Graduação,São Paulo,67786.5,Inglês,2,1,1981,4.0,5.0,44,Alta,Sênior
+1212,Viagem,Graduação,São Paulo,77044.0,Inglês,3,19,1998,5.0,6.0,27,Alta,Adulto
+1213,Viagem,Graduação,São Bernardo,74918.0,Inglês,2,1,1995,5.0,6.0,30,Alta,Adulto
+1214,Trabalho,Graduação,São Paulo,56721.0,Espanhol,3,9,1998,3.0,4.0,27,Alta,Adulto
+1215,Trabalho,Graduação,São Paulo,42160.0,Espanhol,1,5,2001,2.0,3.0,24,Média,Jovem
+1216,Outros,Graduação,São Paulo,61559.0,Espanhol,1,8,1991,3.0,4.0,34,Alta,Adulto
+1217,Trabalho,Doutorado,São Paulo,33629.0,Espanhol e Inglês,3,30,1989,2.0,2.0,36,Baixa,Adulto
+1218,Estudos,Doutorado,São Paulo,68682.0,Inglês,4,31,2017,4.0,5.0,8,Alta,Jovem
+1219,Trabalho,Graduação,São Paulo,34377.0,Espanhol,1,12,1989,2.0,2.0,36,Baixa,Adulto
+1220,Viagem,Ensino Fundamental,Taubaté,8940.0,Espanhol,1,14,2012,2.0,1.0,13,Baixa,Jovem
+1221,Viagem,Graduação,São Paulo,26228.0,Espanhol,2,5,1999,1.0,1.0,26,Baixa,Adulto
+1222,Estudos,Ensino Médio,São Paulo,77297.0,Espanhol,1,14,1983,5.0,6.0,42,Alta,Sênior
+1223,Estudos,Graduação,Campinas,35718.5,Espanhol,1,17,2007,3.0,2.0,18,Média,Jovem
+1224,Trabalho,Doutorado,São Paulo,33438.0,Inglês,2,21,1984,2.0,2.0,41,Baixa,Sênior
+1227,Trabalho,Graduação,São Paulo,22518.0,Espanhol,1,12,2012,1.0,1.0,13,Baixa,Jovem
+1228,Trabalho,Mestrado,Rio Branco,54730.0,Inglês,1,1,2001,4.0,4.0,24,Média,Jovem
+1229,Trabalho,Mestrado,São Paulo,38452.0,Espanhol,2,19,1981,2.0,2.0,44,Média,Sênior
+1230,Trabalho,Graduação,Campinas,42476.0,Espanhol,1,6,1997,2.0,3.0,28,Média,Adulto
+1231,Trabalho,Doutorado,São Paulo,38197.0,Inglês,1,15,2012,2.0,2.0,13,Média,Jovem
+1232,Viagem,Graduação,São Paulo,41986.0,Espanhol,2,4,2004,2.0,3.0,21,Média,Jovem
+1233,Viagem,Graduação,São Paulo,28427.0,Espanhol,2,1,2009,1.0,1.0,16,Baixa,Jovem
+1234,Trabalho,Doutorado,São Paulo,37395.0,Inglês,4,9,2002,2.0,2.0,23,Média,Jovem
+1235,Estudos,Graduação,São Paulo,64722.0,Inglês,3,25,1997,4.0,5.0,28,Alta,Adulto
+1238,Estudos,Graduação,Taubaté,23272.0,Espanhol,1,13,2015,2.0,1.0,10,Baixa,Jovem
+1239,Viagem,Graduação,São Paulo,42476.0,Espanhol,3,10,1978,2.0,3.0,47,Média,Sênior
+1240,Viagem,Ensino Fundamental,Campinas,25707.0,Espanhol,3,11,2010,1.0,1.0,15,Baixa,Jovem
+1241,Outros,Doutorado,São Bernardo,59062.0,Espanhol e Inglês,1,3,1993,4.0,4.0,32,Alta,Adulto
+1242,Estudos,Graduação,São Bernardo,76624.0,Inglês,5,40,1988,5.0,6.0,37,Alta,Adulto
+1243,Trabalho,Mestrado,São Bernardo,66000.0,Inglês,1,1,1973,4.0,5.0,52,Alta,Sênior
+1244,Trabalho,Doutorado,São Bernardo,27683.0,Inglês,4,22,2004,1.0,1.0,21,Baixa,Jovem
+1245,Trabalho,Graduação,São Paulo,1730.0,Espanhol e Inglês,5,45,1997,1.0,1.0,28,Baixa,Adulto
+1246,Estudos,Ensino Fundamental,São Paulo,7500.0,Espanhol,1,4,2018,1.0,1.0,7,Baixa,Jovem
+1247,Viagem,Graduação,São Paulo,40521.0,Espanhol,4,22,1994,1.0,3.0,31,Média,Adulto
+1248,Trabalho,Doutorado,Campinas,20427.0,Inglês,2,18,1999,2.0,1.0,26,Baixa,Adulto
+1249,Viagem,Graduação,São Paulo,65106.0,Espanhol e Inglês,2,3,2001,4.0,5.0,24,Alta,Jovem
+1250,Estudos,Doutorado,São Bernardo,67786.5,Inglês,2,30,1991,4.0,5.0,34,Alta,Adulto
+1251,Estudos,Graduação,São Paulo,67786.5,Inglês,3,23,1978,4.0,5.0,47,Alta,Sênior
+1252,Estudos,Doutorado,São Paulo,79146.0,Inglês,2,9,1993,5.0,6.0,32,Alta,Adulto
+1253,Estudos,Graduação,São Paulo,74716.0,Espanhol,4,11,1998,5.0,6.0,27,Alta,Adulto
+1254,Trabalho,Graduação,São Paulo,68118.0,Inglês,4,15,1989,4.0,5.0,36,Alta,Adulto
+1255,Trabalho,Doutorado,São Paulo,55158.0,Espanhol e Inglês,1,25,1996,3.0,4.0,29,Alta,Adulto
+1256,Viagem,Ensino Médio,São Paulo,62972.0,Espanhol,1,11,1981,4.0,4.0,44,Alta,Sênior
+1257,Viagem,Graduação,São Paulo,74190.0,Espanhol e Inglês,3,9,2001,5.0,5.0,24,Alta,Jovem
+1258,Outros,Graduação,São Paulo,39356.0,Espanhol,2,14,2002,1.0,2.0,23,Média,Jovem
+1259,Estudos,Graduação,São Paulo,76653.0,Inglês,5,8,1995,5.0,6.0,30,Alta,Adulto
+1260,Estudos,Doutorado,São Paulo,35778.0,Inglês,4,36,1999,2.0,2.0,26,Média,Adulto
+1262,Trabalho,Mestrado,São Paulo,72570.0,Inglês,3,49,2008,5.0,5.0,17,Alta,Jovem
+1263,Viagem,Graduação,São Paulo,31454.0,Inglês,3,19,1986,1.0,2.0,39,Baixa,Adulto
+1264,Viagem,Graduação,São Paulo,47139.0,Espanhol,4,12,1978,2.0,3.0,47,Média,Sênior
+1265,Estudos,Graduação,São Paulo,83829.0,Inglês,3,9,2001,4.0,6.0,24,Alta,Jovem
+1266,Trabalho,Doutorado,São Paulo,53378.0,Inglês,3,1,1989,3.0,4.0,36,Média,Adulto
+1267,Trabalho,Graduação,São Paulo,19656.0,Espanhol,3,11,1996,1.0,1.0,29,Baixa,Adulto
+1269,Viagem,Ensino Médio,São Paulo,79146.0,Inglês,2,1,1984,5.0,6.0,41,Alta,Sênior
+1270,Estudos,Graduação,São Paulo,55956.0,Inglês,4,1,1970,3.0,4.0,55,Alta,Sênior
+1271,Trabalho,Mestrado,Campinas,64191.0,Inglês,3,24,1989,4.0,5.0,36,Alta,Adulto
+1272,Outros,Graduação,São Bernardo,38808.0,Espanhol,1,6,1998,2.0,2.0,27,Média,Adulto
+1273,Trabalho,Mestrado,São Paulo,54886.0,Inglês,2,28,1992,2.0,4.0,33,Média,Adulto
+1274,Trabalho,Mestrado,São Paulo,23748.0,Espanhol,1,12,1994,1.0,1.0,31,Baixa,Adulto
+1275,Estudos,Graduação,São Paulo,67786.5,Espanhol,2,19,1997,4.0,5.0,28,Alta,Adulto
+1276,Trabalho,Mestrado,São Paulo,37368.0,Espanhol,2,17,2001,2.0,2.0,24,Média,Jovem
+1277,Trabalho,Graduação,Rio Branco,40800.0,Espanhol,3,18,1990,3.0,3.0,35,Média,Adulto
+1278,Viagem,Graduação,São Paulo,72570.0,Inglês,3,1,2004,5.0,5.0,21,Alta,Jovem
+1279,Estudos,Graduação,São Paulo,46149.0,Espanhol,2,7,2001,3.0,3.0,24,Média,Jovem
+1280,Outros,Graduação,São Paulo,78687.0,Inglês,3,33,2009,5.0,6.0,16,Alta,Jovem
+1281,Viagem,Ensino Médio,São Bernardo,49118.0,Espanhol,2,5,1997,3.0,3.0,28,Média,Adulto
+1282,Trabalho,Doutorado,São Paulo,37633.0,Inglês,4,13,1983,2.0,2.0,42,Média,Sênior
+1283,Outros,Mestrado,São Paulo,31163.0,Mandarim,5,87,1977,1.0,2.0,48,Baixa,Sênior
+1284,Viagem,Ensino Fundamental,São Paulo,26997.0,Espanhol,3,9,1977,1.0,1.0,48,Baixa,Sênior
+1285,Viagem,Graduação,São Paulo,33986.0,Espanhol,1,10,1996,2.0,2.0,29,Baixa,Adulto
+1286,Trabalho,Doutorado,São Paulo,57091.0,Inglês,4,22,1998,2.0,4.0,27,Alta,Adulto
+1287,Viagem,Ensino Médio,São Paulo,46831.0,Espanhol,2,15,1995,3.0,3.0,30,Média,Adulto
+1288,Trabalho,Mestrado,São Paulo,83151.0,Inglês,4,44,1998,4.0,6.0,27,Alta,Adulto
+1289,Outros,Graduação,São Paulo,52531.0,Inglês,1,33,1997,2.0,4.0,28,Média,Adulto
+1290,Estudos,Graduação,São Paulo,15759.0,Espanhol e Inglês,3,19,1982,1.0,1.0,43,Baixa,Sênior
+1291,Viagem,Graduação,São Paulo,22804.0,Espanhol,3,2,1997,1.0,1.0,28,Baixa,Adulto
+1292,Estudos,Ensino Médio,São Paulo,43050.0,Espanhol,4,18,1999,2.0,3.0,26,Média,Adulto
+1293,Trabalho,Doutorado,São Paulo,42997.0,Inglês,3,16,2003,2.0,3.0,22,Média,Jovem
+1294,Estudos,Doutorado,São Bernardo,48918.0,Inglês,1,7,1989,3.0,3.0,36,Média,Adulto
+1296,Viagem,Doutorado,São Paulo,34043.0,Espanhol e Inglês,2,25,2004,2.0,2.0,21,Baixa,Jovem
+1297,Estudos,Graduação,São Paulo,57811.0,Espanhol e Inglês,4,25,1992,3.0,4.0,33,Alta,Adulto
+1298,Trabalho,Graduação,São Paulo,79146.0,Inglês,2,1,1972,5.0,6.0,53,Alta,Sênior
+1299,Trabalho,Graduação,São Bernardo,7500.0,Espanhol,2,9,2004,1.0,1.0,21,Baixa,Jovem
+1300,Trabalho,Mestrado,São Paulo,78059.5,Inglês,3,9,1997,4.0,6.0,28,Alta,Adulto
+1302,Estudos,Ensino Médio,São Paulo,23148.0,Espanhol,1,5,2011,1.0,1.0,14,Baixa,Jovem
+1303,Estudos,Graduação,São Paulo,44267.0,Espanhol,2,2,1996,2.0,3.0,29,Média,Adulto
+1304,Estudos,Graduação,São Bernardo,67786.5,Espanhol,2,14,2005,4.0,5.0,20,Alta,Jovem
+1305,Viagem,Graduação,Campinas,60474.0,Espanhol,1,10,1992,4.0,4.0,33,Alta,Adulto
+1306,Estudos,Graduação,São Bernardo,50200.0,Espanhol,2,4,2002,3.0,3.0,23,Média,Jovem
+1307,Trabalho,Doutorado,São Bernardo,81051.0,Inglês,2,17,1991,5.0,6.0,34,Alta,Adulto
+1308,Viagem,Graduação,São Paulo,67786.5,Inglês,1,5,2008,4.0,5.0,17,Alta,Jovem
+1309,Estudos,Graduação,São Bernardo,59868.0,Inglês,2,18,1998,4.0,4.0,27,Alta,Adulto
+1310,Viagem,Doutorado,São Paulo,65695.0,Inglês,5,21,1986,3.0,5.0,39,Alta,Adulto
+1312,Trabalho,Mestrado,São Paulo,45143.0,Espanhol,2,4,1991,3.0,3.0,34,Média,Adulto
+1313,Estudos,Ensino Médio,São Bernardo,74805.0,Inglês,4,17,1981,5.0,6.0,44,Alta,Sênior
+1314,Estudos,Ensino Médio,São Paulo,59060.0,Inglês,5,10,2015,4.0,4.0,10,Alta,Jovem
+1315,Trabalho,Doutorado,São Paulo,27238.0,Inglês,3,23,1988,1.0,1.0,37,Baixa,Adulto
+1316,Estudos,Graduação,São Paulo,47009.0,Espanhol e Inglês,2,26,1991,3.0,3.0,34,Média,Adulto
+1317,Estudos,Ensino Médio,São Bernardo,46094.0,Espanhol,1,8,1999,3.0,3.0,26,Média,Adulto
+1318,Estudos,Graduação,São Paulo,40321.0,Espanhol,2,18,1998,1.0,3.0,27,Média,Adulto
+1319,Estudos,Graduação,São Paulo,31163.0,Espanhol,1,9,2010,1.0,2.0,15,Baixa,Jovem
+1320,Trabalho,Mestrado,São Paulo,81843.0,Inglês,3,27,1986,5.0,6.0,39,Alta,Adulto
+1322,Estudos,Graduação,Campinas,77382.0,Inglês,3,4,1994,5.0,6.0,31,Alta,Adulto
+1323,Viagem,Graduação,São Paulo,37774.0,Espanhol,2,2,2003,2.0,2.0,22,Média,Jovem
+1324,Estudos,Ensino Fundamental,Taubaté,18393.0,Espanhol e Inglês,4,44,2000,2.0,1.0,25,Baixa,Jovem
+1325,Trabalho,Mestrado,São Paulo,72828.0,Inglês,1,41,1988,5.0,5.0,37,Alta,Adulto
+1326,Estudos,Graduação,São Paulo,24711.0,Espanhol,1,9,2008,1.0,1.0,17,Baixa,Jovem
+1327,Trabalho,Doutorado,São Bernardo,48168.0,Inglês,3,19,2001,3.0,3.0,24,Média,Jovem
+1328,Outros,Mestrado,São Paulo,6560.0,Espanhol,4,9,2008,1.0,1.0,17,Baixa,Jovem
+1330,Estudos,Graduação,São Paulo,27244.0,Espanhol,3,1,2005,1.0,1.0,20,Baixa,Jovem
+1331,Estudos,Graduação,São Bernardo,48752.0,Espanhol,3,10,1995,3.0,3.0,30,Média,Adulto
+1332,Trabalho,Graduação,São Paulo,71434.0,Inglês,2,20,1988,4.0,5.0,37,Alta,Adulto
+1335,Estudos,Graduação,São Paulo,55085.5,Espanhol,3,9,2001,3.0,4.0,24,Alta,Jovem
+1336,Trabalho,Graduação,São Paulo,71853.0,Inglês,3,23,2008,5.0,5.0,17,Alta,Jovem
+1337,Outros,Mestrado,São Paulo,35876.0,Espanhol,2,13,2009,2.0,2.0,16,Média,Jovem
+1338,Trabalho,Graduação,São Paulo,40049.0,Espanhol,1,19,1978,1.0,2.0,47,Média,Sênior
+1339,Estudos,Graduação,São Paulo,39660.0,Espanhol e Inglês,4,27,2008,1.0,2.0,17,Média,Jovem
+1340,Estudos,Graduação,São Paulo,50127.0,Espanhol,2,16,1988,3.0,3.0,37,Média,Adulto
+1341,Trabalho,Mestrado,São Paulo,42476.0,Espanhol,3,9,2003,2.0,3.0,22,Média,Jovem
+1343,Trabalho,Graduação,São Bernardo,18929.0,Espanhol,3,4,2016,1.0,1.0,9,Baixa,Jovem
+1344,Estudos,Ensino Fundamental,São Bernardo,24367.0,Espanhol,2,23,2008,1.0,1.0,17,Baixa,Jovem
+1345,Estudos,Graduação,São Paulo,33249.0,Espanhol,1,10,2001,2.0,2.0,24,Baixa,Jovem
+1346,Estudos,Ensino Médio,São Paulo,26887.0,Espanhol,2,10,1985,1.0,1.0,40,Baixa,Adulto
+1347,Trabalho,Doutorado,São Paulo,50150.0,Inglês,3,34,2009,3.0,3.0,16,Média,Jovem
+1348,Estudos,Graduação,Rio Branco,61010.0,Inglês,3,24,2002,5.0,4.0,23,Alta,Jovem
+1350,Trabalho,Doutorado,Campinas,76542.0,Inglês,3,25,1982,5.0,6.0,43,Alta,Sênior
+1351,Estudos,Graduação,São Paulo,70515.0,Inglês,3,3,2019,4.0,5.0,6,Alta,Jovem
+1352,Outros,Graduação,São Paulo,18227.0,Espanhol,2,10,2013,1.0,1.0,12,Baixa,Jovem
+1353,Trabalho,Graduação,São Bernardo,67786.5,Inglês,4,22,1991,4.0,5.0,34,Alta,Adulto
+1354,Estudos,Graduação,São Paulo,69109.0,Inglês,4,20,2008,4.0,5.0,17,Alta,Jovem
+1355,Viagem,Graduação,Campinas,69627.0,Espanhol e Inglês,5,16,1988,4.0,5.0,37,Alta,Adulto
+1356,Estudos,Graduação,Campinas,38136.0,Espanhol,3,11,2004,3.0,2.0,21,Média,Jovem
+1358,Viagem,Graduação,São Paulo,80695.0,Inglês,4,17,1989,5.0,6.0,36,Alta,Adulto
+1359,Trabalho,Mestrado,São Paulo,35778.0,Espanhol,3,9,1997,2.0,2.0,28,Média,Adulto
+1360,Viagem,Graduação,Campinas,58554.0,Espanhol,2,7,1994,5.0,4.0,31,Alta,Adulto
+1361,Estudos,Ensino Fundamental,São Paulo,17256.0,Espanhol,5,7,2018,1.0,1.0,7,Baixa,Jovem
+1362,Outros,Graduação,São Paulo,53034.0,Inglês,3,18,2000,3.0,4.0,25,Média,Jovem
+1363,Estudos,Ensino Médio,São Paulo,52203.0,Inglês,4,1,1976,3.0,4.0,49,Média,Sênior
+1364,Estudos,Ensino Médio,São Bernardo,59601.0,Inglês,3,12,2003,4.0,4.0,22,Alta,Jovem
+1366,Estudos,Graduação,São Bernardo,48168.0,Espanhol e Inglês,2,34,2002,3.0,3.0,23,Média,Jovem
+1367,Viagem,Graduação,Campinas,37971.0,Espanhol e Inglês,4,38,1999,3.0,2.0,26,Média,Adulto
+1368,Trabalho,Mestrado,São Paulo,41335.0,Espanhol,3,10,1994,2.0,3.0,31,Média,Adulto
+1369,Viagem,Graduação,São Paulo,67267.0,Inglês,1,21,1984,4.0,5.0,41,Alta,Sênior
+1370,Estudos,Graduação,Taubaté,57338.0,Espanhol,1,7,2001,4.0,4.0,24,Alta,Jovem
+1371,Estudos,Ensino Médio,São Paulo,48168.0,Inglês,5,22,1986,3.0,3.0,39,Média,Adulto
+1372,Viagem,Mestrado,Campinas,35791.0,Espanhol,1,6,1991,2.0,2.0,34,Média,Adulto
+1373,Estudos,Doutorado,São Paulo,48168.0,Inglês,3,5,1986,3.0,3.0,39,Média,Adulto
+1374,Outros,Doutorado,São Paulo,56242.0,Inglês,3,39,1995,3.0,4.0,30,Alta,Adulto
+1375,Viagem,Graduação,Campinas,48904.0,Espanhol,1,11,1986,3.0,3.0,39,Média,Adulto
+1376,Estudos,Graduação,São Paulo,56243.0,Inglês,4,7,2001,3.0,4.0,24,Alta,Jovem
+1377,Viagem,Graduação,São Paulo,21355.0,Espanhol,1,9,2011,1.0,1.0,14,Baixa,Jovem
+1378,Outros,Mestrado,São Paulo,55085.5,Inglês,4,35,1997,3.0,4.0,28,Alta,Adulto
+1379,Trabalho,Mestrado,São Paulo,52247.25135379061,Inglês,3,26,1996,3.0,1.0,29,Média,Adulto
+1380,Trabalho,Mestrado,São Paulo,46390.0,Espanhol e Inglês,3,2,1981,3.0,3.0,44,Média,Sênior
+1381,Viagem,Ensino Médio,São Paulo,54342.0,Inglês,1,10,1982,3.0,4.0,43,Média,Sênior
+1382,Trabalho,Graduação,Taubaté,52247.25135379061,Inglês,3,47,1984,3.0,1.0,41,Média,Sênior
+1383,Estudos,Ensino Médio,São Paulo,52247.25135379061,Inglês,2,2,1990,3.0,1.0,35,Média,Adulto
+1384,Estudos,Graduação,São Paulo,20895.0,Espanhol e Inglês,4,29,1999,1.0,1.0,26,Baixa,Adulto
+1386,Trabalho,Doutorado,São Bernardo,52247.25135379061,Inglês,4,35,1998,3.0,1.0,27,Média,Adulto
+1387,Estudos,Ensino Médio,São Paulo,26907.0,Espanhol,1,18,2002,1.0,1.0,23,Baixa,Jovem
+1388,Viagem,Graduação,Taubaté,44964.0,Espanhol,1,1,2006,4.0,3.0,19,Média,Jovem
+1389,Trabalho,Graduação,São Paulo,75507.0,Inglês,1,10,2005,5.0,6.0,20,Alta,Jovem
+1390,Outros,Mestrado,São Paulo,53761.0,Inglês,1,41,1998,3.0,4.0,27,Média,Adulto
+1391,Viagem,Graduação,São Paulo,22682.0,Espanhol,2,15,1999,1.0,1.0,26,Baixa,Adulto
+1392,Estudos,Doutorado,São Paulo,38887.0,Inglês,4,16,1998,2.0,2.0,27,Média,Adulto
+1393,Estudos,Ensino Médio,São Paulo,41658.0,Espanhol,1,16,2001,2.0,3.0,24,Média,Jovem
+1394,Trabalho,Doutorado,São Paulo,29791.0,Espanhol e Inglês,1,31,1998,1.0,1.0,27,Baixa,Adulto
+1396,Estudos,Graduação,São Paulo,39996.0,Inglês,1,24,2000,2.0,2.0,25,Média,Jovem
+1397,Viagem,Graduação,São Paulo,26759.0,Espanhol,4,1,1998,1.0,1.0,27,Baixa,Adulto
+1398,Trabalho,Mestrado,São Paulo,63841.0,Espanhol,1,8,1994,4.0,5.0,31,Alta,Adulto
+1399,Estudos,Doutorado,São Bernardo,51039.0,Inglês,1,24,1995,3.0,3.0,30,Média,Adulto
+1400,Estudos,Graduação,São Paulo,60544.0,Inglês,5,18,1987,4.0,4.0,38,Alta,Adulto
+1401,Viagem,Graduação,São Paulo,65685.0,Inglês,4,32,1998,4.0,5.0,27,Alta,Adulto
+1402,Viagem,Graduação,São Paulo,37716.0,Espanhol,2,8,1979,1.0,2.0,46,Média,Sênior
+1403,Trabalho,Graduação,São Bernardo,35778.0,Espanhol,2,3,1983,2.0,2.0,42,Média,Sênior
+1404,Trabalho,Mestrado,São Paulo,44511.0,Espanhol,5,6,1996,2.0,3.0,29,Média,Adulto
+1405,Estudos,Doutorado,São Paulo,36947.0,Inglês,3,32,1993,2.0,2.0,32,Média,Adulto
+1406,Trabalho,Mestrado,São Bernardo,47352.0,Mandarim,2,80,1977,3.0,3.0,48,Média,Sênior
+1407,Trabalho,Mestrado,São Bernardo,67087.0,Inglês,2,1,1979,4.0,5.0,46,Alta,Sênior
+1408,Trabalho,Graduação,São Paulo,57045.0,Inglês,3,40,1976,3.0,4.0,49,Alta,Sênior
+1409,Trabalho,Doutorado,Campinas,36957.0,Inglês,4,1,1979,2.0,2.0,46,Média,Sênior
+1410,Trabalho,Doutorado,São Paulo,69389.0,Inglês,4,35,2003,4.0,5.0,22,Alta,Jovem
+1411,Trabalho,Graduação,São Paulo,79146.0,Inglês,2,37,1998,5.0,6.0,27,Alta,Adulto
+1412,Outros,Mestrado,São Paulo,43142.0,Espanhol,1,4,1995,2.0,3.0,30,Média,Adulto
+1413,Estudos,Graduação,São Paulo,80589.0,Inglês,2,4,1970,4.0,6.0,55,Alta,Sênior
+1414,Estudos,Graduação,São Paulo,34412.0,Espanhol e Inglês,1,16,2016,2.0,2.0,9,Baixa,Jovem
+1415,Viagem,Graduação,Campinas,57537.0,Inglês,4,14,2005,4.0,4.0,20,Alta,Jovem
+1416,Estudos,Ensino Fundamental,São Paulo,22634.0,Espanhol,2,19,1992,1.0,1.0,33,Baixa,Adulto
+1417,Viagem,Graduação,São Paulo,51315.0,Espanhol,5,15,1974,3.0,3.0,51,Média,Sênior
+1418,Estudos,Graduação,São Paulo,36026.0,Espanhol,4,16,1998,2.0,2.0,27,Média,Adulto
+1419,Trabalho,Graduação,Campinas,24639.0,Espanhol,4,14,1999,2.0,1.0,26,Baixa,Adulto
+1420,Trabalho,Doutorado,São Paulo,34578.0,Inglês,4,3,1998,2.0,2.0,27,Baixa,Adulto
+1421,Estudos,Ensino Médio,São Paulo,65704.0,Inglês,2,17,1998,4.0,5.0,27,Alta,Adulto
+1422,Estudos,Graduação,São Paulo,63810.0,Inglês,1,15,1992,3.0,5.0,33,Alta,Adulto
+1423,Estudos,Doutorado,São Paulo,55085.5,Inglês,1,32,1995,3.0,4.0,30,Alta,Adulto
+1424,Estudos,Graduação,Rio Branco,23272.0,Espanhol,1,4,1985,2.0,1.0,40,Baixa,Adulto
+1425,Viagem,Graduação,Taubaté,28164.0,Espanhol,1,7,1996,2.0,1.0,29,Baixa,Adulto
+1426,Trabalho,Doutorado,São Paulo,34596.0,Inglês,5,40,2000,1.0,2.0,25,Baixa,Jovem
+1427,Estudos,Doutorado,Taubaté,43269.0,Espanhol e Inglês,2,41,1998,3.0,3.0,27,Média,Adulto
+1428,Estudos,Ensino Médio,São Paulo,38741.0,Espanhol,3,12,1984,2.0,2.0,41,Média,Sênior
+1429,Trabalho,Graduação,Campinas,31907.0,Espanhol,4,4,1998,1.0,2.0,27,Baixa,Adulto
+1430,Trabalho,Mestrado,São Paulo,27100.0,Espanhol,3,14,2009,1.0,1.0,16,Baixa,Jovem
+1431,Viagem,Ensino Médio,São Paulo,31163.0,Espanhol,3,9,1999,1.0,2.0,26,Baixa,Adulto
+1433,Estudos,Graduação,São Paulo,34853.0,Espanhol,2,8,1999,2.0,2.0,26,Baixa,Adulto
+1434,Viagem,Graduação,São Paulo,70844.0,Inglês,3,12,1993,4.0,5.0,32,Alta,Adulto
+1435,Estudos,Ensino Médio,São Paulo,31086.0,Espanhol,3,14,2005,1.0,2.0,20,Baixa,Jovem
+1436,Estudos,Graduação,São Paulo,60474.0,Espanhol,1,12,1987,4.0,4.0,38,Alta,Adulto
+1437,Viagem,Ensino Médio,São Bernardo,20491.0,Espanhol,2,8,2012,1.0,1.0,13,Baixa,Jovem
+1438,Viagem,Graduação,São Paulo,42523.0,Espanhol,2,16,1990,2.0,3.0,35,Média,Adulto
+1439,Viagem,Graduação,São Paulo,39922.0,Espanhol e Inglês,3,18,2009,2.0,2.0,16,Média,Jovem
+1440,Viagem,Graduação,Taubaté,33402.0,Espanhol e Inglês,2,22,1978,3.0,2.0,47,Baixa,Sênior
+1441,Viagem,Mestrado,São Paulo,36408.0,Espanhol e Inglês,2,17,1975,1.0,2.0,50,Média,Sênior
+1442,Estudos,Graduação,São Paulo,23046.0,Espanhol e Inglês,3,20,2005,1.0,1.0,20,Baixa,Jovem
+1443,Trabalho,Mestrado,São Paulo,79146.0,Espanhol,2,5,1974,5.0,6.0,51,Alta,Sênior
+1444,Viagem,Graduação,Campinas,82657.0,Inglês,4,17,1972,5.0,6.0,53,Alta,Sênior
+1445,Trabalho,Graduação,São Paulo,51876.0,Inglês,3,1,1984,3.0,4.0,41,Média,Sênior
+1446,Estudos,Ensino Médio,São Paulo,79146.0,Inglês,3,8,1997,5.0,6.0,28,Alta,Adulto
+1447,Trabalho,Graduação,São Bernardo,52852.0,Inglês,1,34,1983,3.0,4.0,42,Média,Sênior
+1448,Trabalho,Doutorado,Campinas,70038.0,Espanhol e Inglês,5,4,2008,5.0,5.0,17,Alta,Jovem
+1449,Viagem,Ensino Médio,São Paulo,69401.0,Inglês,4,44,1999,4.0,5.0,26,Alta,Adulto
+1450,Trabalho,Graduação,São Paulo,46053.0,Espanhol,1,13,1998,3.0,3.0,27,Média,Adulto
+1451,Estudos,Graduação,São Paulo,77343.0,Espanhol,1,13,1991,5.0,6.0,34,Alta,Adulto
+1452,Trabalho,Graduação,Campinas,73892.0,Inglês,2,1,1979,5.0,5.0,46,Alta,Sênior
+1453,Trabalho,Doutorado,São Paulo,40304.0,Inglês,5,11,1993,2.0,3.0,32,Média,Adulto
+1454,Viagem,Doutorado,São Paulo,32727.0,Inglês,3,20,1991,1.0,2.0,34,Baixa,Adulto
+1455,Trabalho,Graduação,Campinas,68695.0,Espanhol,3,8,1995,5.0,5.0,30,Alta,Adulto
+1456,Trabalho,Graduação,São Paulo,42476.0,Espanhol,2,12,1997,2.0,3.0,28,Média,Adulto
+1457,Estudos,Graduação,São Paulo,26290.0,Espanhol,3,4,1998,1.0,1.0,27,Baixa,Adulto
+1459,Viagem,Doutorado,São Paulo,35778.0,Espanhol e Inglês,4,1,2000,2.0,2.0,25,Média,Jovem
+1460,Trabalho,Mestrado,São Paulo,64866.0,Inglês,4,8,1976,4.0,5.0,49,Alta,Sênior
+1461,Estudos,Graduação,São Paulo,57957.0,Espanhol,1,15,1985,3.0,4.0,40,Alta,Adulto
+1462,Trabalho,Doutorado,São Paulo,46015.0,Inglês,4,26,1981,3.0,3.0,44,Média,Sênior
+1463,Estudos,Graduação,São Paulo,23046.0,Espanhol,2,9,2004,1.0,1.0,21,Baixa,Jovem
+1464,Trabalho,Mestrado,Rio Branco,28072.0,Espanhol,2,7,2012,2.0,1.0,13,Baixa,Jovem
+1465,Outros,Mestrado,São Paulo,49476.0,Espanhol,1,15,1989,2.0,3.0,36,Média,Adulto
+1466,Estudos,Graduação,Taubaté,50725.0,Espanhol,2,6,1979,4.0,3.0,46,Média,Sênior
+1467,Estudos,Graduação,São Paulo,83844.0,Espanhol e Inglês,2,44,1978,5.0,6.0,47,Alta,Sênior
+1469,Trabalho,Graduação,São Bernardo,67786.5,Inglês,3,13,1996,4.0,5.0,29,Alta,Adulto
+1470,Estudos,Ensino Médio,São Paulo,23162.0,Espanhol,1,3,1996,1.0,1.0,29,Baixa,Adulto
+1471,Viagem,Graduação,São Bernardo,34380.0,Espanhol,1,2,2003,2.0,2.0,22,Baixa,Jovem
+1472,Estudos,Graduação,Campinas,34704.0,Espanhol,5,13,1992,2.0,2.0,33,Baixa,Adulto
+1473,Trabalho,Doutorado,São Paulo,79146.0,Inglês,5,20,1995,5.0,6.0,30,Alta,Adulto
+1474,Estudos,Graduação,São Paulo,65148.0,Inglês,2,28,1984,4.0,5.0,41,Alta,Sênior
+1475,Estudos,Graduação,São Paulo,39898.0,Inglês,3,20,1980,2.0,2.0,45,Média,Sênior
+1476,Trabalho,Mestrado,São Bernardo,64857.0,Inglês,3,13,1982,4.0,5.0,43,Alta,Sênior
+1477,Trabalho,Doutorado,São Bernardo,59892.0,Inglês,3,18,1996,4.0,4.0,29,Alta,Adulto
+1478,Trabalho,Mestrado,São Bernardo,41020.0,Espanhol,2,4,2013,2.0,3.0,12,Média,Jovem
+1479,Trabalho,Doutorado,São Paulo,57072.0,Inglês,3,19,1987,3.0,4.0,38,Alta,Adulto
+1480,Estudos,Graduação,São Bernardo,60474.0,Inglês,5,14,2005,4.0,4.0,20,Alta,Jovem
+1481,Trabalho,Graduação,São Paulo,62807.0,Inglês,2,16,1986,4.0,4.0,39,Alta,Adulto
+1482,Viagem,Ensino Médio,São Paulo,19414.0,Espanhol e Inglês,2,7,2007,1.0,1.0,18,Baixa,Jovem
+1483,Estudos,Graduação,São Paulo,23046.0,Espanhol,4,19,2006,1.0,1.0,19,Baixa,Jovem
+1484,Viagem,Ensino Médio,São Paulo,75484.0,Inglês,2,44,2002,5.0,6.0,23,Alta,Jovem
+1485,Viagem,Mestrado,São Paulo,67786.5,Inglês,4,28,2002,4.0,5.0,23,Alta,Jovem
+1486,Trabalho,Mestrado,São Paulo,79419.0,Inglês,3,16,1996,5.0,6.0,29,Alta,Adulto
+1488,Viagem,Graduação,São Paulo,76998.0,Espanhol e Inglês,2,5,1981,5.0,6.0,44,Alta,Sênior
+1489,Trabalho,Mestrado,São Paulo,49854.0,Espanhol,2,1,1998,3.0,3.0,27,Média,Adulto
+1490,Estudos,Doutorado,São Paulo,60585.0,Inglês,4,30,1997,4.0,4.0,28,Alta,Adulto
+1493,Estudos,Graduação,São Paulo,57867.0,Inglês,4,38,2004,2.0,4.0,21,Alta,Jovem
+1494,Viagem,Graduação,São Paulo,35765.0,Espanhol,3,18,2016,2.0,2.0,9,Média,Jovem
+1495,Estudos,Graduação,São Paulo,67786.5,Inglês,5,26,1985,4.0,5.0,40,Alta,Adulto
+1496,Trabalho,Graduação,São Paulo,32952.0,Espanhol,3,11,2003,2.0,2.0,22,Baixa,Jovem
+1497,Estudos,Doutorado,São Paulo,53374.0,Inglês,2,18,1995,3.0,4.0,30,Média,Adulto
+1498,Trabalho,Graduação,São Paulo,71706.0,Inglês,4,27,1985,4.0,5.0,40,Alta,Adulto
+1499,Viagem,Graduação,Campinas,68487.0,Inglês,3,1,2014,4.0,5.0,11,Alta,Jovem
+1500,Trabalho,Mestrado,São Paulo,53253.0,Inglês,4,3,2001,3.0,4.0,24,Média,Jovem
+1501,Viagem,Ensino Médio,São Paulo,31163.0,Espanhol,3,10,1999,1.0,2.0,26,Baixa,Adulto
+1502,Estudos,Graduação,São Paulo,42014.0,Espanhol,2,7,2003,1.0,3.0,22,Média,Jovem
+1503,Outros,Mestrado,São Paulo,54108.0,Espanhol e Inglês,4,1,1999,3.0,4.0,26,Média,Adulto
+1504,Estudos,Doutorado,São Paulo,48168.0,Espanhol e Inglês,4,10,1981,3.0,3.0,44,Média,Sênior
+1505,Outros,Mestrado,São Paulo,63206.0,Espanhol,2,12,2000,4.0,5.0,25,Alta,Jovem
+1506,Trabalho,Mestrado,São Paulo,57136.0,Espanhol e Inglês,4,1,1998,3.0,4.0,27,Alta,Adulto
+1507,Estudos,Ensino Médio,São Paulo,48168.0,Espanhol,2,10,2001,3.0,3.0,24,Média,Jovem
+1508,Estudos,Doutorado,São Paulo,79146.0,Inglês,2,2,1997,5.0,6.0,28,Alta,Adulto
+1509,Viagem,Graduação,São Bernardo,53977.0,Inglês,3,22,1984,3.0,4.0,41,Média,Sênior
+1511,Viagem,Mestrado,São Bernardo,48168.0,Espanhol,4,16,2001,3.0,3.0,24,Média,Jovem
+1512,Estudos,Graduação,Taubaté,73538.0,Espanhol e Inglês,5,45,1991,5.0,5.0,34,Alta,Adulto
+1513,Trabalho,Graduação,São Paulo,79529.0,Inglês,1,53,2012,4.0,6.0,13,Alta,Jovem
+1514,Estudos,Ensino Médio,São Paulo,20981.0,Espanhol,4,11,2003,1.0,1.0,22,Baixa,Jovem
+1515,Estudos,Graduação,São Paulo,51766.0,Inglês,2,30,2006,2.0,4.0,19,Média,Jovem
+1516,Trabalho,Graduação,São Paulo,55759.0,Espanhol,5,11,1988,3.0,4.0,37,Alta,Adulto
+1517,Estudos,Graduação,Campinas,35778.0,Espanhol,1,8,2004,2.0,2.0,21,Média,Jovem
+1518,Viagem,Mestrado,São Paulo,37787.0,Espanhol,3,10,1998,2.0,2.0,27,Média,Adulto
+1519,Trabalho,Graduação,Campinas,27242.0,Espanhol,4,12,1996,2.0,1.0,29,Baixa,Adulto
+1521,Trabalho,Graduação,Campinas,69930.0,Inglês,4,28,1997,5.0,5.0,28,Alta,Adulto
+1522,Trabalho,Graduação,São Paulo,35778.0,Espanhol,1,1,2002,2.0,2.0,23,Média,Jovem
+1523,Trabalho,Doutorado,São Paulo,37401.0,Inglês,4,1,1999,2.0,2.0,26,Média,Adulto
+1524,Trabalho,Graduação,São Paulo,3502.0,Espanhol e Inglês,2,10,1999,1.0,1.0,26,Baixa,Adulto
+1525,Viagem,Graduação,São Paulo,58597.0,Inglês,3,12,2002,4.0,4.0,23,Alta,Jovem
+1526,Trabalho,Doutorado,São Paulo,82032.0,Inglês,4,8,1974,5.0,6.0,51,Alta,Sênior
+1527,Estudos,Graduação,São Paulo,23046.0,Espanhol,1,3,1984,1.0,1.0,41,Baixa,Sênior
+1528,Estudos,Doutorado,São Bernardo,74004.0,Inglês,4,11,2013,5.0,5.0,12,Alta,Jovem
+1529,Viagem,Graduação,São Paulo,19740.0,Espanhol,3,14,1986,1.0,1.0,39,Baixa,Adulto
+1530,Viagem,Ensino Médio,São Paulo,57036.0,Espanhol,3,11,2001,3.0,4.0,24,Alta,Jovem
+1531,Estudos,Ensino Médio,São Paulo,53083.0,Inglês,3,17,1984,3.0,4.0,41,Média,Sênior
+1532,Trabalho,Doutorado,São Bernardo,69283.0,Inglês,3,13,2001,4.0,5.0,24,Alta,Jovem
+1533,Trabalho,Mestrado,São Paulo,48168.0,Espanhol,4,9,2001,3.0,3.0,24,Média,Jovem
+1534,Viagem,Ensino Médio,São Paulo,23331.0,Espanhol,1,10,2014,1.0,1.0,11,Baixa,Jovem
+1535,Viagem,Ensino Médio,São Paulo,23331.0,Espanhol,3,12,2014,1.0,1.0,11,Baixa,Jovem
+1536,Estudos,Graduação,São Paulo,9255.0,Espanhol,1,7,2015,1.0,1.0,10,Baixa,Jovem
+1537,Trabalho,Doutorado,São Paulo,67786.0,Inglês,3,1,1985,4.0,5.0,40,Alta,Adulto
+1538,Estudos,Doutorado,São Paulo,71969.0,Inglês,2,31,1997,5.0,5.0,28,Alta,Adulto
+1539,Trabalho,Mestrado,São Paulo,59235.0,Inglês,3,4,1993,4.0,4.0,32,Alta,Adulto
+1540,Trabalho,Graduação,São Bernardo,31928.0,Espanhol,1,6,2015,1.0,2.0,10,Baixa,Jovem
+1541,Outros,Mestrado,São Paulo,74881.0,Inglês,4,24,1987,5.0,6.0,38,Alta,Adulto
+1542,Trabalho,Graduação,São Paulo,65819.0,Inglês,4,51,2004,4.0,5.0,21,Alta,Jovem
+1543,Trabalho,Doutorado,São Paulo,51411.0,Mandarim,2,87,1979,3.0,4.0,46,Média,Sênior
+1544,Estudos,Graduação,Taubaté,51983.0,Inglês,3,6,1990,4.0,4.0,35,Média,Adulto
+1545,Trabalho,Mestrado,São Paulo,42386.0,Espanhol e Inglês,4,54,2012,2.0,3.0,13,Média,Jovem
+1546,Estudos,Ensino Médio,São Bernardo,30390.0,Espanhol,1,11,2013,1.0,2.0,12,Baixa,Jovem
+1547,Estudos,Graduação,São Paulo,30983.0,Espanhol,4,5,1989,1.0,2.0,36,Baixa,Adulto
+1548,Viagem,Graduação,São Paulo,66033.0,Inglês,2,1,1983,3.0,5.0,42,Alta,Sênior
+1549,Estudos,Ensino Médio,São Paulo,37284.0,Espanhol,3,12,2001,2.0,2.0,24,Média,Jovem
+1550,Trabalho,Mestrado,Taubaté,57530.0,Espanhol e Inglês,3,35,1977,4.0,4.0,48,Alta,Sênior
+1551,Estudos,Ensino Médio,São Paulo,79146.0,Inglês,1,16,1991,5.0,6.0,34,Alta,Adulto
+1552,Estudos,Graduação,São Bernardo,63943.0,Inglês,2,37,1982,4.0,5.0,43,Alta,Sênior
+1553,Estudos,Graduação,Campinas,76081.0,Inglês,4,49,1988,5.0,6.0,37,Alta,Adulto
+1554,Viagem,Graduação,São Paulo,67786.5,Espanhol,2,1,2000,4.0,5.0,25,Alta,Jovem
+1555,Trabalho,Mestrado,São Paulo,37054.0,Espanhol,2,15,1993,2.0,2.0,32,Média,Adulto
+1556,Outros,Mestrado,São Paulo,47175.0,Espanhol,4,12,1988,3.0,3.0,37,Média,Adulto
+1557,Estudos,Graduação,São Paulo,31859.0,Espanhol,2,11,2002,1.0,2.0,23,Baixa,Jovem
+1558,Trabalho,Graduação,São Bernardo,23046.0,Espanhol,4,15,1987,1.0,1.0,38,Baixa,Adulto
+1559,Estudos,Doutorado,Campinas,70179.0,Inglês,5,2,2002,5.0,5.0,23,Alta,Jovem
+1560,Estudos,Graduação,São Paulo,39922.0,Espanhol,2,18,2009,2.0,2.0,16,Média,Jovem
+1561,Viagem,Mestrado,São Paulo,49681.0,Espanhol,2,15,2002,3.0,3.0,23,Média,Jovem
+1562,Trabalho,Graduação,São Bernardo,24645.0,Espanhol e Inglês,1,15,2014,1.0,1.0,11,Baixa,Jovem
+1563,Viagem,Graduação,São Paulo,79865.0,Espanhol e Inglês,3,1,1980,5.0,6.0,45,Alta,Sênior
+1564,Estudos,Graduação,São Bernardo,44322.0,Espanhol,2,1,2011,2.0,3.0,14,Média,Jovem
+1565,Estudos,Graduação,São Paulo,47958.0,Espanhol,2,4,1978,3.0,3.0,47,Média,Sênior
+1566,Trabalho,Mestrado,São Paulo,63972.0,Espanhol e Inglês,4,54,1990,4.0,5.0,35,Alta,Adulto
+1567,Estudos,Graduação,São Paulo,75315.0,Espanhol e Inglês,2,1,1980,4.0,6.0,45,Alta,Sênior
+1568,Viagem,Doutorado,São Paulo,55517.0,Mandarim,3,86,1976,3.0,4.0,49,Alta,Sênior
+1569,Trabalho,Doutorado,São Paulo,75283.0,Inglês,3,27,1983,5.0,6.0,42,Alta,Sênior
+1570,Trabalho,Doutorado,São Paulo,82800.0,Inglês,4,13,1972,5.0,6.0,53,Alta,Sênior
+1571,Outros,Graduação,São Paulo,38998.0,Espanhol,3,7,1980,2.0,2.0,45,Média,Sênior
+1573,Trabalho,Mestrado,Campinas,23046.0,Espanhol e Inglês,3,1,2012,1.0,1.0,13,Baixa,Jovem
+1574,Estudos,Graduação,São Paulo,42014.0,Espanhol,1,13,2003,2.0,3.0,22,Média,Jovem
+1575,Outros,Doutorado,São Paulo,38201.0,Inglês,2,18,1986,1.0,2.0,39,Média,Adulto
+1576,Trabalho,Graduação,São Paulo,45203.0,Espanhol,4,6,2008,2.0,3.0,17,Média,Jovem
+1577,Estudos,Doutorado,São Paulo,81574.0,Inglês,3,60,1973,5.0,6.0,52,Alta,Sênior
+1578,Trabalho,Graduação,São Paulo,35778.0,Espanhol,2,11,2018,2.0,2.0,7,Média,Jovem
+1579,Trabalho,Mestrado,São Paulo,60482.0,Inglês,4,1,2002,4.0,4.0,23,Alta,Jovem
+1580,Trabalho,Graduação,São Paulo,34633.0,Espanhol,2,6,1982,2.0,2.0,43,Baixa,Sênior
+1581,Trabalho,Mestrado,São Paulo,78093.0,Inglês,3,24,1973,5.0,6.0,52,Alta,Sênior
+1582,Trabalho,Graduação,São Paulo,82460.0,Inglês,1,27,1976,5.0,6.0,49,Alta,Sênior
+1583,Outros,Mestrado,São Paulo,45903.0,Inglês,4,36,1992,3.0,3.0,33,Média,Adulto
+1584,Estudos,Graduação,Rio Branco,81361.0,Inglês,2,21,2013,5.0,6.0,12,Alta,Jovem
+1585,Estudos,Doutorado,São Paulo,35778.0,Inglês,1,25,1999,2.0,2.0,26,Média,Adulto
+1586,Outros,Mestrado,São Paulo,40442.0,Espanhol,4,7,1978,2.0,3.0,47,Média,Sênior
+1587,Trabalho,Graduação,São Paulo,61482.0,Inglês,4,14,1991,4.0,4.0,34,Alta,Adulto
+1588,Estudos,Graduação,São Paulo,35778.0,Espanhol,3,3,2006,2.0,2.0,19,Média,Jovem
+1589,Trabalho,Graduação,São Bernardo,75794.0,Inglês,2,24,2013,5.0,6.0,12,Alta,Jovem
+1590,Trabalho,Doutorado,São Paulo,31497.0,Inglês,5,15,1988,1.0,2.0,37,Baixa,Adulto
+1591,Viagem,Graduação,Rio Branco,72570.0,Espanhol,3,5,1981,5.0,5.0,44,Alta,Sênior
+1592,Estudos,Ensino Fundamental,São Paulo,13724.0,Espanhol,4,3,2014,1.0,1.0,11,Baixa,Jovem
+1593,Trabalho,Mestrado,São Paulo,45143.0,Espanhol,3,5,1991,3.0,3.0,34,Média,Adulto
+1594,Trabalho,Doutorado,São Bernardo,52569.0,Inglês,3,29,1993,3.0,4.0,32,Média,Adulto
+1595,Estudos,Doutorado,São Paulo,48432.0,Inglês,3,14,1999,3.0,3.0,26,Média,Adulto
+1596,Trabalho,Mestrado,São Paulo,17144.0,Espanhol,2,15,1986,1.0,1.0,39,Baixa,Adulto
+1597,Estudos,Graduação,São Paulo,36108.0,Espanhol,1,5,2010,1.0,2.0,15,Média,Jovem
+1598,Estudos,Graduação,São Paulo,76445.0,Espanhol e Inglês,2,35,1997,4.0,6.0,28,Alta,Adulto
+1599,Trabalho,Doutorado,Campinas,35778.0,Inglês,3,26,2001,2.0,2.0,24,Média,Jovem
+1600,Outros,Mestrado,São Paulo,53843.0,Inglês,4,20,1991,3.0,4.0,34,Média,Adulto
+1602,Trabalho,Mestrado,São Paulo,70638.0,Inglês,5,37,1981,4.0,5.0,44,Alta,Sênior
+1603,Outros,Graduação,São Paulo,42476.0,Espanhol,3,23,1986,2.0,3.0,39,Média,Adulto
+1604,Estudos,Graduação,São Paulo,27116.0,Espanhol,3,12,1987,1.0,1.0,38,Baixa,Adulto
+1605,Estudos,Doutorado,São Paulo,54072.0,Inglês,3,19,1989,3.0,4.0,36,Média,Adulto
+1606,Estudos,Graduação,São Paulo,71855.0,Inglês,3,1,2003,4.0,5.0,22,Alta,Jovem
+1607,Viagem,Ensino Médio,São Bernardo,51250.0,Espanhol,2,11,2016,3.0,3.0,9,Média,Jovem
+1608,Trabalho,Mestrado,São Paulo,60432.0,Inglês,4,39,1999,4.0,4.0,26,Alta,Adulto
+1609,Trabalho,Doutorado,São Paulo,65526.0,Inglês,4,6,1990,4.0,5.0,35,Alta,Adulto
+1610,Estudos,Graduação,Campinas,68655.0,Inglês,3,10,2014,4.0,5.0,11,Alta,Jovem
+1611,Viagem,Ensino Médio,São Paulo,12393.0,Espanhol,4,6,2004,1.0,1.0,21,Baixa,Jovem
+1612,Estudos,Graduação,São Paulo,64509.0,Inglês,3,11,2016,4.0,5.0,9,Alta,Jovem
+1613,Viagem,Graduação,São Paulo,33955.0,Espanhol,3,14,2001,2.0,2.0,24,Baixa,Jovem
+1614,Estudos,Graduação,São Paulo,31353.0,Espanhol,1,7,2003,1.0,2.0,22,Baixa,Jovem
+1615,Trabalho,Graduação,São Paulo,55434.0,Inglês,3,41,2010,3.0,4.0,15,Alta,Jovem
+1616,Trabalho,Graduação,Rio Branco,28359.0,Espanhol,2,11,2009,2.0,1.0,16,Baixa,Jovem
+1617,Trabalho,Graduação,São Paulo,57100.0,Inglês,4,1,2013,3.0,4.0,12,Alta,Jovem
+1618,Estudos,Graduação,São Paulo,69139.0,Inglês,1,67,1991,4.0,5.0,34,Alta,Adulto
+1619,Trabalho,Mestrado,São Bernardo,52973.0,Inglês,3,36,1982,3.0,4.0,43,Média,Sênior
+1620,Trabalho,Doutorado,São Paulo,51717.0,Inglês,3,23,1991,3.0,4.0,34,Média,Adulto
+1621,Outros,Graduação,São Paulo,18793.0,Espanhol,1,23,1997,1.0,1.0,28,Baixa,Adulto
+1622,Viagem,Ensino Médio,São Paulo,66664.0,Inglês,4,19,2008,4.0,5.0,17,Alta,Jovem
+1623,Estudos,Graduação,Taubaté,50664.0,Espanhol,3,10,1985,4.0,3.0,40,Média,Adulto
+1624,Estudos,Graduação,São Paulo,54414.0,Inglês,1,24,1989,3.0,4.0,36,Média,Adulto
+1625,Trabalho,Doutorado,São Paulo,54549.0,Inglês,3,28,1978,3.0,4.0,47,Média,Sênior
+1626,Outros,Doutorado,São Paulo,47111.0,Inglês,3,30,1997,3.0,3.0,28,Média,Adulto
+1627,Trabalho,Doutorado,São Paulo,41003.0,Inglês,3,28,1989,2.0,3.0,36,Média,Adulto
+1628,Viagem,Graduação,São Paulo,19444.0,Espanhol,1,16,2008,1.0,1.0,17,Baixa,Jovem
+1629,Estudos,Ensino Médio,São Paulo,36301.0,Espanhol,3,6,2002,2.0,2.0,23,Média,Jovem
+1631,Trabalho,Doutorado,São Paulo,42731.0,Inglês,1,21,1995,2.0,3.0,30,Média,Adulto
+1633,Viagem,Graduação,São Bernardo,22775.0,Espanhol,3,10,2004,1.0,1.0,21,Baixa,Jovem
+1634,Estudos,Doutorado,Campinas,46681.0,Inglês,3,17,1974,4.0,3.0,51,Média,Sênior
+1635,Trabalho,Doutorado,São Paulo,59821.0,Mandarim,5,87,1981,4.0,4.0,44,Alta,Sênior
+1636,Estudos,Graduação,São Paulo,50002.0,Espanhol e Inglês,3,57,1980,3.0,3.0,45,Média,Sênior
+1637,Estudos,Graduação,São Paulo,67786.5,Inglês,3,18,1971,4.0,5.0,54,Alta,Sênior
+1638,Estudos,Graduação,Rio Branco,44078.0,Espanhol,3,19,1995,3.0,3.0,30,Média,Adulto
+1639,Viagem,Mestrado,Campinas,30560.0,Espanhol,2,7,2002,2.0,2.0,23,Baixa,Jovem
+1640,Trabalho,Mestrado,São Paulo,35924.0,Inglês,3,17,1995,2.0,2.0,30,Média,Adulto
+1641,Viagem,Doutorado,São Bernardo,64140.0,Inglês,4,37,1990,4.0,5.0,35,Alta,Adulto
+1642,Estudos,Graduação,São Paulo,56386.0,Espanhol,4,19,2007,3.0,4.0,18,Alta,Jovem
+1643,Estudos,Ensino Fundamental,São Paulo,24594.0,Espanhol,1,14,2005,1.0,1.0,20,Baixa,Jovem
+1644,Viagem,Ensino Médio,São Paulo,78059.5,Inglês,4,29,2007,4.0,6.0,18,Alta,Jovem
+1645,Trabalho,Mestrado,São Bernardo,35778.0,Espanhol,4,7,1986,2.0,2.0,39,Média,Adulto
+1646,Trabalho,Mestrado,São Paulo,60474.0,Inglês,2,1,2000,4.0,4.0,25,Alta,Jovem
+1647,Estudos,Graduação,São Bernardo,58684.0,Inglês,4,30,2007,4.0,4.0,18,Alta,Jovem
+1648,Estudos,Graduação,São Bernardo,57136.0,Inglês,3,23,1993,3.0,4.0,32,Alta,Adulto
+1650,Estudos,Graduação,São Paulo,22448.0,Espanhol,1,13,2008,1.0,1.0,17,Baixa,Jovem
+1651,Estudos,Graduação,São Paulo,79146.0,Inglês,1,20,1987,5.0,6.0,38,Alta,Adulto
+1652,Estudos,Graduação,São Paulo,34213.0,Espanhol,2,15,1989,2.0,2.0,36,Baixa,Adulto
+1653,Estudos,Graduação,São Paulo,79146.0,Inglês,1,14,2003,5.0,6.0,22,Alta,Jovem
+1654,Estudos,Doutorado,São Paulo,25358.0,Inglês,3,37,1973,1.0,1.0,52,Baixa,Sênior
+1655,Outros,Mestrado,Campinas,35544.0,Espanhol,3,13,2004,3.0,2.0,21,Média,Jovem
+1658,Estudos,Ensino Médio,São Paulo,50334.0,Espanhol,1,2,1998,3.0,3.0,27,Média,Adulto
+1659,Trabalho,Graduação,São Paulo,72066.0,Inglês,4,34,2007,5.0,5.0,18,Alta,Jovem
+1660,Trabalho,Doutorado,São Paulo,50729.0,Inglês,4,8,1984,3.0,3.0,41,Média,Sênior
+1661,Estudos,Graduação,São Paulo,34916.0,Espanhol,1,6,1994,2.0,2.0,31,Baixa,Adulto
+1662,Viagem,Graduação,Campinas,72570.0,Inglês,4,26,2002,5.0,5.0,23,Alta,Jovem
+1663,Trabalho,Graduação,São Paulo,43602.0,Inglês,3,5,1992,2.0,3.0,33,Média,Adulto
+1664,Estudos,Doutorado,Rio Branco,33996.0,Inglês,4,1,2015,3.0,2.0,10,Baixa,Jovem
+1665,Estudos,Ensino Médio,Campinas,41473.0,Espanhol,3,9,2011,2.0,3.0,14,Média,Jovem
+1666,Trabalho,Doutorado,São Paulo,63246.0,Inglês,3,11,1993,4.0,5.0,32,Alta,Adulto
+1667,Trabalho,Doutorado,Campinas,36732.0,Inglês,2,33,1985,3.0,2.0,40,Média,Adulto
+1668,Viagem,Doutorado,São Paulo,69084.0,Inglês,3,34,1996,4.0,5.0,29,Alta,Adulto
+1669,Trabalho,Doutorado,São Bernardo,77766.0,Inglês,3,28,1993,5.0,6.0,32,Alta,Adulto
+1670,Trabalho,Doutorado,São Paulo,37929.0,Inglês,1,31,2011,2.0,2.0,14,Média,Jovem
+1672,Outros,Mestrado,Campinas,80141.0,Espanhol,3,10,2012,5.0,6.0,13,Alta,Jovem
+1673,Estudos,Ensino Médio,São Bernardo,72635.0,Espanhol,3,13,1981,5.0,5.0,44,Alta,Sênior
+1674,Estudos,Graduação,São Bernardo,67786.5,Inglês,3,10,1996,4.0,5.0,29,Alta,Adulto
+1675,Estudos,Ensino Médio,São Paulo,20193.0,Espanhol,3,11,2017,1.0,1.0,8,Baixa,Jovem
+1676,Estudos,Graduação,São Paulo,27573.0,Espanhol,2,3,2001,1.0,1.0,24,Baixa,Jovem
+1677,Estudos,Ensino Fundamental,São Paulo,15862.0,Espanhol,2,12,2005,1.0,1.0,20,Baixa,Jovem
+1678,Viagem,Doutorado,São Paulo,49544.0,Inglês,4,26,2002,3.0,3.0,23,Média,Jovem
+1679,Estudos,Graduação,São Paulo,33228.0,Espanhol,2,13,2006,2.0,2.0,19,Baixa,Jovem
+1680,Trabalho,Graduação,São Paulo,70440.0,Inglês,5,32,2004,4.0,5.0,21,Alta,Jovem
+1681,Estudos,Graduação,Taubaté,35718.5,Espanhol,1,13,1997,3.0,2.0,28,Média,Adulto
+1682,Trabalho,Doutorado,São Paulo,22554.0,Inglês,5,31,1981,1.0,1.0,44,Baixa,Sênior
+1683,Trabalho,Doutorado,São Bernardo,23536.0,Inglês,3,38,2009,1.0,1.0,16,Baixa,Jovem
+1684,Trabalho,Graduação,São Paulo,49413.0,Espanhol,4,15,1978,3.0,3.0,47,Média,Sênior
+1685,Estudos,Graduação,Campinas,42231.0,Inglês,3,31,1995,2.0,3.0,30,Média,Adulto
+1686,Outros,Mestrado,Campinas,78789.0,Inglês,3,25,2006,5.0,6.0,19,Alta,Jovem
+1687,Trabalho,Graduação,São Paulo,56534.0,Inglês,4,36,1994,3.0,4.0,31,Alta,Adulto
+1688,Estudos,Graduação,São Paulo,55085.5,Espanhol,3,14,1997,3.0,4.0,28,Alta,Adulto
+1689,Trabalho,Graduação,São Bernardo,81217.0,Espanhol,2,12,2015,5.0,6.0,10,Alta,Jovem
+1690,Viagem,Graduação,São Paulo,49090.0,Espanhol,2,10,1977,3.0,3.0,48,Média,Sênior
+1691,Trabalho,Mestrado,São Paulo,61787.0,Inglês,2,20,2013,4.0,4.0,12,Alta,Jovem
+1692,Trabalho,Doutorado,São Paulo,18169.0,Inglês,3,7,2011,1.0,1.0,14,Baixa,Jovem
+1693,Estudos,Ensino Médio,São Paulo,24336.0,Espanhol e Inglês,4,41,2007,1.0,1.0,18,Baixa,Jovem
+1694,Estudos,Graduação,São Paulo,18222.0,Espanhol,4,2,2016,1.0,1.0,9,Baixa,Jovem
+1695,Estudos,Graduação,São Paulo,62335.0,Espanhol e Inglês,3,28,1978,3.0,4.0,47,Alta,Sênior
+1696,Viagem,Ensino Médio,São Paulo,42033.0,Espanhol,1,12,1997,1.0,3.0,28,Média,Adulto
+1698,Trabalho,Doutorado,Taubaté,48168.0,Inglês,3,18,1983,3.0,3.0,42,Média,Sênior
+1699,Trabalho,Mestrado,São Paulo,73705.0,Mandarim,4,88,1977,5.0,5.0,48,Alta,Sênior
+1700,Estudos,Graduação,Taubaté,61010.0,Inglês,3,9,2002,5.0,4.0,23,Alta,Jovem
+1701,Trabalho,Mestrado,São Paulo,38452.0,Espanhol,3,11,1981,2.0,2.0,44,Média,Sênior
+1702,Trabalho,Graduação,São Paulo,18358.0,Espanhol e Inglês,2,29,2015,1.0,1.0,10,Baixa,Jovem
+1703,Estudos,Doutorado,São Paulo,55012.0,Inglês,3,10,1999,3.0,4.0,26,Alta,Adulto
+1704,Estudos,Ensino Fundamental,São Paulo,9722.0,Espanhol,2,11,1999,1.0,1.0,26,Baixa,Adulto
+1705,Estudos,Doutorado,São Paulo,38175.0,Inglês,3,18,2010,2.0,2.0,15,Média,Jovem
+1706,Outros,Mestrado,São Paulo,58656.0,Inglês,1,8,1982,4.0,4.0,43,Alta,Sênior
+1707,Estudos,Graduação,São Paulo,52117.0,Inglês,1,15,1991,3.0,4.0,34,Média,Adulto
+1708,Trabalho,Graduação,São Paulo,64813.0,Inglês,4,1,2004,4.0,5.0,21,Alta,Jovem
+1709,Estudos,Doutorado,São Paulo,54222.0,Espanhol e Inglês,2,33,1999,3.0,4.0,26,Média,Adulto
+1710,Trabalho,Graduação,São Paulo,83512.0,Espanhol e Inglês,3,31,2012,5.0,6.0,13,Alta,Jovem
+1711,Outros,Mestrado,São Paulo,77520.0,Inglês,2,23,1985,4.0,6.0,40,Alta,Adulto
+1712,Viagem,Graduação,São Bernardo,41154.0,Espanhol,3,4,2004,2.0,3.0,21,Média,Jovem
+1713,Estudos,Graduação,São Paulo,80398.0,Espanhol,1,5,1992,5.0,6.0,33,Alta,Adulto
+1714,Viagem,Ensino Fundamental,São Paulo,18746.0,Espanhol,4,15,2018,1.0,1.0,7,Baixa,Jovem
+1715,Estudos,Graduação,Rio Branco,35196.0,Espanhol,3,10,2010,3.0,2.0,15,Média,Jovem
+1716,Viagem,Graduação,São Paulo,60230.0,Inglês,5,20,1982,3.0,4.0,43,Alta,Sênior
+1717,Viagem,Graduação,São Paulo,22108.0,Espanhol,3,13,2003,1.0,1.0,22,Baixa,Jovem
+1718,Viagem,Graduação,Rio Branco,44392.0,Espanhol,1,10,2000,3.0,3.0,25,Média,Jovem
+1719,Trabalho,Doutorado,São Paulo,55424.0,Inglês,2,8,2002,3.0,4.0,23,Alta,Jovem
+1720,Viagem,Graduação,São Paulo,23046.0,Espanhol e Inglês,3,24,2005,1.0,1.0,20,Baixa,Jovem
+1723,Trabalho,Doutorado,São Paulo,82571.0,Espanhol e Inglês,4,22,1988,5.0,6.0,37,Alta,Adulto
+1724,Trabalho,Doutorado,São Paulo,38513.0,Inglês,2,34,2008,2.0,2.0,17,Média,Jovem
+1725,Outros,Mestrado,São Paulo,16653.0,Espanhol,3,15,2005,1.0,1.0,20,Baixa,Jovem
+1726,Trabalho,Graduação,São Paulo,42586.0,Espanhol e Inglês,4,19,1981,2.0,3.0,44,Média,Sênior
+1727,Estudos,Ensino Fundamental,Rio Branco,23529.0,Inglês,1,1,1991,2.0,1.0,34,Baixa,Adulto
+1728,Trabalho,Mestrado,São Bernardo,74881.0,Inglês,3,9,1987,5.0,6.0,38,Alta,Adulto
+1729,Trabalho,Graduação,São Paulo,71107.0,Inglês,3,8,1977,4.0,5.0,48,Alta,Sênior
+1730,Viagem,Doutorado,São Paulo,46910.0,Inglês,2,6,1990,3.0,3.0,35,Média,Adulto
+1731,Estudos,Graduação,São Paulo,18690.0,Espanhol,1,7,1985,1.0,1.0,40,Baixa,Adulto
+1732,Estudos,Graduação,São Paulo,37244.0,Espanhol,3,10,1981,2.0,2.0,44,Média,Sênior
+1733,Estudos,Graduação,São Paulo,82427.0,Inglês,1,32,1992,5.0,6.0,33,Alta,Adulto
+1734,Viagem,Ensino Médio,São Paulo,79146.0,Espanhol,3,8,1984,5.0,6.0,41,Alta,Sênior
+1735,Estudos,Graduação,Campinas,70044.0,Inglês,4,17,1980,4.0,5.0,45,Alta,Sênior
+1736,Trabalho,Graduação,São Paulo,79146.0,Inglês,3,16,1993,5.0,6.0,32,Alta,Adulto
+1737,Estudos,Graduação,São Paulo,77437.0,Espanhol e Inglês,3,9,1989,5.0,6.0,36,Alta,Adulto
+1738,Trabalho,Graduação,São Paulo,54984.0,Espanhol,2,8,1985,3.0,4.0,40,Média,Adulto
+1739,Trabalho,Doutorado,São Paulo,42403.0,Inglês,4,1,1997,2.0,3.0,28,Média,Adulto
+1740,Trabalho,Graduação,São Bernardo,55085.5,Inglês,4,30,1990,3.0,4.0,35,Alta,Adulto
+1741,Outros,Graduação,São Bernardo,37292.0,Espanhol,3,8,2009,2.0,2.0,16,Média,Jovem
+1742,Viagem,Doutorado,São Bernardo,45576.0,Inglês,2,1,1971,3.0,3.0,54,Média,Sênior
+1743,Viagem,Graduação,São Paulo,70321.0,Inglês,3,21,1973,3.0,5.0,52,Alta,Sênior
+1744,Trabalho,Doutorado,São Paulo,58086.0,Inglês,2,24,1995,3.0,4.0,30,Alta,Adulto
+1745,Estudos,Graduação,São Paulo,79146.0,Inglês,4,40,1978,5.0,6.0,47,Alta,Sênior
+1746,Estudos,Ensino Fundamental,São Paulo,28389.0,Espanhol e Inglês,4,16,1973,1.0,1.0,52,Baixa,Sênior
+1747,Viagem,Mestrado,São Paulo,67786.5,Inglês,5,1,1972,4.0,5.0,53,Alta,Sênior
+1748,Viagem,Graduação,São Bernardo,69901.0,Inglês,1,1,1995,4.0,5.0,30,Alta,Adulto
+1749,Outros,Doutorado,São Paulo,80360.0,Espanhol e Inglês,1,1,1975,5.0,6.0,50,Alta,Sênior
+1750,Trabalho,Doutorado,São Paulo,63342.0,Inglês,2,23,1987,4.0,5.0,38,Alta,Adulto
+1751,Estudos,Graduação,São Paulo,48168.0,Inglês,2,47,2000,3.0,3.0,25,Média,Jovem
+1752,Viagem,Ensino Médio,São Paulo,31859.0,Espanhol,4,11,2006,1.0,2.0,19,Baixa,Jovem
+1753,Trabalho,Doutorado,São Paulo,51569.0,Mandarim,5,88,1975,3.0,4.0,50,Média,Sênior
+1754,Viagem,Graduação,Taubaté,30372.0,Espanhol e Inglês,2,19,1997,2.0,2.0,28,Baixa,Adulto
+1755,Estudos,Ensino Fundamental,São Bernardo,16014.0,Espanhol,4,8,2005,1.0,1.0,20,Baixa,Jovem
+1756,Estudos,Graduação,Taubaté,41120.0,Espanhol,2,16,1994,3.0,3.0,31,Média,Adulto
+1757,Trabalho,Mestrado,São Paulo,35778.0,Espanhol,1,6,1997,2.0,2.0,28,Média,Adulto
+1758,Trabalho,Doutorado,São Paulo,38725.0,Mandarim,4,83,1981,2.0,2.0,44,Média,Sênior
+1759,Estudos,Graduação,São Paulo,77981.0,Inglês,5,39,1998,5.0,6.0,27,Alta,Adulto
+1760,Viagem,Ensino Médio,São Paulo,62905.0,Inglês,2,23,1990,4.0,4.0,35,Alta,Adulto
+1761,Viagem,Ensino Médio,São Bernardo,13533.0,Espanhol,5,9,2005,1.0,1.0,20,Baixa,Jovem
+1762,Viagem,Graduação,São Paulo,59481.0,Inglês,2,13,2001,3.0,4.0,24,Alta,Jovem
+1763,Estudos,Graduação,São Paulo,72117.0,Inglês,4,32,2003,5.0,5.0,22,Alta,Jovem
+1764,Estudos,Ensino Médio,São Paulo,23046.0,Espanhol,4,8,2012,1.0,1.0,13,Baixa,Jovem
+1765,Trabalho,Graduação,São Paulo,67131.0,Espanhol e Inglês,3,5,1982,4.0,5.0,43,Alta,Sênior
+1766,Viagem,Doutorado,São Bernardo,35778.0,Inglês,4,5,2006,2.0,2.0,19,Média,Jovem
+1767,Trabalho,Graduação,São Paulo,71853.0,Espanhol,1,17,2008,5.0,5.0,17,Alta,Jovem
+1768,Estudos,Ensino Fundamental,São Paulo,28249.0,Espanhol,4,11,1987,1.0,1.0,38,Baixa,Adulto
+1769,Outros,Mestrado,São Paulo,47808.0,Espanhol,4,15,2001,3.0,3.0,24,Média,Jovem
+1770,Estudos,Doutorado,São Paulo,25509.0,Espanhol e Inglês,1,3,2000,1.0,1.0,25,Baixa,Jovem
+1772,Trabalho,Graduação,Campinas,70596.0,Espanhol,2,3,2011,4.0,5.0,14,Alta,Jovem
+1774,Viagem,Graduação,São Bernardo,42664.0,Espanhol,3,11,1993,2.0,3.0,32,Média,Adulto
+1775,Viagem,Graduação,São Paulo,42586.0,Inglês,1,28,1981,2.0,3.0,44,Média,Sênior
+1776,Estudos,Graduação,São Paulo,23046.0,Espanhol,2,14,2011,1.0,1.0,14,Baixa,Jovem
+1777,Trabalho,Doutorado,São Paulo,23046.0,Inglês,1,36,2003,1.0,1.0,22,Baixa,Jovem
+1778,Estudos,Doutorado,São Paulo,39435.0,Espanhol e Inglês,5,23,1999,2.0,2.0,26,Média,Adulto
+1779,Viagem,Ensino Médio,São Bernardo,65370.0,Inglês,2,61,2010,4.0,5.0,15,Alta,Jovem
+1780,Viagem,Ensino Fundamental,São Paulo,20194.0,Espanhol,1,10,2005,1.0,1.0,20,Baixa,Jovem
+1781,Trabalho,Doutorado,Campinas,48168.0,Inglês,3,26,2002,3.0,3.0,23,Média,Jovem
+1782,Trabalho,Graduação,São Paulo,64590.0,Espanhol,2,15,1994,4.0,5.0,31,Alta,Adulto
+1783,Viagem,Graduação,São Paulo,71232.0,Inglês,3,12,1985,4.0,5.0,40,Alta,Adulto
+1784,Trabalho,Graduação,São Paulo,34600.0,Espanhol,4,7,1997,2.0,2.0,28,Baixa,Adulto
+1785,Estudos,Graduação,Campinas,46904.0,Espanhol,1,17,1993,3.0,3.0,32,Média,Adulto
+1786,Trabalho,Graduação,São Paulo,49094.0,Espanhol,2,21,1999,3.0,3.0,26,Média,Adulto
+1787,Viagem,Graduação,São Paulo,36075.0,Espanhol e Inglês,3,41,2009,2.0,2.0,16,Média,Jovem
+1788,Viagem,Ensino Médio,São Paulo,55085.5,Inglês,4,20,2005,3.0,4.0,20,Alta,Jovem
+1789,Estudos,Graduação,São Paulo,77298.0,Inglês,1,1,2005,5.0,6.0,20,Alta,Jovem
+1790,Viagem,Graduação,São Paulo,34026.0,Espanhol,2,8,1976,2.0,2.0,49,Baixa,Sênior
+1791,Trabalho,Doutorado,São Bernardo,48918.0,Inglês,4,10,1989,3.0,3.0,36,Média,Adulto
+1792,Estudos,Ensino Médio,São Paulo,82122.0,Espanhol e Inglês,5,34,1988,5.0,6.0,37,Alta,Adulto
+1793,Trabalho,Graduação,São Paulo,37697.0,Inglês,3,14,2002,2.0,2.0,23,Média,Jovem
+1794,Estudos,Graduação,São Paulo,34074.0,Espanhol,2,8,1978,1.0,2.0,47,Baixa,Sênior
+1795,Trabalho,Mestrado,São Paulo,28520.0,Espanhol,4,17,1986,1.0,1.0,39,Baixa,Adulto
+1796,Trabalho,Graduação,São Bernardo,62535.0,Espanhol,2,18,1981,4.0,4.0,44,Alta,Sênior
+1797,Trabalho,Mestrado,São Paulo,36273.0,Espanhol,2,7,2003,1.0,2.0,22,Média,Jovem
+1798,Trabalho,Graduação,São Paulo,65920.5,Espanhol,3,8,1990,3.0,5.0,35,Alta,Adulto
+1799,Estudos,Ensino Médio,São Paulo,75774.0,Inglês,5,12,2007,4.0,6.0,18,Alta,Jovem
+1800,Viagem,Graduação,Taubaté,78416.0,Inglês,1,22,2002,5.0,6.0,23,Alta,Jovem
+1801,Viagem,Graduação,São Bernardo,75702.0,Inglês,3,8,2000,5.0,6.0,25,Alta,Jovem
+1802,Trabalho,Mestrado,São Paulo,59385.0,Espanhol,2,9,1977,4.0,4.0,48,Alta,Sênior
+1803,Estudos,Graduação,São Paulo,37070.0,Espanhol e Inglês,2,1,1992,2.0,2.0,33,Média,Adulto
+1804,Estudos,Graduação,São Paulo,44689.0,Espanhol e Inglês,4,5,1977,3.0,3.0,48,Média,Sênior
+1805,Viagem,Graduação,São Bernardo,53977.0,Inglês,5,37,1984,3.0,4.0,41,Média,Sênior
+1806,Estudos,Doutorado,São Paulo,7144.0,Espanhol e Inglês,2,34,1992,1.0,1.0,33,Baixa,Adulto
+1807,Trabalho,Graduação,São Paulo,18701.0,Espanhol,1,3,1990,1.0,1.0,35,Baixa,Adulto
+1808,Estudos,Graduação,São Paulo,79146.0,Espanhol,2,5,1982,5.0,6.0,43,Alta,Sênior
+1809,Estudos,Doutorado,São Paulo,63159.0,Inglês,4,20,2000,3.0,5.0,25,Alta,Jovem
+1810,Viagem,Graduação,São Paulo,37758.0,Espanhol,1,5,1992,2.0,2.0,33,Média,Adulto
+1811,Estudos,Doutorado,São Bernardo,46757.0,Inglês,2,20,1989,3.0,3.0,36,Média,Adulto
+1812,Trabalho,Mestrado,São Paulo,79734.0,Inglês,3,15,1995,5.0,6.0,30,Alta,Adulto
+1813,Estudos,Graduação,São Paulo,63207.0,Espanhol,1,6,2018,3.0,5.0,7,Alta,Jovem
+1814,Trabalho,Graduação,São Paulo,72071.0,Espanhol e Inglês,3,5,1980,4.0,5.0,45,Alta,Sênior
+1815,Trabalho,Doutorado,Taubaté,21840.0,Inglês,5,22,2009,2.0,1.0,16,Baixa,Jovem
+1816,Estudos,Ensino Médio,São Paulo,58582.0,Inglês,3,32,2008,4.0,4.0,17,Alta,Jovem
+1817,Trabalho,Graduação,São Bernardo,72570.0,Inglês,3,7,1977,5.0,5.0,48,Alta,Sênior
+1818,Estudos,Graduação,São Paulo,50387.0,Inglês,2,10,1982,3.0,3.0,43,Média,Sênior
+1819,Trabalho,Doutorado,São Paulo,32583.0,Inglês,2,15,1987,2.0,2.0,38,Baixa,Adulto
+1820,Trabalho,Graduação,São Paulo,62568.0,Inglês,2,1,1988,4.0,4.0,37,Alta,Adulto
+1821,Trabalho,Mestrado,São Paulo,44635.0,Espanhol,2,10,1997,3.0,3.0,28,Média,Adulto
+1822,Trabalho,Mestrado,São Paulo,33316.0,Espanhol,2,11,1997,2.0,2.0,28,Baixa,Adulto
+1823,Estudos,Graduação,São Bernardo,63967.0,Espanhol,4,18,1994,4.0,5.0,31,Alta,Adulto
+1824,Viagem,Ensino Médio,São Paulo,52513.0,Inglês,2,8,2004,3.0,4.0,21,Média,Jovem
+1825,Estudos,Graduação,São Paulo,25293.0,Espanhol,2,5,1995,1.0,1.0,30,Baixa,Adulto
+1826,Trabalho,Doutorado,São Paulo,54111.0,Inglês,4,13,1991,2.0,4.0,34,Média,Adulto
+1827,Viagem,Graduação,Taubaté,78394.0,Espanhol,3,15,2012,5.0,6.0,13,Alta,Jovem
+1828,Trabalho,Mestrado,São Bernardo,80739.0,Espanhol e Inglês,3,17,1984,5.0,6.0,41,Alta,Sênior
+1829,Trabalho,Mestrado,São Paulo,22669.0,Espanhol e Inglês,3,28,2001,1.0,1.0,24,Baixa,Jovem
+1830,Trabalho,Graduação,Taubaté,29236.0,Espanhol,3,9,2013,2.0,1.0,12,Baixa,Jovem
+1831,Estudos,Graduação,São Paulo,48168.0,Espanhol,1,10,1985,3.0,3.0,40,Média,Adulto
+1832,Trabalho,Doutorado,São Paulo,54693.0,Inglês,2,33,1988,3.0,4.0,37,Média,Adulto
+1833,Trabalho,Graduação,São Bernardo,48186.0,Espanhol,3,13,2000,3.0,3.0,25,Média,Jovem
+1834,Trabalho,Graduação,São Bernardo,54809.0,Inglês,4,24,2003,3.0,4.0,22,Média,Jovem
+1835,Estudos,Graduação,São Paulo,41580.0,Espanhol,1,4,2004,2.0,3.0,21,Média,Jovem
+1836,Trabalho,Doutorado,São Paulo,80336.0,Inglês,4,23,1996,5.0,6.0,29,Alta,Adulto
+1837,Trabalho,Graduação,São Paulo,47743.0,Espanhol e Inglês,1,5,1983,3.0,3.0,42,Média,Sênior
+1838,Estudos,Ensino Médio,Campinas,62972.0,Inglês,4,33,1981,5.0,4.0,44,Alta,Sênior
+1840,Estudos,Doutorado,São Paulo,32313.0,Espanhol e Inglês,3,22,2008,2.0,2.0,17,Baixa,Jovem
+1842,Viagem,Mestrado,São Paulo,27071.0,Espanhol,5,12,1994,1.0,1.0,31,Baixa,Adulto
+1843,Outros,Mestrado,São Paulo,68148.0,Inglês,3,18,1983,4.0,5.0,42,Alta,Sênior
+1844,Outros,Mestrado,Campinas,72570.0,Inglês,3,26,1991,5.0,5.0,34,Alta,Adulto
+1846,Trabalho,Doutorado,São Paulo,4023.0,Espanhol e Inglês,2,11,1989,1.0,1.0,36,Baixa,Adulto
+1847,Estudos,Graduação,São Paulo,30093.0,Espanhol e Inglês,5,25,2016,1.0,2.0,9,Baixa,Jovem
+1848,Estudos,Doutorado,Campinas,57705.0,Espanhol e Inglês,4,1,1992,3.0,4.0,33,Alta,Adulto
+1849,Estudos,Graduação,São Paulo,25008.0,Espanhol,1,11,2014,1.0,1.0,11,Baixa,Jovem
+1850,Viagem,Ensino Médio,São Paulo,83257.0,Inglês,4,18,2021,5.0,6.0,4,Alta,Jovem
+1851,Estudos,Graduação,São Bernardo,22280.0,Espanhol,2,12,2001,1.0,1.0,24,Baixa,Jovem
+1852,Trabalho,Doutorado,Campinas,72159.0,Inglês,3,24,2004,5.0,5.0,21,Alta,Jovem
+1853,Trabalho,Graduação,São Bernardo,67786.5,Inglês,3,11,1987,4.0,5.0,38,Alta,Adulto
+1854,Estudos,Doutorado,Campinas,82733.0,Inglês,4,1,2010,5.0,6.0,15,Alta,Jovem
+1855,Trabalho,Mestrado,São Paulo,74290.0,Inglês,3,18,1997,5.0,5.0,28,Alta,Adulto
+1857,Trabalho,Mestrado,São Paulo,23046.0,Espanhol,1,11,2002,1.0,1.0,23,Baixa,Jovem
+1858,Trabalho,Doutorado,São Bernardo,70116.0,Inglês,1,41,1998,4.0,5.0,27,Alta,Adulto
+1859,Trabalho,Graduação,São Bernardo,54006.0,Inglês,3,34,2011,3.0,4.0,14,Média,Jovem
+1860,Estudos,Doutorado,São Bernardo,69063.0,Inglês,4,34,1992,4.0,5.0,33,Alta,Adulto
+1861,Estudos,Ensino Médio,São Paulo,11448.0,Espanhol e Inglês,3,27,2001,1.0,1.0,24,Baixa,Jovem
+1862,Estudos,Graduação,São Paulo,61825.0,Espanhol,5,22,2005,4.0,4.0,20,Alta,Jovem
+1863,Estudos,Graduação,São Paulo,70886.0,Inglês,1,39,1997,4.0,5.0,28,Alta,Adulto
+1864,Viagem,Graduação,Rio Branco,69109.0,Espanhol,4,7,2008,5.0,5.0,17,Alta,Jovem
+1865,Trabalho,Graduação,Campinas,60208.0,Inglês,4,21,1999,5.0,4.0,26,Alta,Adulto
+1866,Trabalho,Mestrado,São Paulo,32889.0,Espanhol,3,7,1994,1.0,2.0,31,Baixa,Adulto
+1867,Outros,Graduação,São Paulo,34738.0,Espanhol,1,7,2010,2.0,2.0,15,Baixa,Jovem
+1868,Trabalho,Mestrado,São Paulo,30538.0,Espanhol,3,7,1997,1.0,2.0,28,Baixa,Adulto
+1869,Outros,Ensino Médio,São Bernardo,82326.0,Inglês,2,23,2003,5.0,6.0,22,Alta,Jovem
+1870,Trabalho,Doutorado,São Bernardo,26642.0,Inglês,2,11,1993,1.0,1.0,32,Baixa,Adulto
+1871,Estudos,Graduação,São Paulo,69932.0,Inglês,2,15,1990,4.0,5.0,35,Alta,Adulto
+1872,Estudos,Graduação,São Paulo,42476.0,Espanhol,1,7,1998,2.0,3.0,27,Média,Adulto
+1873,Estudos,Doutorado,São Bernardo,60200.0,Inglês,3,29,1974,4.0,4.0,51,Alta,Sênior
+1874,Estudos,Graduação,São Bernardo,49638.0,Espanhol,4,16,1978,3.0,3.0,47,Média,Sênior
+1875,Estudos,Ensino Médio,São Paulo,23830.0,Espanhol,1,17,2013,1.0,1.0,12,Baixa,Jovem
+1876,Trabalho,Mestrado,São Paulo,35778.0,Espanhol e Inglês,4,20,1985,2.0,2.0,40,Média,Adulto
+1877,Estudos,Graduação,São Paulo,72905.0,Inglês,3,38,1984,5.0,5.0,41,Alta,Sênior
+1878,Trabalho,Doutorado,São Paulo,69702.0,Inglês,2,18,1977,4.0,5.0,48,Alta,Sênior
+1879,Trabalho,Graduação,São Paulo,70300.0,Espanhol e Inglês,4,28,2001,4.0,5.0,24,Alta,Jovem
+1880,Trabalho,Doutorado,São Paulo,70643.0,Inglês,4,13,2010,4.0,5.0,15,Alta,Jovem
+1881,Trabalho,Doutorado,Campinas,30396.0,Inglês,4,20,1995,1.0,2.0,30,Baixa,Adulto
+1882,Viagem,Doutorado,São Paulo,50616.0,Inglês,2,29,1994,3.0,3.0,31,Média,Adulto
+1883,Outros,Mestrado,São Bernardo,60474.0,Espanhol,1,7,1995,4.0,4.0,30,Alta,Adulto
+1884,Trabalho,Doutorado,São Paulo,30298.0,Inglês,3,1,2011,1.0,2.0,14,Baixa,Jovem
+1885,Estudos,Graduação,São Paulo,55085.5,Inglês,5,1,2010,3.0,4.0,15,Alta,Jovem
+1886,Trabalho,Doutorado,São Paulo,44155.0,Mandarim,1,83,1983,1.0,3.0,42,Média,Sênior
+1888,Viagem,Graduação,São Bernardo,76532.0,Inglês,4,12,2001,5.0,6.0,24,Alta,Jovem
+1889,Estudos,Graduação,Rio Branco,42081.0,Espanhol,1,6,2008,3.0,3.0,17,Média,Jovem
+1890,Trabalho,Doutorado,São Paulo,67546.0,Inglês,1,2,2014,3.0,5.0,11,Alta,Jovem
+1891,Trabalho,Mestrado,São Paulo,79146.0,Espanhol,2,12,2015,5.0,6.0,10,Alta,Jovem
+1892,Estudos,Graduação,São Bernardo,31158.0,Espanhol,3,7,2011,1.0,2.0,14,Baixa,Jovem
+1893,Estudos,Graduação,São Paulo,61671.0,Inglês,1,12,1994,4.0,4.0,31,Alta,Adulto
+1894,Estudos,Graduação,São Paulo,69719.0,Espanhol,1,13,2000,4.0,5.0,25,Alta,Jovem
+1895,Estudos,Graduação,São Bernardo,49160.0,Espanhol,3,11,1975,3.0,3.0,50,Média,Sênior
+1896,Estudos,Ensino Fundamental,São Paulo,24882.0,Espanhol,2,2,2004,1.0,1.0,21,Baixa,Jovem
+1898,Trabalho,Doutorado,São Paulo,79146.0,Inglês,5,13,1971,5.0,6.0,54,Alta,Sênior
+1899,Estudos,Doutorado,São Bernardo,59292.0,Espanhol e Inglês,3,23,1976,4.0,4.0,49,Alta,Sênior
+1900,Trabalho,Doutorado,São Paulo,48168.0,Inglês,3,42,1990,3.0,3.0,35,Média,Adulto
+1901,Trabalho,Graduação,São Paulo,22148.0,Espanhol,2,18,2009,1.0,1.0,16,Baixa,Jovem
+1902,Trabalho,Mestrado,São Bernardo,73395.0,Espanhol,2,19,2013,5.0,5.0,12,Alta,Jovem
+1903,Viagem,Graduação,São Paulo,29819.0,Espanhol,2,7,1997,1.0,1.0,28,Baixa,Adulto
+1904,Estudos,Graduação,São Bernardo,48168.0,Inglês,2,25,1994,3.0,3.0,31,Média,Adulto
+1905,Estudos,Graduação,São Paulo,62820.0,Espanhol,3,8,1980,4.0,4.0,45,Alta,Sênior
+1906,Trabalho,Doutorado,Taubaté,60491.0,Inglês,4,25,1997,5.0,4.0,28,Alta,Adulto
+1907,Estudos,Graduação,São Paulo,33235.0,Espanhol,1,11,2012,2.0,2.0,13,Baixa,Jovem
+1908,Estudos,Graduação,São Paulo,35778.0,Espanhol,1,12,1985,2.0,2.0,40,Média,Adulto
+1909,Trabalho,Mestrado,São Paulo,31535.0,Espanhol e Inglês,4,40,2006,1.0,2.0,19,Baixa,Jovem
+1910,Viagem,Ensino Médio,São Paulo,79146.0,Espanhol,4,13,1986,5.0,6.0,39,Alta,Adulto
+1911,Outros,Graduação,Campinas,67384.0,Espanhol e Inglês,3,22,1996,4.0,5.0,29,Alta,Adulto
+1912,Outros,Mestrado,Rio Branco,80573.0,Inglês,4,29,1997,5.0,6.0,28,Alta,Adulto
+1913,Estudos,Graduação,São Paulo,77870.0,Inglês,4,3,1993,5.0,6.0,32,Alta,Adulto
+1914,Trabalho,Doutorado,São Paulo,52278.0,Inglês,5,36,1989,3.0,4.0,36,Média,Adulto
+1915,Trabalho,Graduação,São Bernardo,57107.0,Inglês,2,19,1994,3.0,4.0,31,Alta,Adulto
+1916,Estudos,Graduação,Campinas,18929.0,Espanhol,4,20,2016,1.0,1.0,9,Baixa,Jovem
+1917,Trabalho,Doutorado,São Paulo,36038.0,Inglês,3,30,2007,2.0,2.0,18,Média,Jovem
+1918,Estudos,Graduação,São Paulo,23046.0,Inglês,2,4,2002,1.0,1.0,23,Baixa,Jovem
+1919,Estudos,Doutorado,São Paulo,34230.0,Inglês,4,1,1991,2.0,2.0,34,Baixa,Adulto
+1920,Estudos,Ensino Médio,São Paulo,31878.0,Espanhol,2,9,2003,1.0,2.0,22,Baixa,Jovem
+1921,Estudos,Ensino Médio,São Paulo,70932.0,Espanhol,2,6,1998,3.0,5.0,27,Alta,Adulto
+1922,Estudos,Graduação,São Paulo,79146.0,Inglês,3,32,1982,5.0,6.0,43,Alta,Sênior
+1923,Viagem,Mestrado,São Paulo,79146.0,Inglês,3,26,1969,5.0,6.0,56,Alta,Sênior
+1924,Trabalho,Graduação,São Bernardo,79146.0,Inglês,4,6,1985,5.0,6.0,40,Alta,Adulto
+1925,Trabalho,Mestrado,São Paulo,22701.0,Espanhol,3,3,2003,1.0,1.0,22,Baixa,Jovem
+1926,Trabalho,Doutorado,São Paulo,55212.0,Inglês,3,7,1995,3.0,4.0,30,Alta,Adulto
+1927,Estudos,Graduação,São Paulo,67786.5,Inglês,5,37,1996,4.0,5.0,29,Alta,Adulto
+1928,Estudos,Graduação,São Paulo,64849.0,Inglês,3,2,1983,4.0,5.0,42,Alta,Sênior
+1929,Trabalho,Mestrado,São Paulo,62694.0,Inglês,2,45,1991,3.0,4.0,34,Alta,Adulto
+1930,Estudos,Doutorado,São Paulo,61917.0,Inglês,4,6,2000,4.0,4.0,25,Alta,Jovem
+1931,Trabalho,Doutorado,São Paulo,67472.0,Inglês,4,30,1973,4.0,5.0,52,Alta,Sênior
+1932,Trabalho,Mestrado,São Paulo,23046.0,Espanhol,2,6,2008,1.0,1.0,17,Baixa,Jovem
+1933,Trabalho,Mestrado,São Paulo,29543.0,Inglês,3,15,1994,1.0,1.0,31,Baixa,Adulto
+1934,Trabalho,Graduação,São Paulo,75903.0,Espanhol e Inglês,4,14,1977,5.0,6.0,48,Alta,Sênior
+1935,Viagem,Ensino Médio,São Bernardo,34984.0,Espanhol,1,10,2001,2.0,2.0,24,Baixa,Jovem
+1936,Trabalho,Doutorado,São Paulo,55085.5,Inglês,5,29,1982,3.0,4.0,43,Alta,Sênior
+1937,Trabalho,Doutorado,São Bernardo,54356.0,Inglês,2,12,1975,3.0,4.0,50,Média,Sênior
+1938,Trabalho,Mestrado,São Paulo,34242.0,Espanhol,1,19,1985,2.0,2.0,40,Baixa,Adulto
+1939,Estudos,Graduação,São Paulo,25410.0,Espanhol,3,7,1999,1.0,1.0,26,Baixa,Adulto
+1940,Estudos,Doutorado,São Paulo,67786.5,Inglês,5,18,2010,4.0,5.0,15,Alta,Jovem
+1941,Estudos,Graduação,São Paulo,28320.0,Espanhol,3,11,1976,1.0,1.0,49,Baixa,Sênior
+1942,Estudos,Graduação,São Bernardo,23763.0,Espanhol,1,10,2003,1.0,1.0,22,Baixa,Jovem
+1943,Trabalho,Graduação,São Bernardo,72570.0,Inglês,2,21,2010,5.0,5.0,15,Alta,Jovem
+1944,Outros,Mestrado,São Bernardo,34529.0,Espanhol,1,16,2002,2.0,2.0,23,Baixa,Jovem
+1945,Trabalho,Graduação,São Paulo,70792.0,Inglês,2,5,1977,4.0,5.0,48,Alta,Sênior
+1946,Estudos,Graduação,São Paulo,63211.0,Inglês,2,31,2008,4.0,5.0,17,Alta,Jovem
+1948,Estudos,Graduação,São Paulo,36065.0,Espanhol,1,23,1994,2.0,2.0,31,Média,Adulto
+1949,Estudos,Graduação,São Paulo,39898.0,Espanhol,3,7,1980,2.0,2.0,45,Média,Sênior
+1950,Trabalho,Doutorado,São Paulo,51141.0,Mandarim,3,88,1966,2.0,3.0,59,Média,Sênior
+1951,Viagem,Graduação,São Paulo,56939.0,Inglês,4,17,2002,3.0,4.0,23,Alta,Jovem
+1952,Estudos,Graduação,São Paulo,80872.0,Espanhol,1,8,1977,5.0,6.0,48,Alta,Sênior
+1953,Estudos,Doutorado,São Bernardo,72570.0,Inglês,2,5,2002,5.0,5.0,23,Alta,Jovem
+1954,Viagem,Doutorado,Rio Branco,61798.0,Inglês,2,1,1990,5.0,4.0,35,Alta,Adulto
+1955,Estudos,Doutorado,Campinas,76842.0,Mandarim,4,86,1976,5.0,6.0,49,Alta,Sênior
+1956,Estudos,Graduação,São Paulo,29478.0,Espanhol,1,15,2002,1.0,1.0,23,Baixa,Jovem
+1957,Estudos,Graduação,São Paulo,46998.0,Espanhol,3,13,1982,3.0,3.0,43,Média,Sênior
+1959,Estudos,Doutorado,São Bernardo,56551.0,Espanhol e Inglês,3,22,1976,3.0,4.0,49,Alta,Sênior
+1960,Trabalho,Mestrado,São Paulo,70053.0,Espanhol e Inglês,3,28,1991,4.0,5.0,34,Alta,Adulto
+1961,Viagem,Doutorado,São Paulo,71670.0,Inglês,1,17,1988,4.0,5.0,37,Alta,Adulto
+1962,Viagem,Graduação,São Bernardo,44359.0,Espanhol,3,13,2004,2.0,3.0,21,Média,Jovem
+1963,Estudos,Graduação,São Paulo,40887.0,Espanhol,1,8,1978,2.0,3.0,47,Média,Sênior
+1964,Viagem,Graduação,São Paulo,48877.0,Espanhol,1,13,1992,3.0,3.0,33,Média,Adulto
+1965,Viagem,Graduação,São Paulo,74485.0,Inglês,4,56,1973,5.0,5.0,52,Alta,Sênior
+1966,Trabalho,Graduação,São Paulo,64474.0,Inglês,4,32,1998,4.0,5.0,27,Alta,Adulto
+1967,Trabalho,Graduação,São Paulo,77226.0,Inglês,3,20,1989,5.0,6.0,36,Alta,Adulto
+1968,Trabalho,Graduação,São Paulo,72643.0,Inglês,5,16,1975,5.0,5.0,50,Alta,Sênior
+1970,Estudos,Graduação,São Paulo,55686.0,Inglês,3,20,1992,2.0,4.0,33,Alta,Adulto
+1971,Estudos,Graduação,São Bernardo,39062.0,Espanhol e Inglês,5,21,2009,2.0,2.0,16,Média,Jovem
+1972,Trabalho,Graduação,São Paulo,34600.0,Espanhol,3,14,1997,2.0,2.0,28,Baixa,Adulto
+1973,Viagem,Graduação,São Paulo,40794.0,Espanhol,4,13,2001,2.0,3.0,24,Média,Jovem
+1974,Estudos,Ensino Médio,São Paulo,54690.0,Espanhol,4,15,1997,3.0,4.0,28,Média,Adulto
+1975,Viagem,Graduação,Campinas,4428.0,Espanhol,2,16,1995,2.0,1.0,30,Baixa,Adulto
+1976,Estudos,Ensino Médio,São Paulo,32632.0,Espanhol,3,17,1989,2.0,2.0,36,Baixa,Adulto
+1977,Trabalho,Doutorado,São Paulo,38236.0,Inglês,4,28,1994,2.0,2.0,31,Média,Adulto
+1978,Trabalho,Graduação,Campinas,35778.0,Espanhol,1,13,2005,2.0,2.0,20,Média,Jovem
+1979,Trabalho,Mestrado,São Bernardo,31385.0,Espanhol,2,9,2010,1.0,2.0,15,Baixa,Jovem
+1980,Trabalho,Graduação,São Paulo,24570.0,Espanhol,4,11,2010,1.0,1.0,15,Baixa,Jovem
+1981,Trabalho,Doutorado,São Bernardo,25509.0,Inglês,3,2,2000,1.0,1.0,25,Baixa,Jovem
+1983,Outros,Mestrado,São Paulo,58646.0,Espanhol,1,16,1988,4.0,4.0,37,Alta,Adulto
+1984,Estudos,Graduação,São Paulo,53201.0,Espanhol,1,6,2001,3.0,4.0,24,Média,Jovem
+1985,Trabalho,Graduação,São Paulo,21994.0,Espanhol,1,12,1983,1.0,1.0,42,Baixa,Sênior
+1986,Viagem,Graduação,São Bernardo,57113.0,Inglês,4,31,2004,3.0,4.0,21,Alta,Jovem
+1987,Estudos,Graduação,São Paulo,51373.0,Espanhol,1,8,2017,3.0,3.0,8,Média,Jovem
+1988,Viagem,Graduação,São Paulo,23477.0,Espanhol,1,10,2012,1.0,1.0,13,Baixa,Jovem
+1989,Estudos,Graduação,São Bernardo,58116.0,Inglês,3,31,1982,3.0,4.0,43,Alta,Sênior
+1990,Estudos,Doutorado,São Bernardo,72570.0,Inglês,2,27,1989,5.0,5.0,36,Alta,Adulto
+1991,Trabalho,Mestrado,São Paulo,39791.0,Espanhol,3,16,1997,2.0,2.0,28,Média,Adulto
+1994,Trabalho,Graduação,São Bernardo,13672.0,Espanhol,2,11,1986,1.0,1.0,39,Baixa,Adulto
+1996,Estudos,Graduação,Taubaté,79205.0,Espanhol e Inglês,4,9,2001,5.0,6.0,24,Alta,Jovem
+1997,Trabalho,Doutorado,São Paulo,56559.0,Inglês,4,29,2001,2.0,4.0,24,Alta,Jovem
+1998,Trabalho,Doutorado,São Paulo,32644.0,Inglês,1,15,1999,1.0,2.0,26,Baixa,Adulto
+1999,Estudos,Ensino Médio,São Paulo,67506.0,Inglês,4,11,2006,4.0,5.0,19,Alta,Jovem
+2000,Trabalho,Graduação,São Paulo,24206.0,Espanhol,4,10,1996,1.0,1.0,29,Baixa,Adulto
+2001,Trabalho,Doutorado,São Paulo,28420.0,Inglês,2,22,1993,1.0,1.0,32,Baixa,Adulto
+2002,Trabalho,Graduação,Campinas,23272.0,Espanhol,4,3,1996,2.0,1.0,29,Baixa,Adulto
+2003,Viagem,Graduação,São Paulo,33279.0,Espanhol,2,14,1992,2.0,2.0,33,Baixa,Adulto
+2004,Trabalho,Mestrado,São Paulo,46423.0,Espanhol,2,13,1998,3.0,3.0,27,Média,Adulto
+2005,Trabalho,Graduação,São Bernardo,30368.0,Espanhol e Inglês,4,10,2003,1.0,2.0,22,Baixa,Jovem
+2006,Trabalho,Graduação,São Paulo,63684.0,Inglês,4,43,1996,4.0,5.0,29,Alta,Adulto
+2007,Viagem,Graduação,São Bernardo,41638.0,Espanhol,2,21,1990,2.0,3.0,35,Média,Adulto
+2009,Trabalho,Doutorado,São Paulo,65814.0,Inglês,3,1,1992,4.0,5.0,33,Alta,Adulto
+2010,Estudos,Graduação,São Paulo,71964.0,Inglês,4,1,1984,4.0,5.0,41,Alta,Sênior
+2011,Estudos,Graduação,São Paulo,39146.0,Espanhol,3,8,2012,1.0,2.0,13,Média,Jovem
+2013,Viagem,Ensino Fundamental,São Paulo,34445.0,Espanhol,2,11,2007,2.0,2.0,18,Baixa,Jovem
+2014,Trabalho,Graduação,São Paulo,68281.0,Espanhol,3,11,1984,4.0,5.0,41,Alta,Sênior
+2015,Estudos,Ensino Médio,São Paulo,37284.0,Espanhol,2,18,2001,2.0,2.0,24,Média,Jovem
+2016,Estudos,Graduação,São Paulo,36790.0,Espanhol e Inglês,3,1,2009,2.0,2.0,16,Média,Jovem
+2017,Estudos,Graduação,Campinas,27943.0,Espanhol,3,10,1993,1.0,1.0,32,Baixa,Adulto
+2018,Trabalho,Graduação,São Paulo,22263.0,Espanhol,2,11,1977,1.0,1.0,48,Baixa,Sênior
+2019,Viagem,Graduação,São Paulo,30261.0,Espanhol,2,13,1998,1.0,2.0,27,Baixa,Adulto
+2020,Trabalho,Graduação,Taubaté,28587.0,Espanhol,4,11,2004,2.0,1.0,21,Baixa,Jovem
+2021,Trabalho,Mestrado,São Paulo,43815.0,Espanhol,3,8,2008,2.0,3.0,17,Média,Jovem
+2022,Estudos,Graduação,Campinas,48195.0,Espanhol,1,11,1982,4.0,3.0,43,Média,Sênior
+2023,Outros,Mestrado,São Paulo,77027.0,Inglês,4,21,1978,4.0,6.0,47,Alta,Sênior
+2024,Trabalho,Doutorado,São Paulo,67786.5,Inglês,3,23,1991,4.0,5.0,34,Alta,Adulto
+2025,Viagem,Mestrado,São Paulo,32765.0,Espanhol e Inglês,3,46,2005,2.0,2.0,20,Baixa,Jovem
+2026,Estudos,Graduação,São Bernardo,29672.0,Espanhol,4,15,1991,1.0,1.0,34,Baixa,Adulto
+2027,Estudos,Graduação,Rio Branco,23272.0,Espanhol e Inglês,4,1,1979,2.0,1.0,46,Baixa,Sênior
+2028,Trabalho,Mestrado,São Paulo,49912.0,Inglês,3,24,1975,3.0,3.0,50,Média,Sênior
+2029,Estudos,Ensino Médio,São Paulo,7500.0,Espanhol,2,5,2011,1.0,1.0,14,Baixa,Jovem
+2030,Trabalho,Doutorado,São Paulo,68117.0,Inglês,4,17,1973,4.0,5.0,52,Alta,Sênior
+2031,Trabalho,Graduação,São Paulo,67225.0,Espanhol,4,11,1981,4.0,5.0,44,Alta,Sênior
+2032,Estudos,Graduação,São Paulo,17649.0,Espanhol,3,6,2002,1.0,1.0,23,Baixa,Jovem
+2033,Viagem,Graduação,Taubaté,55914.0,Inglês,3,42,2001,4.0,4.0,24,Alta,Jovem
+2034,Estudos,Graduação,São Paulo,40059.0,Espanhol,2,16,2010,2.0,2.0,15,Média,Jovem
+2035,Estudos,Graduação,São Paulo,60905.0,Inglês,2,1,1976,4.0,4.0,49,Alta,Sênior
+2036,Viagem,Graduação,São Paulo,75330.0,Inglês,4,8,2003,5.0,6.0,22,Alta,Jovem
+2037,Trabalho,Graduação,São Paulo,60689.0,Inglês,4,18,1977,4.0,4.0,48,Alta,Sênior
+2038,Viagem,Graduação,São Paulo,38680.0,Espanhol,1,2,2010,2.0,2.0,15,Média,Jovem
+2039,Trabalho,Graduação,São Paulo,61416.0,Inglês,2,1,2008,4.0,4.0,17,Alta,Jovem
+2040,Estudos,Graduação,Campinas,49767.0,Espanhol,2,7,2017,3.0,3.0,8,Média,Jovem
+2041,Estudos,Graduação,São Paulo,83273.0,Espanhol,2,12,1996,5.0,6.0,29,Alta,Adulto
+2042,Viagem,Graduação,São Paulo,29009.0,Espanhol e Inglês,2,10,2007,1.0,1.0,18,Baixa,Jovem
+2043,Trabalho,Mestrado,São Paulo,45057.0,Espanhol,3,18,2005,3.0,3.0,20,Média,Jovem
+2044,Estudos,Graduação,Campinas,37150.0,Espanhol e Inglês,2,9,1997,2.0,2.0,28,Média,Adulto
+2045,Viagem,Graduação,São Bernardo,43020.0,Inglês,3,17,1996,2.0,3.0,29,Média,Adulto
+2046,Trabalho,Graduação,São Paulo,53154.0,Inglês,3,45,1985,2.0,4.0,40,Média,Adulto
+2047,Trabalho,Graduação,São Bernardo,65308.0,Inglês,4,20,1999,4.0,5.0,26,Alta,Adulto
+2048,Viagem,Graduação,São Paulo,76467.0,Inglês,4,23,1996,5.0,6.0,29,Alta,Adulto
+2049,Estudos,Ensino Médio,São Paulo,81044.0,Inglês,3,1,1973,4.0,6.0,52,Alta,Sênior
+2050,Estudos,Graduação,São Paulo,32871.0,Espanhol e Inglês,3,33,1977,2.0,2.0,48,Baixa,Sênior
+2051,Estudos,Graduação,São Paulo,55801.0,Inglês,4,11,2001,3.0,4.0,24,Alta,Jovem
+2052,Trabalho,Graduação,São Paulo,76320.0,Espanhol,2,10,1985,5.0,6.0,40,Alta,Adulto
+2053,Trabalho,Mestrado,Campinas,36927.0,Espanhol,1,7,1981,3.0,2.0,44,Média,Sênior
+2054,Estudos,Graduação,São Bernardo,48794.0,Espanhol,4,19,1979,3.0,3.0,46,Média,Sênior
+2055,Estudos,Graduação,São Paulo,23478.0,Espanhol,5,3,1991,1.0,1.0,34,Baixa,Adulto
+2056,Estudos,Graduação,São Paulo,71128.0,Inglês,3,14,1999,4.0,5.0,26,Alta,Adulto
+2057,Viagem,Doutorado,São Paulo,70179.0,Inglês,5,15,2002,4.0,5.0,23,Alta,Jovem
+2058,Viagem,Graduação,São Paulo,59462.0,Espanhol,2,1,1976,4.0,4.0,49,Alta,Sênior
+2059,Trabalho,Mestrado,São Paulo,52247.25135379061,Inglês,3,39,1995,3.0,1.0,30,Média,Adulto
+2060,Trabalho,Graduação,São Paulo,38361.0,Espanhol,1,12,1995,1.0,2.0,30,Média,Adulto
+2061,Estudos,Doutorado,São Paulo,52247.25135379061,Inglês,2,28,2007,3.0,1.0,18,Média,Jovem
+2062,Trabalho,Doutorado,São Bernardo,70038.0,Inglês,4,3,2008,4.0,5.0,17,Alta,Jovem
+2063,Estudos,Graduação,São Paulo,42554.0,Espanhol,2,7,2004,2.0,3.0,21,Média,Jovem
+2064,Viagem,Graduação,São Paulo,67445.0,Inglês,3,24,2000,3.0,5.0,25,Alta,Jovem
+2065,Estudos,Graduação,São Bernardo,67046.0,Inglês,4,27,1977,4.0,5.0,48,Alta,Sênior
+2066,Estudos,Graduação,São Paulo,42192.0,Espanhol e Inglês,1,16,1974,2.0,3.0,51,Média,Sênior
+2067,Trabalho,Doutorado,São Paulo,77610.0,Inglês,2,37,1978,5.0,6.0,47,Alta,Sênior
+2068,Estudos,Graduação,São Paulo,31163.0,Espanhol,1,5,2010,1.0,2.0,15,Baixa,Jovem
+2069,Estudos,Graduação,São Paulo,34350.0,Espanhol,4,14,2005,2.0,2.0,20,Baixa,Jovem
+2070,Estudos,Graduação,São Bernardo,54591.0,Inglês,4,44,1975,3.0,4.0,50,Média,Sênior
+2071,Viagem,Graduação,São Paulo,71866.0,Inglês,2,5,1982,5.0,5.0,43,Alta,Sênior
+2072,Estudos,Graduação,São Paulo,25293.0,Espanhol,1,11,1995,1.0,1.0,30,Baixa,Adulto
+2073,Estudos,Doutorado,Campinas,42000.0,Inglês,4,8,2013,2.0,3.0,12,Média,Jovem
+2074,Estudos,Graduação,Campinas,67786.5,Inglês,2,1,2009,4.0,5.0,16,Alta,Jovem
+2075,Trabalho,Graduação,Campinas,67786.5,Inglês,3,16,1996,4.0,5.0,29,Alta,Adulto
+2076,Viagem,Mestrado,São Paulo,27889.0,Espanhol,3,7,2003,1.0,1.0,22,Baixa,Jovem
+2077,Estudos,Ensino Fundamental,São Paulo,22123.0,Espanhol,2,4,1986,1.0,1.0,39,Baixa,Adulto
+2078,Trabalho,Graduação,Rio Branco,52247.25135379061,Inglês,3,27,1997,3.0,1.0,28,Média,Adulto
+2079,Trabalho,Mestrado,São Bernardo,52247.25135379061,Inglês,4,35,1980,3.0,1.0,45,Média,Sênior
+2080,Trabalho,Graduação,São Paulo,27803.0,Espanhol e Inglês,3,39,1999,1.0,1.0,26,Baixa,Adulto
+2081,Estudos,Graduação,São Paulo,52247.25135379061,Inglês,3,19,1981,3.0,1.0,44,Média,Sênior
+2082,Estudos,Graduação,São Paulo,51651.0,Inglês,2,15,1986,3.0,4.0,39,Média,Adulto
+2083,Estudos,Graduação,Campinas,72570.0,Espanhol,3,14,2014,5.0,5.0,11,Alta,Jovem
+2085,Viagem,Graduação,São Paulo,56796.0,Inglês,1,22,1995,3.0,4.0,30,Alta,Adulto
+2087,Estudos,Graduação,São Paulo,79823.0,Espanhol,3,13,1985,5.0,6.0,40,Alta,Adulto
+2088,Trabalho,Graduação,São Bernardo,30828.0,Espanhol,4,10,2006,1.0,2.0,19,Baixa,Jovem
+2089,Trabalho,Mestrado,São Paulo,34109.0,Espanhol,1,19,1997,2.0,2.0,28,Baixa,Adulto
+2090,Outros,Mestrado,São Bernardo,53367.0,Inglês,4,7,2000,3.0,4.0,25,Média,Jovem
+2091,Estudos,Ensino Fundamental,Taubaté,22390.0,Espanhol,1,5,1995,2.0,1.0,30,Baixa,Adulto
+2092,Trabalho,Graduação,São Paulo,71322.0,Inglês,5,51,2002,4.0,5.0,23,Alta,Jovem
+2093,Estudos,Graduação,São Paulo,79146.0,Inglês,4,1,2019,5.0,6.0,6,Alta,Jovem
+2094,Outros,Mestrado,São Paulo,49912.0,Espanhol,1,2,1975,3.0,3.0,50,Média,Sênior
+2095,Trabalho,Doutorado,São Bernardo,48699.0,Inglês,4,23,1976,3.0,3.0,49,Média,Sênior
+2096,Estudos,Graduação,São Paulo,80144.0,Espanhol,4,7,2001,5.0,6.0,24,Alta,Jovem
+2097,Estudos,Graduação,São Paulo,54252.0,Inglês,4,50,1982,3.0,4.0,43,Média,Sênior
+2098,Trabalho,Mestrado,São Bernardo,81929.0,Inglês,4,20,2002,5.0,6.0,23,Alta,Jovem
+2099,Estudos,Graduação,São Paulo,76068.0,Inglês,2,17,2001,5.0,6.0,24,Alta,Jovem
+2100,Trabalho,Mestrado,Campinas,53204.0,Espanhol e Inglês,5,24,2002,4.0,4.0,23,Média,Jovem
+2101,Trabalho,Doutorado,São Paulo,67911.0,Inglês,4,15,1975,4.0,5.0,50,Alta,Sênior
+2102,Estudos,Ensino Médio,São Paulo,14796.0,Espanhol,4,10,2010,1.0,1.0,15,Baixa,Jovem
+2103,Trabalho,Doutorado,São Paulo,78128.0,Inglês,3,17,2000,5.0,6.0,25,Alta,Jovem
+2104,Viagem,Ensino Fundamental,São Bernardo,23046.0,Inglês,2,41,1998,1.0,1.0,27,Baixa,Adulto
+2105,Estudos,Ensino Fundamental,São Paulo,20425.0,Espanhol,3,11,2012,1.0,1.0,13,Baixa,Jovem
+2106,Viagem,Mestrado,Campinas,58646.0,Espanhol,3,9,1988,4.0,4.0,37,Alta,Adulto
+2107,Trabalho,Graduação,Campinas,72967.0,Espanhol e Inglês,3,7,1996,5.0,5.0,29,Alta,Adulto
+2108,Viagem,Mestrado,São Paulo,48150.0,Espanhol,3,12,1975,3.0,3.0,50,Média,Sênior
+2109,Trabalho,Graduação,Rio Branco,82332.0,Inglês,5,1,1987,5.0,6.0,38,Alta,Adulto
+2110,Estudos,Graduação,São Paulo,58275.0,Inglês,3,43,1981,3.0,4.0,44,Alta,Sênior
+2111,Viagem,Doutorado,São Paulo,44953.0,Inglês,4,1,2007,3.0,3.0,18,Média,Jovem
+2112,Estudos,Graduação,São Paulo,34587.0,Espanhol,1,4,1979,2.0,2.0,46,Baixa,Sênior
+2113,Trabalho,Mestrado,Campinas,43018.0,Espanhol,4,17,2000,2.0,3.0,25,Média,Jovem
+2115,Trabalho,Mestrado,São Paulo,66476.0,Inglês,3,16,1995,4.0,5.0,30,Alta,Adulto
+2116,Viagem,Ensino Médio,São Paulo,27733.0,Espanhol,2,10,2007,1.0,1.0,18,Baixa,Jovem
+2117,Viagem,Doutorado,São Paulo,69805.0,Espanhol e Inglês,3,52,1978,4.0,5.0,47,Alta,Sênior
+2118,Outros,Mestrado,São Paulo,72217.0,Espanhol,2,16,1988,4.0,5.0,37,Alta,Adulto
+2119,Estudos,Graduação,Campinas,25818.0,Inglês,5,14,1997,1.0,1.0,28,Baixa,Adulto
+2120,Trabalho,Mestrado,São Bernardo,37509.0,Inglês,2,29,2002,2.0,2.0,23,Média,Jovem
+2121,Estudos,Ensino Médio,São Paulo,25176.0,Espanhol,2,12,2002,1.0,1.0,23,Baixa,Jovem
+2122,Viagem,Graduação,Taubaté,43586.0,Espanhol,1,12,2006,3.0,3.0,19,Média,Jovem
+2123,Viagem,Ensino Médio,São Paulo,53230.0,Inglês,3,1,1982,3.0,4.0,43,Média,Sênior
+2124,Estudos,Graduação,Rio Branco,50116.0,Espanhol,2,13,1983,4.0,3.0,42,Média,Sênior
+2126,Viagem,Graduação,São Paulo,61286.0,Inglês,4,50,1992,4.0,4.0,33,Alta,Adulto
+2127,Estudos,Doutorado,São Paulo,82333.0,Inglês,5,1,2012,5.0,6.0,13,Alta,Jovem
+2128,Trabalho,Doutorado,Campinas,65220.0,Inglês,2,23,1991,4.0,5.0,34,Alta,Adulto
+2129,Trabalho,Graduação,São Paulo,33590.0,Espanhol,3,12,2000,2.0,2.0,25,Baixa,Jovem
+2130,Estudos,Graduação,São Paulo,31163.0,Espanhol,1,13,2002,1.0,2.0,23,Baixa,Jovem
+2131,Outros,Mestrado,São Paulo,72309.0,Inglês,4,10,2002,4.0,5.0,23,Alta,Jovem
+2133,Viagem,Ensino Fundamental,São Paulo,16005.0,Espanhol,3,17,2006,1.0,1.0,19,Baixa,Jovem
+2135,Trabalho,Graduação,Campinas,58692.0,Inglês,5,20,1991,4.0,4.0,34,Alta,Adulto
+2136,Trabalho,Graduação,São Paulo,40590.0,Espanhol,1,11,1995,1.0,3.0,30,Média,Adulto
+2137,Estudos,Graduação,São Bernardo,20587.0,Espanhol,2,14,1996,1.0,1.0,29,Baixa,Adulto
+2138,Trabalho,Mestrado,São Paulo,62637.0,Inglês,4,10,1980,4.0,4.0,45,Alta,Sênior
+2139,Trabalho,Mestrado,Campinas,29435.0,Espanhol,2,10,1992,1.0,1.0,33,Baixa,Adulto
+2140,Estudos,Graduação,São Bernardo,23046.0,Espanhol,2,17,2000,1.0,1.0,25,Baixa,Jovem
+2141,Trabalho,Graduação,São Paulo,35778.0,Espanhol e Inglês,4,2,1997,2.0,2.0,28,Média,Adulto
+2142,Estudos,Graduação,São Bernardo,36997.0,Inglês,1,27,1994,2.0,2.0,31,Média,Adulto
+2143,Estudos,Graduação,São Paulo,23539.0,Inglês,5,47,1983,1.0,1.0,42,Baixa,Sênior
+2144,Trabalho,Graduação,São Paulo,65333.0,Espanhol,3,7,1999,4.0,5.0,26,Alta,Adulto
+2145,Trabalho,Graduação,São Bernardo,78499.0,Espanhol e Inglês,4,25,1983,5.0,6.0,42,Alta,Sênior
+2146,Trabalho,Doutorado,São Paulo,23046.0,Inglês,3,17,1997,1.0,1.0,28,Baixa,Adulto
+2147,Trabalho,Mestrado,São Paulo,41275.0,Inglês,4,31,1986,2.0,3.0,39,Média,Adulto
+2148,Trabalho,Doutorado,São Paulo,67786.5,Inglês,2,1,1999,4.0,5.0,26,Alta,Adulto
+2149,Trabalho,Doutorado,São Bernardo,42476.0,Inglês,4,6,1988,2.0,3.0,37,Média,Adulto
+2151,Estudos,Graduação,São Paulo,67786.5,Inglês,2,27,1998,4.0,5.0,27,Alta,Adulto
+2152,Estudos,Graduação,São Bernardo,17148.0,Espanhol,2,19,2002,1.0,1.0,23,Baixa,Jovem
+2153,Trabalho,Graduação,São Bernardo,42476.0,Espanhol,3,10,1995,2.0,3.0,30,Média,Adulto
+2154,Trabalho,Mestrado,São Paulo,30560.0,Espanhol,2,3,2002,1.0,2.0,23,Baixa,Jovem
+2155,Estudos,Ensino Médio,São Paulo,32146.0,Espanhol,3,11,2009,2.0,2.0,16,Baixa,Jovem
+2156,Estudos,Ensino Médio,São Paulo,41713.0,Espanhol e Inglês,4,30,1990,2.0,3.0,35,Média,Adulto
+2157,Trabalho,Mestrado,São Paulo,34176.0,Espanhol,4,7,2001,2.0,2.0,24,Baixa,Jovem
+2159,Trabalho,Graduação,São Bernardo,59686.0,Inglês,3,42,1991,4.0,4.0,34,Alta,Adulto
+2160,Estudos,Doutorado,São Paulo,60896.0,Inglês,1,25,1990,4.0,4.0,35,Alta,Adulto
+2161,Estudos,Graduação,São Paulo,62994.0,Inglês,2,15,2006,4.0,4.0,19,Alta,Jovem
+2162,Estudos,Graduação,São Paulo,48168.0,Espanhol e Inglês,1,26,1983,3.0,3.0,42,Média,Sênior
+2163,Viagem,Ensino Médio,São Bernardo,74859.0,Inglês,3,20,1975,5.0,6.0,50,Alta,Sênior
+2164,Estudos,Ensino Fundamental,São Paulo,15253.0,Espanhol e Inglês,3,17,2018,1.0,1.0,7,Baixa,Jovem
+2165,Trabalho,Doutorado,Taubaté,31560.0,Inglês,3,1,2000,2.0,2.0,25,Baixa,Jovem
+2166,Trabalho,Graduação,São Paulo,72071.0,Inglês,2,29,1980,5.0,5.0,45,Alta,Sênior
+2167,Trabalho,Mestrado,São Paulo,79146.0,Espanhol,3,14,2016,5.0,6.0,9,Alta,Jovem
+2169,Viagem,Graduação,São Paulo,42476.0,Espanhol,1,7,2007,2.0,3.0,18,Média,Jovem
+2170,Estudos,Graduação,São Paulo,67786.5,Inglês,4,13,1991,4.0,5.0,34,Alta,Adulto
+2171,Estudos,Ensino Médio,São Paulo,65706.0,Espanhol,1,8,1996,3.0,5.0,29,Alta,Adulto
+2172,Trabalho,Graduação,São Paulo,60934.0,Inglês,1,13,2001,4.0,4.0,24,Alta,Jovem
+2173,Trabalho,Graduação,Campinas,71965.0,Inglês,5,24,1977,5.0,5.0,48,Alta,Sênior
+2174,Viagem,Graduação,São Paulo,65210.0,Espanhol,2,1,1981,4.0,5.0,44,Alta,Sênior
+2175,Trabalho,Doutorado,São Bernardo,79146.0,Inglês,4,13,2001,5.0,6.0,24,Alta,Jovem
+2176,Trabalho,Mestrado,São Paulo,79146.0,Espanhol,3,8,1993,5.0,6.0,32,Alta,Adulto
+2177,Viagem,Doutorado,São Paulo,48432.0,Inglês,4,19,1999,3.0,3.0,26,Média,Adulto
+2178,Estudos,Graduação,São Paulo,55085.5,Inglês,3,51,1997,3.0,4.0,28,Alta,Adulto
+2179,Viagem,Graduação,São Paulo,35778.0,Espanhol,1,1,1981,2.0,2.0,44,Média,Sênior
+2180,Estudos,Graduação,São Paulo,26067.0,Espanhol e Inglês,4,18,2000,1.0,1.0,25,Baixa,Jovem
+2181,Trabalho,Doutorado,São Paulo,44325.0,Inglês,2,16,1998,2.0,3.0,27,Média,Adulto
+2182,Trabalho,Graduação,São Paulo,42523.0,Espanhol,2,2,1990,1.0,3.0,35,Média,Adulto
+2183,Estudos,Ensino Fundamental,São Paulo,26487.0,Espanhol,3,14,2004,1.0,1.0,21,Baixa,Jovem
+2184,Viagem,Ensino Médio,São Paulo,53233.0,Inglês,1,15,1983,3.0,4.0,42,Média,Sênior
+2185,Viagem,Graduação,Campinas,67716.0,Espanhol,2,14,1986,5.0,5.0,39,Alta,Adulto
+2186,Trabalho,Mestrado,Campinas,79146.0,Inglês,2,10,1998,5.0,6.0,27,Alta,Adulto
+2188,Viagem,Mestrado,São Bernardo,65487.0,Mandarim,3,80,1983,4.0,5.0,42,Alta,Sênior
+2189,Estudos,Ensino Fundamental,São Paulo,25224.0,Espanhol,3,12,1998,1.0,1.0,27,Baixa,Adulto
+2191,Viagem,Graduação,Campinas,40851.0,Inglês,1,17,1997,3.0,3.0,28,Média,Adulto
+2192,Estudos,Graduação,São Paulo,27469.0,Espanhol,1,10,1973,1.0,1.0,52,Baixa,Sênior
+2193,Estudos,Ensino Médio,São Paulo,82347.0,Inglês,3,10,1983,5.0,6.0,42,Alta,Sênior
+2194,Trabalho,Graduação,São Paulo,73803.0,Inglês,5,40,1983,5.0,5.0,42,Alta,Sênior
+2195,Trabalho,Mestrado,São Paulo,8820.0,Inglês,4,41,1978,1.0,1.0,47,Baixa,Sênior
+2196,Estudos,Graduação,São Paulo,43322.0,Espanhol,3,10,2000,2.0,3.0,25,Média,Jovem
+2197,Estudos,Graduação,Campinas,55593.0,Inglês,3,11,1999,3.0,4.0,26,Alta,Adulto
+2198,Estudos,Graduação,São Paulo,50501.0,Espanhol e Inglês,1,21,1980,3.0,3.0,45,Média,Sênior
+2199,Viagem,Graduação,São Paulo,37085.0,Espanhol,2,4,2001,2.0,2.0,24,Média,Jovem
+2200,Estudos,Ensino Fundamental,Taubaté,16185.0,Espanhol,3,18,2016,2.0,1.0,9,Baixa,Jovem
+2201,Estudos,Graduação,São Paulo,57731.0,Espanhol,2,14,1995,3.0,4.0,30,Alta,Adulto
+2202,Trabalho,Doutorado,São Paulo,48432.0,Inglês,4,1,1999,3.0,3.0,26,Média,Adulto
+2203,Estudos,Graduação,São Paulo,73807.0,Inglês,3,35,2004,4.0,5.0,21,Alta,Jovem
+2204,Trabalho,Graduação,São Bernardo,18929.0,Espanhol,1,9,2016,1.0,1.0,9,Baixa,Jovem
+2205,Trabalho,Graduação,Campinas,35893.0,Espanhol,4,10,1994,3.0,2.0,31,Média,Adulto
+2206,Trabalho,Graduação,São Paulo,60474.0,Espanhol,3,11,2006,4.0,4.0,19,Alta,Jovem
+2207,Trabalho,Graduação,Campinas,32144.0,Espanhol,3,1,1980,2.0,2.0,45,Baixa,Sênior
+2208,Estudos,Ensino Fundamental,São Paulo,14918.0,Espanhol,2,9,1989,1.0,1.0,36,Baixa,Adulto
+2209,Trabalho,Graduação,Campinas,45146.0,Espanhol,3,7,1989,4.0,3.0,36,Média,Adulto
+2210,Viagem,Ensino Médio,São Bernardo,41769.0,Espanhol,2,5,1981,2.0,3.0,44,Média,Sênior
+2212,Outros,Mestrado,São Paulo,38054.0,Inglês,2,10,1976,1.0,2.0,49,Média,Sênior
+2213,Estudos,Ensino Médio,Taubaté,80617.0,Espanhol,4,19,2021,5.0,6.0,4,Alta,Jovem
+2214,Estudos,Graduação,São Bernardo,5305.0,Espanhol,1,13,2002,1.0,1.0,23,Baixa,Jovem
+2215,Estudos,Graduação,São Paulo,36807.0,Inglês,1,32,1980,2.0,2.0,45,Média,Sênior
+2216,Estudos,Graduação,São Bernardo,23046.0,Espanhol,5,7,2009,1.0,1.0,16,Baixa,Jovem
+2217,Estudos,Doutorado,São Paulo,82032.0,Inglês,5,1,1974,5.0,6.0,51,Alta,Sênior
+2218,Estudos,Graduação,Campinas,23046.0,Espanhol,2,13,2004,1.0,1.0,21,Baixa,Jovem
+2219,Trabalho,Mestrado,São Paulo,40101.0,Espanhol,1,17,2011,2.0,2.0,14,Média,Jovem
+2220,Trabalho,Graduação,São Bernardo,58025.0,Espanhol,2,15,2005,3.0,4.0,20,Alta,Jovem
+2221,Outros,Mestrado,São Paulo,75777.0,Inglês,4,33,2008,5.0,6.0,17,Alta,Jovem
+2222,Estudos,Ensino Médio,São Paulo,7500.0,Espanhol,4,10,2005,1.0,1.0,20,Baixa,Jovem
+2223,Outros,Mestrado,São Paulo,33562.0,Espanhol,3,7,1989,2.0,2.0,36,Baixa,Adulto
+2224,Trabalho,Doutorado,São Paulo,57642.0,Inglês,4,2,1996,2.0,4.0,29,Alta,Adulto
+2225,Estudos,Graduação,São Paulo,58554.0,Inglês,4,31,1994,4.0,4.0,31,Alta,Adulto
+2226,Estudos,Graduação,São Paulo,63777.0,Inglês,3,20,2005,4.0,5.0,20,Alta,Jovem
+2227,Estudos,Graduação,São Paulo,57967.0,Espanhol e Inglês,3,18,1988,3.0,4.0,37,Alta,Adulto
+2228,Estudos,Ensino Médio,São Paulo,52247.25135379061,Inglês,3,6,2004,3.0,1.0,21,Média,Jovem
+2229,Trabalho,Graduação,São Paulo,24434.0,Espanhol,4,13,1998,1.0,1.0,27,Baixa,Adulto
+2230,Trabalho,Graduação,São Bernardo,11012.0,Espanhol,3,12,2010,1.0,1.0,15,Baixa,Jovem
+2231,Viagem,Mestrado,São Paulo,44802.0,Espanhol,3,14,1996,2.0,3.0,29,Média,Adulto
+2232,Trabalho,Graduação,Campinas,26816.0,Espanhol e Inglês,3,34,2012,2.0,1.0,13,Baixa,Jovem
+2233,Trabalho,Graduação,Campinas,79146.0,Espanhol e Inglês,3,53,2003,5.0,6.0,22,Alta,Jovem
+2234,Viagem,Graduação,São Paulo,34421.0,Espanhol,4,13,2000,2.0,2.0,25,Baixa,Jovem
+2235,Trabalho,Graduação,São Paulo,60474.0,Espanhol e Inglês,4,12,1993,4.0,4.0,32,Alta,Adulto
+2237,Viagem,Graduação,São Paulo,56981.0,Espanhol e Inglês,3,1,2007,3.0,4.0,18,Alta,Jovem
+2238,Trabalho,Mestrado,São Paulo,69245.0,Inglês,4,14,1982,3.0,5.0,43,Alta,Sênior
+2239,Outros,Doutorado,São Paulo,55085.5,Inglês,3,30,1980,3.0,4.0,45,Alta,Sênior
